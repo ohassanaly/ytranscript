@@ -1,0 +1,4266 @@
+[
+  {
+    "title": "Snowflake Postgres In 2 Minutes: Fully Managed Postgres On Snowflake",
+    "url": "https://www.youtube.com/watch?v=HhzpDM36Pzg"
+  },
+  {
+    "title": "Behind The Cape - Snowflake Apache Iceberg  and Polaris",
+    "url": "https://www.youtube.com/watch?v=glDWNpHX8g4"
+  },
+  {
+    "title": "[LIVE] Vibe Code Data Apps - Part 2",
+    "url": "https://www.youtube.com/watch?v=vnxHrD7VNp0"
+  },
+  {
+    "title": "AWS S3 Tables To Snowflake Using Zero-ETL Iceberg Integration",
+    "url": "https://www.youtube.com/watch?v=iWAA7KprbpI"
+  },
+  {
+    "title": "Snowflake Intelligence in Action: AI Agent Implementation with adesso",
+    "url": "https://www.youtube.com/watch?v=sY7_whjeyf0"
+  },
+  {
+    "title": "[LIVE] Build Autonomous Lakehouse Pipelines with Dynamic Tables & Apache Iceberg",
+    "url": "https://www.youtube.com/watch?v=cmT9_Tc6AF4"
+  },
+  {
+    "title": "Introducing the 2026 Snowflake Data Superheroes!",
+    "url": "https://www.youtube.com/watch?v=bLmXh36FbUo"
+  },
+  {
+    "title": "SAP And Snowflake Zero Copy Integration Product Demo",
+    "url": "https://www.youtube.com/watch?v=S5WdT6LgNN0"
+  },
+  {
+    "title": "Keyless GitHub OIDC Auth With Snowflake Workload Identity Federation",
+    "url": "https://www.youtube.com/watch?v=l9MisysRVZU"
+  },
+  {
+    "title": "Learn about all the capabilities that Snowflake Cortex AI can do #ai #analytics #snowflake",
+    "url": "https://www.youtube.com/watch?v=E6c_2B1KxT0"
+  },
+  {
+    "title": "What is Snowflake? Why Developers Love It (2026)",
+    "url": "https://www.youtube.com/watch?v=Nq0W98Y5EMQ"
+  },
+  {
+    "title": "Did you know you can extract data from images using Snowflake Cortex AI? #ai #snowflake",
+    "url": "https://www.youtube.com/watch?v=2R6UfaNrD8I"
+  },
+  {
+    "title": "What is Snowflake Openflow? #snowflake #dataengineering",
+    "url": "https://www.youtube.com/watch?v=KKs39D-BFyM"
+  },
+  {
+    "title": "[LIVE] Vibe Code Data Apps with Replit + Snowflake",
+    "url": "https://www.youtube.com/watch?v=QrkbCM9bZ-I"
+  },
+  {
+    "title": "[LIVE] Use Snowflake SQL to find a needle in a haystack",
+    "url": "https://www.youtube.com/watch?v=va3p5s-r4rg"
+  },
+  {
+    "title": "Build an Open Lakehouse with Snowflake and Microsoft OneLake",
+    "url": "https://www.youtube.com/watch?v=pCOAiBPgnrA"
+  },
+  {
+    "title": "Everyone should learn to code. Watch the full conversation over on @SnowflakeInc  #ai",
+    "url": "https://www.youtube.com/watch?v=SzZOOAxzKdE"
+  },
+  {
+    "title": "Andrew Ng's advice for future developers in the world of AI #andrewng #ai",
+    "url": "https://www.youtube.com/watch?v=12_GZ1r3Bs0"
+  },
+  {
+    "title": "An Overview Of The Features of Apache Polaris (Incubating) 1.3",
+    "url": "https://www.youtube.com/watch?v=F3E-Z1NYfhA"
+  },
+  {
+    "title": "Snowflake BUILD London 2026",
+    "url": "https://www.youtube.com/watch?v=WOLGCPCbFAQ"
+  },
+  {
+    "title": "AI Agents For Querying PostGIS",
+    "url": "https://www.youtube.com/watch?v=FxqFEx-JdJw"
+  },
+  {
+    "title": "Linear Referencing Using PostGIS",
+    "url": "https://www.youtube.com/watch?v=EEeHX65p-ak"
+  },
+  {
+    "title": "Building Agentic Experiences With PostGIS And CARTO In Snowflake",
+    "url": "https://www.youtube.com/watch?v=CHJyVKJrigs"
+  },
+  {
+    "title": "QGIS Cartography Tips And Tricks",
+    "url": "https://www.youtube.com/watch?v=-1M-ge2pLzg"
+  },
+  {
+    "title": "How State Farm Uses PostGIS",
+    "url": "https://www.youtube.com/watch?v=bOFcq_qQBxo"
+  },
+  {
+    "title": "PostGIS: Spatial, Special, And Something Else",
+    "url": "https://www.youtube.com/watch?v=3YDSV2S-eAA"
+  },
+  {
+    "title": "Service-Oriented Isochrone Mapping With PostGIS And PGRouting",
+    "url": "https://www.youtube.com/watch?v=UdQVRTUAhRc"
+  },
+  {
+    "title": "Getting OpenStreetMap Data In PostGIS With osm2pgsql",
+    "url": "https://www.youtube.com/watch?v=oFg3nh3hZ7I"
+  },
+  {
+    "title": "The Power Of PostGIS And Apache Sedona",
+    "url": "https://www.youtube.com/watch?v=b66yr1CtB4c"
+  },
+  {
+    "title": "Your Dorky Spatial Database is My Magic Answer Machine",
+    "url": "https://www.youtube.com/watch?v=kNFyLdNzvGg"
+  },
+  {
+    "title": "PostGIS In the Age Of AI: Teaching Claude To Think Spatially",
+    "url": "https://www.youtube.com/watch?v=jv7O0a5YKgg"
+  },
+  {
+    "title": "Optimizing Sales Distribution and Routing with PostGIS: A Case Study from Kenya’s GSM Network",
+    "url": "https://www.youtube.com/watch?v=P58b50_MQNI"
+  },
+  {
+    "title": "Hexagonal Thinking: Managing Climate Datasets In PostGIS",
+    "url": "https://www.youtube.com/watch?v=RR-Kbj_eK2U"
+  },
+  {
+    "title": "Innovate With PostGIS: If You Do What Other People Do, You Get What Other People Get",
+    "url": "https://www.youtube.com/watch?v=F1XLowasV_A"
+  },
+  {
+    "title": "Snowflake And PostGIS Together",
+    "url": "https://www.youtube.com/watch?v=zTGaWmkXyu4"
+  },
+  {
+    "title": "PostGIS Topology: Strengths And Weaknesses",
+    "url": "https://www.youtube.com/watch?v=ITPwFyk94Gk"
+  },
+  {
+    "title": "Working With Geospatial EmbeddingsWwith PostGIS And PGVector",
+    "url": "https://www.youtube.com/watch?v=-Pd_yV738mg"
+  },
+  {
+    "title": "PostGIS: The Spatial Engine Of IGN For Two Decades",
+    "url": "https://www.youtube.com/watch?v=YrrGNWo-G8o"
+  },
+  {
+    "title": "Processing The World With H3 And PostGIS",
+    "url": "https://www.youtube.com/watch?v=ie-1nImu_70"
+  },
+  {
+    "title": "Exposing PostGIS Data With OGC Standards",
+    "url": "https://www.youtube.com/watch?v=NHJb44RjCWs"
+  },
+  {
+    "title": "What's \"New\" in PostGIS",
+    "url": "https://www.youtube.com/watch?v=KDlB-PZqnlU"
+  },
+  {
+    "title": "How to deliver end-to-end data observability on Snowflake",
+    "url": "https://www.youtube.com/watch?v=qi3H0XJkGWs"
+  },
+  {
+    "title": "MLOps In Snowflake: From Development To Deployment",
+    "url": "https://www.youtube.com/watch?v=Qz9AmhRFf18"
+  },
+  {
+    "title": "[LIVE] Supercharge AI Agents & Apps - Snowflake Interactive Analytics",
+    "url": "https://www.youtube.com/watch?v=IdEGplqX4ls"
+  },
+  {
+    "title": "Smart SAS Converter: Build, Migrate, Modernize",
+    "url": "https://www.youtube.com/watch?v=4RSxNCx29dE"
+  },
+  {
+    "title": "Building Data Analytics Agent For CSV Data On Streamlit",
+    "url": "https://www.youtube.com/watch?v=4PnFGbWCBFk"
+  },
+  {
+    "title": "Snowflake Anomaly Detection: Detect Outliers in Time-Series Data with ML",
+    "url": "https://www.youtube.com/watch?v=OfOcpg2GGeg"
+  },
+  {
+    "title": "pg_lake: An Open Source Postgres Extension For Geospatial Object Storage",
+    "url": "https://www.youtube.com/watch?v=zqT1GP5cTyg"
+  },
+  {
+    "title": "AI Insights: An AI Agent That Generates Insights From Adobe DX Product Engagement Data",
+    "url": "https://www.youtube.com/watch?v=ULOr_2qCeHg"
+  },
+  {
+    "title": "Inside The Open Source Snowflake AI Toolkit: AI Innovation In The Data Cloud",
+    "url": "https://www.youtube.com/watch?v=t3iCYTtdKgg"
+  },
+  {
+    "title": "Snowflake Document AI Tutorial: Turn Unstructured Documents into Structured Data",
+    "url": "https://www.youtube.com/watch?v=BuVrxMfmVFE"
+  },
+  {
+    "title": "Behind the Cape | Data Modeling With Snowflake",
+    "url": "https://www.youtube.com/watch?v=vbty00X-do4"
+  },
+  {
+    "title": "Reimagine ML with New Snowflake Notebooks in Workspaces",
+    "url": "https://www.youtube.com/watch?v=_kFhFIvnIrQ"
+  },
+  {
+    "title": "Launch Faster, Scale Smarter: Build Your Next Intelligent App On The AI Data Cloud",
+    "url": "https://www.youtube.com/watch?v=Jqc5qLv_0M8"
+  },
+  {
+    "title": "LangGraph And Snowflake Cortex AI: Exploring Multi-Agentic Workflows",
+    "url": "https://www.youtube.com/watch?v=LsanBaHbCvE"
+  },
+  {
+    "title": "From Dev To Production: Why ML Teams Are Migrating To Snowflake",
+    "url": "https://www.youtube.com/watch?v=zFJNHovVPpo"
+  },
+  {
+    "title": "HubSpot & Snowflake: Turn Data Into Actionable Insights",
+    "url": "https://www.youtube.com/watch?v=vgZCtwo1NCw"
+  },
+  {
+    "title": "Evaluation Of Label Extraction From Medical Reports Using Snowflake And LLM Integration",
+    "url": "https://www.youtube.com/watch?v=9j-480mlXEk"
+  },
+  {
+    "title": "How To Query On-Prem Iceberg Data From Snowflake Without Copying It",
+    "url": "https://www.youtube.com/watch?v=9jj__YvnDKA"
+  },
+  {
+    "title": "How To Run Existing Spark Code Directly On Snowflake With Snowpark Connect",
+    "url": "https://www.youtube.com/watch?v=aENolfHIvLI"
+  },
+  {
+    "title": "Building Your First End-to-End Machine Learning Project From Scratch",
+    "url": "https://www.youtube.com/watch?v=fKHyTLOHcgQ"
+  },
+  {
+    "title": "Predictive Decision Intelligence With Cortex Agents And Kumo AI’s Relational Foundation Model",
+    "url": "https://www.youtube.com/watch?v=PyKrC7jFf7M"
+  },
+  {
+    "title": "Build A Cross-Platform Agentic App With Dataiku",
+    "url": "https://www.youtube.com/watch?v=TfrXTHT6SqQ"
+  },
+  {
+    "title": "Lights, Camera, Action: Snowflake Intelligence",
+    "url": "https://www.youtube.com/watch?v=h6pWjRHY-Jk"
+  },
+  {
+    "title": "Transform Unstructured Data From A Complex Challenge Into Competitive Advantage",
+    "url": "https://www.youtube.com/watch?v=5tsrOMHgb1o"
+  },
+  {
+    "title": "Behind The Cape | Becoming A Data Superhero",
+    "url": "https://www.youtube.com/watch?v=uri2d4xABHE"
+  },
+  {
+    "title": "From Pandas To Production: Scalable ML Pipelines With Distributed Processing From Any IDE",
+    "url": "https://www.youtube.com/watch?v=Wgv0mllaOfo"
+  },
+  {
+    "title": "FinOps Meets Agents: Automating Cloud Cost Intelligence In Snowflake With GenAI",
+    "url": "https://www.youtube.com/watch?v=JMHOt0w4f-U"
+  },
+  {
+    "title": "Unlock The Power Of AI Agents With Snowflake And Microsoft Copilot Apps",
+    "url": "https://www.youtube.com/watch?v=IAW0ZjqCejE"
+  },
+  {
+    "title": "Closing Documentation Gaps With AI Agents",
+    "url": "https://www.youtube.com/watch?v=dGWHhf8KKHM"
+  },
+  {
+    "title": "Voice2SQL: Build Semantic Views Faster With Your Voice And Snowflake AI",
+    "url": "https://www.youtube.com/watch?v=P0Wr-9tEAp0"
+  },
+  {
+    "title": "Build Agent-Powered Workflows With Snowflake Cortex AI And Managed MCP Servers",
+    "url": "https://www.youtube.com/watch?v=VZznPnKQvPg"
+  },
+  {
+    "title": "Faster Data Transfer With ADBC",
+    "url": "https://www.youtube.com/watch?v=RG8anOUE3LY"
+  },
+  {
+    "title": "Intro to PostGIS Day",
+    "url": "https://www.youtube.com/watch?v=wuNO_cW2g-0"
+  },
+  {
+    "title": "Optimizing Llama On Snowflake: A Cookbook For Performance, Cost, And Architecture",
+    "url": "https://www.youtube.com/watch?v=354TG2M5BU8"
+  },
+  {
+    "title": "Building Agentic Workflows Using The dbt MCP Server And Snowflake",
+    "url": "https://www.youtube.com/watch?v=3ue9c0Jn7G0"
+  },
+  {
+    "title": "Create Openflow Snowflake Deployment",
+    "url": "https://www.youtube.com/watch?v=f4htgv0LLHI"
+  },
+  {
+    "title": "How To Build, Deploy And Manage Agents At Scale",
+    "url": "https://www.youtube.com/watch?v=SUoIVtewSII"
+  },
+  {
+    "title": "Sub-Second Analytics With Snowflake's New Interactive Tables And Warehouses",
+    "url": "https://www.youtube.com/watch?v=ZaG2N0-JOG8"
+  },
+  {
+    "title": "The Snowflake Way: Opinionated Migrations From ETL To Analytics With SnowConvert AI",
+    "url": "https://www.youtube.com/watch?v=qVe5ft9l6iY"
+  },
+  {
+    "title": "Unleashing The Power Of Snowflake Openflow: A Native Framework For End-to-End Data Ingestion",
+    "url": "https://www.youtube.com/watch?v=w8Qe7FLQM2c"
+  },
+  {
+    "title": "Build The Enterprise Lakehouse With Apache Iceberg",
+    "url": "https://www.youtube.com/watch?v=Y214SdJJfq4"
+  },
+  {
+    "title": "Build Production-Grade, AI-Ready Data Pipelines In Snowflake Data Engineering Bootcamp",
+    "url": "https://www.youtube.com/watch?v=JPM7iim7WRk"
+  },
+  {
+    "title": "Next-Gen Snowpipe Streaming Architecture",
+    "url": "https://www.youtube.com/watch?v=_RJtGrgGGU0"
+  },
+  {
+    "title": "Time Series Forecasting Made Easy With Snowflake ML",
+    "url": "https://www.youtube.com/watch?v=SQDwHKy5wqs"
+  },
+  {
+    "title": "Robust Text To SQL With Open Source Arctic Models",
+    "url": "https://www.youtube.com/watch?v=8Hpysq1DN0Y"
+  },
+  {
+    "title": "Stop Measuring LLM Accuracy, Start Building Context",
+    "url": "https://www.youtube.com/watch?v=reV2HIms6sY"
+  },
+  {
+    "title": "Postgres + AI: A RAGs to riches story",
+    "url": "https://www.youtube.com/watch?v=t2vDHOuL5iM"
+  },
+  {
+    "title": "Snowflake's Unified Platform Seamlessly Integrates Openflow For Slack, dbt Projects,  And AISQL",
+    "url": "https://www.youtube.com/watch?v=O-cLB1qjLx0"
+  },
+  {
+    "title": "How To Build And Deploy SQL Pipelines Using Snowflake Workspaces And Git",
+    "url": "https://www.youtube.com/watch?v=pDJV3LpDf9I"
+  },
+  {
+    "title": "Snowflake Cortex AI SQL: Extracting Insights From Multimodal Customer Service Data | AI Bootcamp",
+    "url": "https://www.youtube.com/watch?v=ztLylokOBjs"
+  },
+  {
+    "title": "Snowflake Delta Lake Direct: Access Delta Tables As Iceberg",
+    "url": "https://www.youtube.com/watch?v=UhpDm6CZyyM"
+  },
+  {
+    "title": "Productionize dbt Projects On Snowflake: A Practical Guide",
+    "url": "https://www.youtube.com/watch?v=qC4e0nX4Hyw"
+  },
+  {
+    "title": "Snowflake Managed MCP Server For Enterprise AI",
+    "url": "https://www.youtube.com/watch?v=8nhgoajIUyc"
+  },
+  {
+    "title": "AI Governance And Iceberg Interoperability With Snowflake Horizon Catalog",
+    "url": "https://www.youtube.com/watch?v=xHY9bqZEQZU"
+  },
+  {
+    "title": "Unlocking The Power Of Your Data With Snowflake Intelligence",
+    "url": "https://www.youtube.com/watch?v=yYbHnScqZyw"
+  },
+  {
+    "title": "Building AI-Powered Pipelines: A Deep Dive Into Snowflake Openflow With Unstructured Data",
+    "url": "https://www.youtube.com/watch?v=OppviELbrz8"
+  },
+  {
+    "title": "What's New: Next Generation Data Products",
+    "url": "https://www.youtube.com/watch?v=SGJLL0dFfws"
+  },
+  {
+    "title": "[LIVE] Next-Gen Snowpipe Streaming: Instant Data for Real-Time Analytics",
+    "url": "https://www.youtube.com/watch?v=u9v4s0R9-KE"
+  },
+  {
+    "title": "What's New In Snowsight: Your Home Base For Data Work",
+    "url": "https://www.youtube.com/watch?v=-cO6UaUXOz8"
+  },
+  {
+    "title": "Snowflake Python Profiler For Stored Procedures",
+    "url": "https://www.youtube.com/watch?v=-E3acN7V5oA"
+  },
+  {
+    "title": "A Global Search For Snowflake Data Superheroes",
+    "url": "https://www.youtube.com/watch?v=_lN43v8GB00"
+  },
+  {
+    "title": "Redefining Developer Experience In The Age Of AI | BUILD 2025 Luminary Talk",
+    "url": "https://www.youtube.com/watch?v=57WVqOkXEIg"
+  },
+  {
+    "title": "From Vibes to Production: The Art, Discipline, and Pitfalls of Vibe Coding | BUILD 2025",
+    "url": "https://www.youtube.com/watch?v=gGRPLuOrK_w"
+  },
+  {
+    "title": "Deliver AI Impact at Scale | BUILD 2025 Keynote",
+    "url": "https://www.youtube.com/watch?v=olZywegneHM"
+  },
+  {
+    "title": "Getting Started With SnowConvert AI",
+    "url": "https://www.youtube.com/watch?v=ZxSk7gld_mw"
+  },
+  {
+    "title": "Getting Started With Shared Workspaces in Snowflake",
+    "url": "https://www.youtube.com/watch?v=e3snAYiRdCw"
+  },
+  {
+    "title": "Single Agent Vs. Multi-Agent Systems in AI | How To Choose The Right Architecture",
+    "url": "https://www.youtube.com/watch?v=2lTFI6FAqhk"
+  },
+  {
+    "title": "Behind the Cape | Snowflake Intelligence Discussion With Data Superheroes",
+    "url": "https://www.youtube.com/watch?v=E2eWX1RSgJg"
+  },
+  {
+    "title": "Integrate Your Data Lakehouse with Postgres Using pg_lake",
+    "url": "https://www.youtube.com/watch?v=ReOYXSsE7r8"
+  },
+  {
+    "title": "Accelerated LLM Inference With Apache Spark At Scale",
+    "url": "https://www.youtube.com/watch?v=RgOCJldvegA"
+  },
+  {
+    "title": "MCP, Unstructured Data And Model Hosting In Apache Polaris (Incubating)",
+    "url": "https://www.youtube.com/watch?v=Rt1BbfHTbGs"
+  },
+  {
+    "title": "Data-Centric AI With Apache Flink SQL",
+    "url": "https://www.youtube.com/watch?v=kSLCYB7EUuk"
+  },
+  {
+    "title": "Apache Iceberg For The AI-Ready Lakehouse",
+    "url": "https://www.youtube.com/watch?v=jAeeq7yWFog"
+  },
+  {
+    "title": "Scaling Apache Spark At OpenAI",
+    "url": "https://www.youtube.com/watch?v=45WHy2w2lOo"
+  },
+  {
+    "title": "Column Storage For The AI Era",
+    "url": "https://www.youtube.com/watch?v=S_aoc9dExqA"
+  },
+  {
+    "title": "[LIVE] Replicate CDC from Oracle to Snowflake via Openflow",
+    "url": "https://www.youtube.com/watch?v=2SbJm-krusI"
+  },
+  {
+    "title": "Unlock the Power Of Your Documents With Snowflake Document AI",
+    "url": "https://www.youtube.com/watch?v=bvFn00mPRnw"
+  },
+  {
+    "title": "An Overview Of The Apache Polaris (incubating) 1.2 Release",
+    "url": "https://www.youtube.com/watch?v=RlyRPHAGQ1s"
+  },
+  {
+    "title": "[LIVE] OceanX Voyage:  Snowflake in the middle of the Ocean",
+    "url": "https://www.youtube.com/watch?v=OV-kP9ZhZ74"
+  },
+  {
+    "title": "Getting Started With Open Format Data Sharing",
+    "url": "https://www.youtube.com/watch?v=4tddLlyScuY"
+  },
+  {
+    "title": "[LIVE] Sensitive data is Secure in Snowflake",
+    "url": "https://www.youtube.com/watch?v=ygH94xm5ZXE"
+  },
+  {
+    "title": "The Power Of LLM Matching Solutions: Chunking, Embeddings, And Similarity Metrics Explained",
+    "url": "https://www.youtube.com/watch?v=8rzNbJO1TN4"
+  },
+  {
+    "title": "[LIVE] Build a Connected and Governed Lakehouse",
+    "url": "https://www.youtube.com/watch?v=3X46VW2o1zA"
+  },
+  {
+    "title": "Getting Started With Snowflake Openflow | First Look At How Adesso Uses Openflow",
+    "url": "https://www.youtube.com/watch?v=EifXoWUsreA"
+  },
+  {
+    "title": "Highlight Moments From Day 2 Of The Grand Opening Of The Silicon Valley AI Hub",
+    "url": "https://www.youtube.com/watch?v=Bw-ngEPa9sg"
+  },
+  {
+    "title": "SVAI Hub Grand Opening",
+    "url": "https://www.youtube.com/watch?v=aK0EnhJBHHc"
+  },
+  {
+    "title": "Inside the Silicon Valley AI Hub Grand Opening: Startups, AI Luminaries & a $20K Hackathon",
+    "url": "https://www.youtube.com/watch?v=EGlZt2SPvSU"
+  },
+  {
+    "title": "A new era of SQL development in Snowflake with Workspaces",
+    "url": "https://www.youtube.com/watch?v=InEO3mWj_S8"
+  },
+  {
+    "title": "OpenFlow BYOC AWS Deployment - Part 3: Create Runtime",
+    "url": "https://www.youtube.com/watch?v=cazguRLI3y0"
+  },
+  {
+    "title": "Inside The Inaugural SVAI Hub Hackathon",
+    "url": "https://www.youtube.com/watch?v=woL6K6oGBTg"
+  },
+  {
+    "title": "Immutable Snapshots For SEC, FINRA, CFTC Compliance",
+    "url": "https://www.youtube.com/watch?v=aLRqkfn1HGk"
+  },
+  {
+    "title": "Using Replication And Failover Groups In Snowflake",
+    "url": "https://www.youtube.com/watch?v=LFZhFbnQZiQ"
+  },
+  {
+    "title": "Native App With Snowpark Container Service",
+    "url": "https://www.youtube.com/watch?v=KxhUmmEEqa8"
+  },
+  {
+    "title": "Unlocking the Power of Snowpark Connect for Spark Developers",
+    "url": "https://www.youtube.com/watch?v=LIEb75mcgLI"
+  },
+  {
+    "title": "Building A Native App With Streamlit UI",
+    "url": "https://www.youtube.com/watch?v=eeNSj-UbUkY"
+  },
+  {
+    "title": "Streamlit App Using Cortex Search Service",
+    "url": "https://www.youtube.com/watch?v=zbg6R1vWDhg"
+  },
+  {
+    "title": "Contract Intelligence: SoFi's Contract Search Solution",
+    "url": "https://www.youtube.com/watch?v=FO2nPq69CiM"
+  },
+  {
+    "title": "Extracting Actionable Electronic Health Record Insights With Cortex AI",
+    "url": "https://www.youtube.com/watch?v=r1r8bCpU5O8"
+  },
+  {
+    "title": "Unlocking the Power of Dynamic Tables in Snowflake",
+    "url": "https://www.youtube.com/watch?v=gdkwfgkB7JY"
+  },
+  {
+    "title": "Digital Twins Reimagined: A Knowledge Graph AI Approach to Network Analysis",
+    "url": "https://www.youtube.com/watch?v=77XH4rEUc14"
+  },
+  {
+    "title": "Building Scalable Asynchronous Event-Driven Apps: A Framework-Agnostic Approach",
+    "url": "https://www.youtube.com/watch?v=aoImYFi-P4Y"
+  },
+  {
+    "title": "Enterprise-Ready Analytics And AI For Your Lakehouse",
+    "url": "https://www.youtube.com/watch?v=VXmaUBh5asU"
+  },
+  {
+    "title": "Find My Data: Chatbot Powered By Streamlit",
+    "url": "https://www.youtube.com/watch?v=bcgfs78Gv-0"
+  },
+  {
+    "title": "OpenFlow BYOC AWS Deployment | CloudFormation (Part 2 of 3)",
+    "url": "https://www.youtube.com/watch?v=317Fedk_4FQ"
+  },
+  {
+    "title": "Next-Generation Data Operations And Insights With Cortex Analyst And Slack",
+    "url": "https://www.youtube.com/watch?v=joJPzY4AlSs"
+  },
+  {
+    "title": "Demo | Snowflake Native App With Transcoding Procedure And UDF",
+    "url": "https://www.youtube.com/watch?v=3La3UdkgcC8"
+  },
+  {
+    "title": "Mastering Data Engineering Migration To Snowflake",
+    "url": "https://www.youtube.com/watch?v=hUBIvYsnGnE"
+  },
+  {
+    "title": "Legacy To Snowflake: How To Avoid Failing Your Data Warehouse Migration",
+    "url": "https://www.youtube.com/watch?v=NO-qxVVedMM"
+  },
+  {
+    "title": "AI Compliance Copilot: Automating Regulatory Search With Snowflake Cortex AI",
+    "url": "https://www.youtube.com/watch?v=kOLTSvrDe60"
+  },
+  {
+    "title": "An Overview Of The Apache Polaris (incubating) 1.1 Release",
+    "url": "https://www.youtube.com/watch?v=XqzcVgOjXdM"
+  },
+  {
+    "title": "[LIVE] Build Expressive Data Pipelines in Dynamic Tables",
+    "url": "https://www.youtube.com/watch?v=0Ak2Lg62Fvs"
+  },
+  {
+    "title": "How AI Agents are Transforming Data Products for Better Insights",
+    "url": "https://www.youtube.com/watch?v=EaglFkJwr9g"
+  },
+  {
+    "title": "Transforming Data with dbt: What You Need to Know",
+    "url": "https://www.youtube.com/watch?v=LM_cMkzaWHU"
+  },
+  {
+    "title": "Best Practices for Organizing Your dbt Projects",
+    "url": "https://www.youtube.com/watch?v=NXapJ2JAq-4"
+  },
+  {
+    "title": "Behind The Cape | Working With dbt Projects Directly In Snowflake",
+    "url": "https://www.youtube.com/watch?v=3R6PrWBf7CM"
+  },
+  {
+    "title": "AI Chatbots: Scaling From Prototype To Products With Snowflake Cortex LLMs",
+    "url": "https://www.youtube.com/watch?v=6j6AyZNdj1s"
+  },
+  {
+    "title": "From Natural Language To Python: Advanced AI Data Analysis In Snowflake",
+    "url": "https://www.youtube.com/watch?v=8tBZ7ChYkvo"
+  },
+  {
+    "title": "OpenFlow BYOC AWS Deployment | Initial Setup (Part 1 of 3)",
+    "url": "https://www.youtube.com/watch?v=iTZD8WtHt2o"
+  },
+  {
+    "title": "Applying DevOps Principles In Data Warehouse Creation",
+    "url": "https://www.youtube.com/watch?v=dQn0vbppWLw"
+  },
+  {
+    "title": "Hurricane Response With Cortex AI: How TECO Restored Power To 600,000 Homes",
+    "url": "https://www.youtube.com/watch?v=YnW8apdsFF8"
+  },
+  {
+    "title": "[LIVE] Deep Dive into Operationizing dbt Projects",
+    "url": "https://www.youtube.com/watch?v=PUuJtf_WKYo"
+  },
+  {
+    "title": "This is Where AI Happens: A First Look At The Silicon Valley AI Hub",
+    "url": "https://www.youtube.com/watch?v=_cXoFk2M9ME"
+  },
+  {
+    "title": "Introducing Snowflake Cortex Analyst",
+    "url": "https://www.youtube.com/watch?v=ouBbxRQfVgs"
+  },
+  {
+    "title": "Cortex AI And Streamlit: A Perfect Match For Data Analysts",
+    "url": "https://www.youtube.com/watch?v=49vJRrZxVw4"
+  },
+  {
+    "title": "ZeroOps For Data Engineers: The Future Of Data Engineering",
+    "url": "https://www.youtube.com/watch?v=d9K1TuR7WGs"
+  },
+  {
+    "title": "An Overview of the Apache Iceberg 1.10 Release",
+    "url": "https://www.youtube.com/watch?v=7BLoAkrA-h4"
+  },
+  {
+    "title": "Next-Gen Data Science Workflows With Snowflake And Posit",
+    "url": "https://www.youtube.com/watch?v=Bv7ZuIU529E"
+  },
+  {
+    "title": "The Essential Characteristics of Effective Data Products",
+    "url": "https://www.youtube.com/watch?v=oWTjWMN4KnI"
+  },
+  {
+    "title": "How to Track All Your Data Pipeline Events in Snowflake",
+    "url": "https://www.youtube.com/watch?v=bNi5BaUQNqA"
+  },
+  {
+    "title": "Simplify AI For Your Data Pipelines With Cortex AISQL",
+    "url": "https://www.youtube.com/watch?v=STJ-qXdTcu4"
+  },
+  {
+    "title": "WHOOP Powers Collaboration With Snowflake",
+    "url": "https://www.youtube.com/watch?v=gx76Y5bYOqM"
+  },
+  {
+    "title": "How The Snowflake Accelerator Is Helping Startups",
+    "url": "https://www.youtube.com/watch?v=FGTHhAuNJj4"
+  },
+  {
+    "title": "Behind the Cape | Exploring Snowflake's Agentic AI Advantage",
+    "url": "https://www.youtube.com/watch?v=5UHKJAV481Y"
+  },
+  {
+    "title": "How Coinbase Developed An End-To-End Platform On Snowflake",
+    "url": "https://www.youtube.com/watch?v=zuqQCKR4sHs"
+  },
+  {
+    "title": "Deploy Accurate Conversational Apps In Cortex AI With AI Data Agents",
+    "url": "https://www.youtube.com/watch?v=cTK_rEPlY40"
+  },
+  {
+    "title": "Using Snowflake Public Data Products With Snowflake Cortex | SEC Tariff Sentiment",
+    "url": "https://www.youtube.com/watch?v=scmY5at0Fig"
+  },
+  {
+    "title": "Empowering Users With A Streamlit Code Generator App",
+    "url": "https://www.youtube.com/watch?v=v8sp5fvSorg"
+  },
+  {
+    "title": "How Scene+ Speeds Up Data Science With Snowflake ML",
+    "url": "https://www.youtube.com/watch?v=fJ2CIFZ_gDY"
+  },
+  {
+    "title": "Toyota Motor Europes' Petabyte-Scale Connected Car Journey",
+    "url": "https://www.youtube.com/watch?v=RkACJgk_Mcs"
+  },
+  {
+    "title": "[LIVE] Build and Share AI-Ready Data Products",
+    "url": "https://www.youtube.com/watch?v=Z2m2Ku6i8ks"
+  },
+  {
+    "title": "Ohio Bureau Of Workers' Compensation: Scalable RAG-based Policy Assistant",
+    "url": "https://www.youtube.com/watch?v=BCSNMIVkd6E"
+  },
+  {
+    "title": "Silos To Symphony: Spotify's Journey With Data Lineage At Scale",
+    "url": "https://www.youtube.com/watch?v=A-0RFqyY9WQ"
+  },
+  {
+    "title": "Making The Most Of Generative AI In Snowflake: A Live Prompt Engineering Demo",
+    "url": "https://www.youtube.com/watch?v=VVkXoyotU5g"
+  },
+  {
+    "title": "What's New: Why You Should Migrate Your ML Pipelines To Snowflake ML",
+    "url": "https://www.youtube.com/watch?v=5VDuNHg3q1c"
+  },
+  {
+    "title": "pandas On Snowflake 101: How To Work With Python Data In Snowflake",
+    "url": "https://www.youtube.com/watch?v=p9eX0QQGiZE"
+  },
+  {
+    "title": "Thomson Reuters Builds Scalable, Efficient, And Secure AI Agentic Workflows",
+    "url": "https://www.youtube.com/watch?v=wPfBff5G0k8"
+  },
+  {
+    "title": "How Block is Making Data Human: Democratizing Insights With Streamlit And Agentic AI",
+    "url": "https://www.youtube.com/watch?v=JyA26c-9Zt0"
+  },
+  {
+    "title": "Don't Vibe Check Your LLMs! Observability And Evaluations For GenAI Applications",
+    "url": "https://www.youtube.com/watch?v=szJKSBFaMBs"
+  },
+  {
+    "title": "Rockwell's AI-Powered Maintenance Copilot: Transforming Industrial Operations",
+    "url": "https://www.youtube.com/watch?v=lJn-YYh-Eyc"
+  },
+  {
+    "title": "What's New: Scaling Data Engineering Pipelines With SQL And Python",
+    "url": "https://www.youtube.com/watch?v=RHeJ9Gyep84"
+  },
+  {
+    "title": "Implementing Automated CI/CD For Snowflake With  dbt And GitHub Actions",
+    "url": "https://www.youtube.com/watch?v=mISrvon22e8"
+  },
+  {
+    "title": "AI-Driven Processing Of Manufacturing Documents And Data With Document AI",
+    "url": "https://www.youtube.com/watch?v=CAjchjmsvIs"
+  },
+  {
+    "title": "What's New: Build, Test, And Deploy Products With Developer Tooling",
+    "url": "https://www.youtube.com/watch?v=dYjcbgyuYxo"
+  },
+  {
+    "title": "Building Cortex Agents On Snowflake: Why It Matters And Best Practices",
+    "url": "https://www.youtube.com/watch?v=WP3OtjzeheE"
+  },
+  {
+    "title": "Secure, Exabyte-Scale Lakehouse Analytics At Netflix With Iceberg And Snowflake",
+    "url": "https://www.youtube.com/watch?v=22OUoOlW8a4"
+  },
+  {
+    "title": "Scaling Ski Resort Visitor Forecasting At Alterra With Snowflake ML",
+    "url": "https://www.youtube.com/watch?v=ZeIztnKFP7I"
+  },
+  {
+    "title": "Learn How To Level Up Your SQL Experience With Workspaces",
+    "url": "https://www.youtube.com/watch?v=ogyVINhva8w"
+  },
+  {
+    "title": "How NIB Used Snowflake Cortex AI To Reduce Noise And Manual Work",
+    "url": "https://www.youtube.com/watch?v=ItewChEfpDY"
+  },
+  {
+    "title": "What's New: Building A Better Enterprise Lakehouse",
+    "url": "https://www.youtube.com/watch?v=sK63gRP9f8k"
+  },
+  {
+    "title": "WHOOP Genie: Chat Application For Enterprise Data",
+    "url": "https://www.youtube.com/watch?v=gjlNtBaaxNo"
+  },
+  {
+    "title": "How To Boost Developer Productivity With Automated Testing For Stored Procedures",
+    "url": "https://www.youtube.com/watch?v=ZiiPayQN328"
+  },
+  {
+    "title": "Sequencing The Student Genome: Modeling Click-Level Behaviors In Snowflake ML",
+    "url": "https://www.youtube.com/watch?v=J9UOzkE4paU"
+  },
+  {
+    "title": "Building Streaming Pipelines With Snowflake Openflow",
+    "url": "https://www.youtube.com/watch?v=T7dk4EF9--I"
+  },
+  {
+    "title": "Best Practices For Cost-Effective Development And Deployment On Snowflake ML",
+    "url": "https://www.youtube.com/watch?v=Wr2eatgTdR0"
+  },
+  {
+    "title": "How To Build Data Pipelines For Apache Iceberg With Dynamic Tables",
+    "url": "https://www.youtube.com/watch?v=Gi9r7_oddjM"
+  },
+  {
+    "title": "Driving Toyota’s Digital Transformation With Snowflake Cortex AI And Document AI",
+    "url": "https://www.youtube.com/watch?v=cX4LRUZDuwc"
+  },
+  {
+    "title": "Build A Next-Gen Open Security And Observability Iceberg Data Lake",
+    "url": "https://www.youtube.com/watch?v=a5E36QD7gqg"
+  },
+  {
+    "title": "Delivering On-demand Metrics With Cortex Analytics",
+    "url": "https://www.youtube.com/watch?v=shS8ATwd5i0"
+  },
+  {
+    "title": "Best Practices for Building Streamlit Apps",
+    "url": "https://www.youtube.com/watch?v=sCqXieMcwDg"
+  },
+  {
+    "title": "Precision Input, Perfect Output: The Key To A High-Performing RAG Chatbot",
+    "url": "https://www.youtube.com/watch?v=8_ymnmWL9Ec"
+  },
+  {
+    "title": "How To Train Thousands Of ML Models Efficiently With Snowflake ML",
+    "url": "https://www.youtube.com/watch?v=7afEH7Zcs-s"
+  },
+  {
+    "title": "Scaling Data Science: Build And Deploy With Snowflake Cortex And Snowflake Notebook",
+    "url": "https://www.youtube.com/watch?v=m5SM6k46lVo"
+  },
+  {
+    "title": "What’s the Next AI Game Changer?",
+    "url": "https://www.youtube.com/watch?v=8pOh0YY2rQ0"
+  },
+  {
+    "title": "Easily Deploy And Orchestrate ML Pipelines Over Snowflake Data",
+    "url": "https://www.youtube.com/watch?v=zdWtpZ9kacw"
+  },
+  {
+    "title": "How Snowflake Uses Model Registry And Model Serving For Securing AI Agents",
+    "url": "https://www.youtube.com/watch?v=K0XVIaJ9gFQ"
+  },
+  {
+    "title": "Demo | OLTP Database CDC Streaming With Snowflake Openflow",
+    "url": "https://www.youtube.com/watch?v=B33ocnvjKKs"
+  },
+  {
+    "title": "From Notebook To Production: Snowflake ML Jobs Made Simple",
+    "url": "https://www.youtube.com/watch?v=WOrUbg6xEbo"
+  },
+  {
+    "title": "Unifying Transactional And Analytical Data With Unistore",
+    "url": "https://www.youtube.com/watch?v=MAnsjajfBXg"
+  },
+  {
+    "title": "How To Connect To Snowflake With Snowflake CLI",
+    "url": "https://www.youtube.com/watch?v=gGSbrtLCkvY"
+  },
+  {
+    "title": "[LIVE] Introducing Snowpark Connect for Apache Spark™",
+    "url": "https://www.youtube.com/watch?v=NH9zb78euOU"
+  },
+  {
+    "title": "Snowflake Openflow: Data Movement for AI",
+    "url": "https://www.youtube.com/watch?v=MkDAxf02Ujg"
+  },
+  {
+    "title": "Migrate Your Models For Inference In Snowflake In Under 5 Minutes",
+    "url": "https://www.youtube.com/watch?v=IerdUQNpYIo"
+  },
+  {
+    "title": "Getting Started with Snowflake: Roles And RBAC",
+    "url": "https://www.youtube.com/watch?v=W_a88Qea9lU"
+  },
+  {
+    "title": "Introducing Snowpark Connect for Apache Spark",
+    "url": "https://www.youtube.com/watch?v=GJPrdAoJB7g"
+  },
+  {
+    "title": "Get Started with Snowflake: Hands-On Introduction",
+    "url": "https://www.youtube.com/watch?v=HIff0No7wrM"
+  },
+  {
+    "title": "What Excites You About the Year Ahead?",
+    "url": "https://www.youtube.com/watch?v=qIeCuHqs0ag"
+  },
+  {
+    "title": "How Is AI Shaping The Future For SQL Users?",
+    "url": "https://www.youtube.com/watch?v=Oqi8cnrjR4s"
+  },
+  {
+    "title": "Viewing Location Data On An Interactive Map In Snowflake",
+    "url": "https://www.youtube.com/watch?v=hDbIRELQ_Kk"
+  },
+  {
+    "title": "[LIVE] Evaluate and Optimize your Gen AI Applications",
+    "url": "https://www.youtube.com/watch?v=F7D1wmRavH8"
+  },
+  {
+    "title": "How Will AI Change Everyday Work?",
+    "url": "https://www.youtube.com/watch?v=xZIzBb3p5Fk"
+  },
+  {
+    "title": "How Is Data Engineering Changing With AI",
+    "url": "https://www.youtube.com/watch?v=2NnkRIyO2Mw"
+  },
+  {
+    "title": "Behind The Cape | Intro to Openflow With Karthik Raman",
+    "url": "https://www.youtube.com/watch?v=Mw9NwFg_VHk"
+  },
+  {
+    "title": "[LIVE] A Deep Dive into the Snowpark Migration Accelerator",
+    "url": "https://www.youtube.com/watch?v=Tzohw2OU5gg"
+  },
+  {
+    "title": "Build Applications With Snowflake Cortex Knowledge Extensions From Snowflake Marketplace",
+    "url": "https://www.youtube.com/watch?v=_aBr3EZSLjc"
+  },
+  {
+    "title": "Behind the Cape | Real-World Cortex AI Applications with Anand Jha",
+    "url": "https://www.youtube.com/watch?v=kIdbOhyzdQM"
+  },
+  {
+    "title": "Enabling Trusted Data In Snowflake With Semarchy xDM",
+    "url": "https://www.youtube.com/watch?v=4j3jfoTOPgY"
+  },
+  {
+    "title": "An Overview Of The Features Of Newly Released Apache Polaris (incubating) 1.0",
+    "url": "https://www.youtube.com/watch?v=ST8Pn5k0Ip8"
+  },
+  {
+    "title": "Building Open Pipelines With Snowflake",
+    "url": "https://www.youtube.com/watch?v=lGfG8dNzB8c"
+  },
+  {
+    "title": "[LIVE] Snowpark Data Integration with Ease",
+    "url": "https://www.youtube.com/watch?v=wJFA9z_p4H4"
+  },
+  {
+    "title": "Using AI To Classify Medical Images And Extract Info From Medical Transcripts",
+    "url": "https://www.youtube.com/watch?v=7oSl_85irYw"
+  },
+  {
+    "title": "Secure Oracle To Snowflake CDC With Real-Time PII Masking Using Striim AI",
+    "url": "https://www.youtube.com/watch?v=NnIz3wqltdk"
+  },
+  {
+    "title": "Process DataFrame With Modin And Snowflake Cortex",
+    "url": "https://www.youtube.com/watch?v=9jYyQ5gDhYU"
+  },
+  {
+    "title": "How To Open A Snowflake Trial Account",
+    "url": "https://www.youtube.com/watch?v=HWargJeUaMk"
+  },
+  {
+    "title": "Behind the Cape | Exploring Snowflake Cortex AI With Karthik Raman",
+    "url": "https://www.youtube.com/watch?v=55YWp8CpjKw"
+  },
+  {
+    "title": "Precise RAG Pipelines With LlamaParse And Cortex Search",
+    "url": "https://www.youtube.com/watch?v=D1rw57cuwm8"
+  },
+  {
+    "title": "[LIVE] pandas on Snowflake Explained!",
+    "url": "https://www.youtube.com/watch?v=5uTDvY0nHZ4"
+  },
+  {
+    "title": "Demo | Different Options For Searching Logs Natively Within Snowflake",
+    "url": "https://www.youtube.com/watch?v=81qBqmUpyNQ"
+  },
+  {
+    "title": "Demo | Getting Started With Snowflake Semantic View",
+    "url": "https://www.youtube.com/watch?v=V6RshK2twis"
+  },
+  {
+    "title": "Self-Service Transformations with dbt Projects",
+    "url": "https://www.youtube.com/watch?v=Mc_EJx8MvcM"
+  },
+  {
+    "title": "Grow Your Career in Data and AI AMA",
+    "url": "https://www.youtube.com/watch?v=IMPNYRetMZA"
+  },
+  {
+    "title": "Rethinking Data in the Age of AI: Better Tools, Worse Decisions?",
+    "url": "https://www.youtube.com/watch?v=zlxjLwUHocc"
+  },
+  {
+    "title": "The Simplicity Behind AI's Revolution: Scaling Laws And The Road To Human-Level Capabilities",
+    "url": "https://www.youtube.com/watch?v=msBkzQmEahs"
+  },
+  {
+    "title": "Snowflake Postgres:  Powering Enterprise AI",
+    "url": "https://www.youtube.com/watch?v=Coj7PeCW2xc"
+  },
+  {
+    "title": "Building Production-Ready AI Agents",
+    "url": "https://www.youtube.com/watch?v=W4Zr_9XyonU"
+  },
+  {
+    "title": "Building An Agentic Future",
+    "url": "https://www.youtube.com/watch?v=haYzR3v95y8"
+  },
+  {
+    "title": "[LIVE] Are LLM Evals Hard, Flawed, or Still Useful?",
+    "url": "https://www.youtube.com/watch?v=EyRv1aCkNWI"
+  },
+  {
+    "title": "Discover the Power of OpenFlow and Its Unique Features",
+    "url": "https://www.youtube.com/watch?v=te8KCdbKaEs"
+  },
+  {
+    "title": "[LIVE] Unlock Business insights with Conversational Agents 2",
+    "url": "https://www.youtube.com/watch?v=nmXWCvBmdYk"
+  },
+  {
+    "title": "[LIVE] Unlock Business insights with Conversational Agents 1",
+    "url": "https://www.youtube.com/watch?v=X5M6PqrX5RM"
+  },
+  {
+    "title": "Navigating The AI Transformation: Understanding AI's Impact On Work And Education",
+    "url": "https://www.youtube.com/watch?v=QJTvsisV8UE"
+  },
+  {
+    "title": "Enabling Everyone To Build With AI",
+    "url": "https://www.youtube.com/watch?v=XOJ_QuriBmA"
+  },
+  {
+    "title": "Streamline Workflows with WorkSpaces",
+    "url": "https://www.youtube.com/watch?v=t_ar-HLD_zE"
+  },
+  {
+    "title": "Unlock AI SQL:Performance Gains You Can't Ignore",
+    "url": "https://www.youtube.com/watch?v=NNWDlKdr--w"
+  },
+  {
+    "title": "Data Superhero Christopher Marland at Snowflake Summit",
+    "url": "https://www.youtube.com/watch?v=soBNZHfURP0"
+  },
+  {
+    "title": "[LIVE] Unlock business insights with conversational data agents",
+    "url": "https://www.youtube.com/watch?v=hSmgG12P6bU"
+  },
+  {
+    "title": "How DataChat Executes Natural Language Queries On Snowflake",
+    "url": "https://www.youtube.com/watch?v=iXyLiQsamj0"
+  },
+  {
+    "title": "[LIVE] Reimagining SQL: Analyze multi-modal data at Scale",
+    "url": "https://www.youtube.com/watch?v=Ps9HfuvCU5Y"
+  },
+  {
+    "title": "Snowflake Summit 2025 | Conference Highlights",
+    "url": "https://www.youtube.com/watch?v=7Am8g7hJk40"
+  },
+  {
+    "title": "Snowflake Summit Day 3 Highlights",
+    "url": "https://www.youtube.com/watch?v=OQrccbZgW2Y"
+  },
+  {
+    "title": "[LIVE] Scale your data integration with confidence, ready for AI - Demo on Snowflake Openflow",
+    "url": "https://www.youtube.com/watch?v=SmZUp9yVWX8"
+  },
+  {
+    "title": "Snowflake Dev Day 2025 Highlights",
+    "url": "https://www.youtube.com/watch?v=ZMFEqIyCkuQ"
+  },
+  {
+    "title": "[LIVE] Introducing Workspaces: A Unified, Modern Development Experience",
+    "url": "https://www.youtube.com/watch?v=LOzzMj4qcaY"
+  },
+  {
+    "title": "Snowflake Summit 2025 Builders Keynote",
+    "url": "https://www.youtube.com/watch?v=slyY_JfON1Q"
+  },
+  {
+    "title": "Snowflake Summit Day 2 Highlights",
+    "url": "https://www.youtube.com/watch?v=gzwy2Tw2iPU"
+  },
+  {
+    "title": "Snowflake Summit 2025 Day 1 Highlights",
+    "url": "https://www.youtube.com/watch?v=FDc2GcDyQAc"
+  },
+  {
+    "title": "Snowflake Summit 2025",
+    "url": "https://www.youtube.com/watch?v=0Je6zEdQxIU"
+  },
+  {
+    "title": "Cortex AISQL: Query Files, Images, And Text In Snowflake With Sigma",
+    "url": "https://www.youtube.com/watch?v=InOwxVrXX5o"
+  },
+  {
+    "title": "Ask Anything, Analyze Everything: Learn How To Use AI In SQL With Hex In 5 Minutes",
+    "url": "https://www.youtube.com/watch?v=UagtXK-ueYk"
+  },
+  {
+    "title": "Feature Engineering Pipeline: Pandas, Dynamic Iceberg Table, And Cortex LLM",
+    "url": "https://www.youtube.com/watch?v=gorZiiAzr-A"
+  },
+  {
+    "title": "Running dbt Projects On Snowflake",
+    "url": "https://www.youtube.com/watch?v=w7C7OkmYPFs"
+  },
+  {
+    "title": "Leveraging Snowflake Semantic Views In Hex For Trusted Self-Service",
+    "url": "https://www.youtube.com/watch?v=wnwvONwZyjI"
+  },
+  {
+    "title": "A Demo Of Sigma's New Integration With Snowflake's Semantic Views",
+    "url": "https://www.youtube.com/watch?v=-75decD2NPg"
+  },
+  {
+    "title": "Transform Unstructured Data with Digityze AI: Seamless Document Processing for Pharma",
+    "url": "https://www.youtube.com/watch?v=ZPF08uBOk_o"
+  },
+  {
+    "title": "Build an MCP Server For Cortex Agents In Less Than 10 Minutes",
+    "url": "https://www.youtube.com/watch?v=GO_P4Iov5Gg"
+  },
+  {
+    "title": "Behind The Cape | Cortex AI Fireside Chat - Part 1",
+    "url": "https://www.youtube.com/watch?v=UW1FreyNIYY"
+  },
+  {
+    "title": "From Video Camera Feed to AI Insights: A Complete Pipeline Using LandingLens And Snowflake",
+    "url": "https://www.youtube.com/watch?v=wc9GJQPxKFQ"
+  },
+  {
+    "title": "Behind The Cape  | Superhero Tips For Making The Most Of Snowflake Summit 2025",
+    "url": "https://www.youtube.com/watch?v=7vMoQvp_0qw"
+  },
+  {
+    "title": "Extending Snowflake With Java User-Defined Functions And Stored Procedures",
+    "url": "https://www.youtube.com/watch?v=KKQ53v-JzRw"
+  },
+  {
+    "title": "What If Your Data Could Predict Defects? It Can, Thanks To QPF Running In Snowflake",
+    "url": "https://www.youtube.com/watch?v=EDuhrqQXCKs"
+  },
+  {
+    "title": "Build A LLM-powered Data Analysis App With Streamlit",
+    "url": "https://www.youtube.com/watch?v=chaYl3dRfTY"
+  },
+  {
+    "title": "Building An AI-powered Customer Review Analytics Workflow With Snowflake Cortex",
+    "url": "https://www.youtube.com/watch?v=jxHieQkG8BM"
+  },
+  {
+    "title": "Accelerating Data Science: Optimizing GPU Utilization For ML Model Training In Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=w04A_rGLJwY"
+  },
+  {
+    "title": "An Overview Of The Apache Iceberg 1.9 Release",
+    "url": "https://www.youtube.com/watch?v=T5qhqsky4mw"
+  },
+  {
+    "title": "Using The Marketing Mix Modeling (MMM) App To Maximize The Effectiveness Of Your Marketing Strategy",
+    "url": "https://www.youtube.com/watch?v=YTtJsVXDEOg"
+  },
+  {
+    "title": "Build Efficient, Trusted RAG With Arctic Embed And TruLens",
+    "url": "https://www.youtube.com/watch?v=V84mklR-97k"
+  },
+  {
+    "title": "Predicting Product Demand Using Kumo, Leveraging GNN And Relational Deep Learning",
+    "url": "https://www.youtube.com/watch?v=uJueQqBAZzM"
+  },
+  {
+    "title": "Running Split Tests Natively With The Winning Variant Native App",
+    "url": "https://www.youtube.com/watch?v=ZgTGPRVvvNs"
+  },
+  {
+    "title": "[LIVE] Integrated MLOps in Snowflake: Easily Productionalize Models",
+    "url": "https://www.youtube.com/watch?v=T_YQ8pYaPxU"
+  },
+  {
+    "title": "AI-Powered RAG Chatbot For Discovering KubeCon Sessions With Snowflake Cortex And Streamlit",
+    "url": "https://www.youtube.com/watch?v=DGaEt8CHcTM"
+  },
+  {
+    "title": "Using The MediaWallah Identity And Audience Enrichment Application",
+    "url": "https://www.youtube.com/watch?v=I4e-qj5jHW8"
+  },
+  {
+    "title": "Getting Started With AI Observability In Snowflake",
+    "url": "https://www.youtube.com/watch?v=YL-B7bck-sI"
+  },
+  {
+    "title": "Getting Started With Audio Sentiment Analysis Using Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=as-XqcN30xg"
+  },
+  {
+    "title": "A Step-By-Step Guide For Detecting Anomalies Using Snowflake ML Functions",
+    "url": "https://www.youtube.com/watch?v=oU3Q-ClguPw"
+  },
+  {
+    "title": "Enhance Your App Development Skills At Dev Day 2025 | Registration Is Open",
+    "url": "https://www.youtube.com/watch?v=M-sAi5vnZ_8"
+  },
+  {
+    "title": "Getting Started With Model Development In Snowflake Notebooks On Container Runtime",
+    "url": "https://www.youtube.com/watch?v=zsMaLixJZpg"
+  },
+  {
+    "title": "Can You Name These Snowflake World Tour Cities?",
+    "url": "https://www.youtube.com/watch?v=4vHIWMBOceI"
+  },
+  {
+    "title": "Build Your Perfect Software Engineer!",
+    "url": "https://www.youtube.com/watch?v=d7pY4erTP9U"
+  },
+  {
+    "title": "Apache Polaris (Incubating) 0.9: Celebrating The Project's First Official Release!",
+    "url": "https://www.youtube.com/watch?v=CVGcfoPp26o"
+  },
+  {
+    "title": "Explain These Difficult Topics Like I'm A Child",
+    "url": "https://www.youtube.com/watch?v=OJZAGnXgkog"
+  },
+  {
+    "title": "Building A Kumo-Powered AI Movie Concierge ChatBot As A Snowflake Native App",
+    "url": "https://www.youtube.com/watch?v=zIvnycHYb8U"
+  },
+  {
+    "title": "Rank These New York City Foods!",
+    "url": "https://www.youtube.com/watch?v=VTUCbmxXJgQ"
+  },
+  {
+    "title": "[LIVE] Apache Polaris (Incubating) Starter Kit",
+    "url": "https://www.youtube.com/watch?v=zZu4z4jCd48"
+  },
+  {
+    "title": "Building A Bioinformatics Project From Scratch in Snowflake",
+    "url": "https://www.youtube.com/watch?v=EJ9ejRS16Ag"
+  },
+  {
+    "title": "Fit Check - Tech Edition",
+    "url": "https://www.youtube.com/watch?v=7mPPQ6OKMGY"
+  },
+  {
+    "title": "What Do You Think They Do For A Living?",
+    "url": "https://www.youtube.com/watch?v=oYPHsuivzAg"
+  },
+  {
+    "title": "[LIVE] Observe ML Models in Snowflake",
+    "url": "https://www.youtube.com/watch?v=VS7_yvt498Y"
+  },
+  {
+    "title": "Building An AI Agent For Healthcare Payers Contact Center In Snowflake",
+    "url": "https://www.youtube.com/watch?v=UXge7Vv8uSg"
+  },
+  {
+    "title": "What Do Your Kids Think You Do For A Living?",
+    "url": "https://www.youtube.com/watch?v=D-2V1NVplAU"
+  },
+  {
+    "title": "Connecting To AWS Glue And Querying Iceberg Tables Using Credentials Vended By Lake Formation",
+    "url": "https://www.youtube.com/watch?v=Z1JwqyHe9Ts"
+  },
+  {
+    "title": "[LIVE] Orchestrate Data with Snowflake Cortex Agents",
+    "url": "https://www.youtube.com/watch?v=uPnv_O7w3uM"
+  },
+  {
+    "title": "How To Build A DeepSeek-R1 Chatbot In Python",
+    "url": "https://www.youtube.com/watch?v=OMWZPsLIgf8"
+  },
+  {
+    "title": "Which Office Is The Best?",
+    "url": "https://www.youtube.com/watch?v=i3xb5KJTu9g"
+  },
+  {
+    "title": "Behind The Cape: Panel Discussion About Acquiring Snowflake Certifications",
+    "url": "https://www.youtube.com/watch?v=IaWOZ02gDyo"
+  },
+  {
+    "title": "Leveraging Geospatial Data For Dynamic Route Optimization In Snowflake",
+    "url": "https://www.youtube.com/watch?v=ZDVXIuzTd0I"
+  },
+  {
+    "title": "Snowpark Checkpoints: Detect Functional Equivalence Issues When Migrating From PySpark To Snowpark",
+    "url": "https://www.youtube.com/watch?v=xCxUG1RuL-8"
+  },
+  {
+    "title": "Conducting Data Analysis With The DeepSeek-R1 LLM In Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=m44cz3hKwS4"
+  },
+  {
+    "title": "An Overview Of What's New In Apache Iceberg 1.8",
+    "url": "https://www.youtube.com/watch?v=aP39H2X0-Hk"
+  },
+  {
+    "title": "Getting Started With Cortex Agents",
+    "url": "https://www.youtube.com/watch?v=SDqyB-yWaAE"
+  },
+  {
+    "title": "Scale Embeddings With GPUs From Snowflake Notebooks On Container Runtime",
+    "url": "https://www.youtube.com/watch?v=uvLiJtfNd-M"
+  },
+  {
+    "title": "Build Deep Learning Models With Distributed PyTorch On GPUs From Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=LX0FCz8ujZI"
+  },
+  {
+    "title": "[LIVE] Graph Analytics in Snowflake with Neo4J: No ETL Required",
+    "url": "https://www.youtube.com/watch?v=jBge7wk4tS4"
+  },
+  {
+    "title": "[LIVE] Accelerate Migrations to Snowflake: What’s New in SnowConvert",
+    "url": "https://www.youtube.com/watch?v=nBYHwN_f8ns"
+  },
+  {
+    "title": "Datamynd Revolutionizes Sensitive Data Use With Secure Synthetic Data In Snowflake",
+    "url": "https://www.youtube.com/watch?v=RfcmJw3ylH0"
+  },
+  {
+    "title": "Snowflake Builder Demo: AI SaaS Startups Pitching To VCs",
+    "url": "https://www.youtube.com/watch?v=XKicKI0f3K8"
+  },
+  {
+    "title": "Behind The Cape: Taking Advantage of Snowflake Data Policies To Provide Safe, Secure Access To Data",
+    "url": "https://www.youtube.com/watch?v=6fGEeYkKuZI"
+  },
+  {
+    "title": "[LIVE] The AI Research Behind SwiftKV",
+    "url": "https://www.youtube.com/watch?v=ueHuU-nOF7U"
+  },
+  {
+    "title": "How To Use Anthropic And AI To Extract Info From Documents",
+    "url": "https://www.youtube.com/watch?v=X-mw6FZltmo"
+  },
+  {
+    "title": "DreamFactory: Accelerating Snowflake Data Integration With Real-Time APIs",
+    "url": "https://www.youtube.com/watch?v=GoZyTNnpZG4"
+  },
+  {
+    "title": "Revolutionize Cybersecurity With DeepTempo: AI-Powered Security In Snowflake",
+    "url": "https://www.youtube.com/watch?v=meaxmFGyep4"
+  },
+  {
+    "title": "Getting Started With The Snowflake Connector For Google Analytics",
+    "url": "https://www.youtube.com/watch?v=do95Yfgp7pA"
+  },
+  {
+    "title": "[LIVE] Using Anthropic Claude in Snowflake Cortex AI",
+    "url": "https://www.youtube.com/watch?v=Lkk7CxjRayc"
+  },
+  {
+    "title": "Building LLM-Powered Chat Experiences For Anomaly Detection And Predictive Maintenance In Snowflake",
+    "url": "https://www.youtube.com/watch?v=NODw71Bg0yA"
+  },
+  {
+    "title": "Getting Started With Google Analytics 4 Data Using Snowflake And Sigma",
+    "url": "https://www.youtube.com/watch?v=svz3NB3_WRg"
+  },
+  {
+    "title": "How To Build A Query Caching Effectiveness Report In Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=fD35E8bGPcA"
+  },
+  {
+    "title": "New Observability Features For Data Engineers And App Developers",
+    "url": "https://www.youtube.com/watch?v=ydrEcidGoM8"
+  },
+  {
+    "title": "How To Build Python Pipelines In Snowflake Notebook",
+    "url": "https://www.youtube.com/watch?v=QiTVqZ1t-bw"
+  },
+  {
+    "title": "How To Build A CineBot With The Snowflake Native App Framework And Snowflake Cortex Search",
+    "url": "https://www.youtube.com/watch?v=fp0PMZMhJ2Y"
+  },
+  {
+    "title": "Gaining Insights From Unstructured Data With Snowflake Cortex AI",
+    "url": "https://www.youtube.com/watch?v=r6gVZ5m-K8c"
+  },
+  {
+    "title": "How To Simplify Streaming Pipelines For Apache Iceberg With Snowflake",
+    "url": "https://www.youtube.com/watch?v=LptQ14sRXFY"
+  },
+  {
+    "title": "Different Evaluation Methodologies For Preventing LLM Failures",
+    "url": "https://www.youtube.com/watch?v=xQzCGSj6mBM"
+  },
+  {
+    "title": "How To Use The Snowflake Connector For SharePoint To Create Conversational Documents",
+    "url": "https://www.youtube.com/watch?v=7--_TL4uOtg"
+  },
+  {
+    "title": "How To Easily Deploy Custom LLM Models In Snowflake With Snowflake Container Services",
+    "url": "https://www.youtube.com/watch?v=A_e21TbXT2A"
+  },
+  {
+    "title": "How To Add Human Feedback Into A Streamlit Application To Evaluate AI Outputs",
+    "url": "https://www.youtube.com/watch?v=S86ouFGGPp8"
+  },
+  {
+    "title": "Git Integration With Snowflake SQL Worksheets",
+    "url": "https://www.youtube.com/watch?v=nYfiMWdXeAM"
+  },
+  {
+    "title": "Synthetic Data Generation For Development And Testing Of AI Apps",
+    "url": "https://www.youtube.com/watch?v=klfPhIDecFY"
+  },
+  {
+    "title": "Building Mission-Critical Intelligent Applications With Relational Knowledge Graphs In Snowflake",
+    "url": "https://www.youtube.com/watch?v=Q38ZCQjyElo"
+  },
+  {
+    "title": "Join The League Of Data Superheroes",
+    "url": "https://www.youtube.com/watch?v=IgfbBwFhuFw"
+  },
+  {
+    "title": "Getting Started with Player 360: Unlocking Churn Prediction and Game Optimization",
+    "url": "https://www.youtube.com/watch?v=Ws7O8iSPoUM"
+  },
+  {
+    "title": "Corporate Taxonomy: Leveraging FactSet RBICS Data And Cortex AI/Analyst For Asset Analysis",
+    "url": "https://www.youtube.com/watch?v=rebNFMYAfu4"
+  },
+  {
+    "title": "Using Entity Resolution To Harmonize Product Data For Retailers",
+    "url": "https://www.youtube.com/watch?v=mXAQad61JHc"
+  },
+  {
+    "title": "Bootstrapping Apache Polaris For An Interoperable, Governed Lakehouse",
+    "url": "https://www.youtube.com/watch?v=uDY6vq8pl3c"
+  },
+  {
+    "title": "Building Reliable Agents With LangGraph",
+    "url": "https://www.youtube.com/watch?v=q1gXyyLksA8"
+  },
+  {
+    "title": "Using Snowflake Hybrid Tables To Deliver Lower-Latency Data Serving To Your Users",
+    "url": "https://www.youtube.com/watch?v=evuu8nrZoq0"
+  },
+  {
+    "title": "Building A Dashboard With Streamlit In Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=kzT2xk_wkSI"
+  },
+  {
+    "title": "Build And Operationalize Python Pipelines Using Snowflake's Python Notebooks",
+    "url": "https://www.youtube.com/watch?v=rLEwL9ENOZ4"
+  },
+  {
+    "title": "Get Quick Insights & Easily Predict Customer Churn: AI & ML Classification",
+    "url": "https://www.youtube.com/watch?v=DXE0gpnLjtU"
+  },
+  {
+    "title": "Welcome To The Snowflake Developer Channel: Technical Info For Technical People",
+    "url": "https://www.youtube.com/watch?v=WbH0pNuoRNA"
+  },
+  {
+    "title": "Gen AI Boot Camp, Parts 1 and 2 | Working With Snowflake Cortex Analyst And Cortex Search",
+    "url": "https://www.youtube.com/watch?v=punK7CLS3Sg"
+  },
+  {
+    "title": "LAB | A Conversational Gen AI Solution Built Using Agents For Amazon Bedrock And Snowflake Cortex",
+    "url": "https://www.youtube.com/watch?v=j1yaaRdLcOE"
+  },
+  {
+    "title": "LAB | Revolutionizing Healthcare Insights with Snowflake Cortex and Microsoft Fabric",
+    "url": "https://www.youtube.com/watch?v=5MP0-2Hgn0U"
+  },
+  {
+    "title": "Using TDAA's Pancake Native App To Flatten JSON Data",
+    "url": "https://www.youtube.com/watch?v=tj2wbiPFKJ8"
+  },
+  {
+    "title": "Cortex Analyst Paves The Way For Reliable, Self-Serve Analytics",
+    "url": "https://www.youtube.com/watch?v=DB281MC9aU4"
+  },
+  {
+    "title": "AI Assistant For Sales Calls: Transform Conversations into Actionable Insights With Snowflake",
+    "url": "https://www.youtube.com/watch?v=-26LxIDOOxI"
+  },
+  {
+    "title": "Building A Schema Change Tracker In Snowflake Notebooks With Streamlit",
+    "url": "https://www.youtube.com/watch?v=dz838Ia1Tt4"
+  },
+  {
+    "title": "Behind The Scenes: How Snowflake Continually Enhances The Performance Of Its Core Data Engine",
+    "url": "https://www.youtube.com/watch?v=23T7Y3s5lfQ"
+  },
+  {
+    "title": "Tips For Modernizing Apache Spark And Migrating  Workloads To Snowpark",
+    "url": "https://www.youtube.com/watch?v=kwmCcSVYXO4"
+  },
+  {
+    "title": "How The InnovaQ Native App Enhances Food Safety And Quality Compliance",
+    "url": "https://www.youtube.com/watch?v=gihMCADqVK0"
+  },
+  {
+    "title": "Maximize Context, Minimize Complexity: Harnessing Long-Context LLMs With AI21",
+    "url": "https://www.youtube.com/watch?v=9d7weQ3zwg0"
+  },
+  {
+    "title": "End-To-End ML With GPUs In A Snowflake Notebook With Container Runtime",
+    "url": "https://www.youtube.com/watch?v=5WjRbjFWxRc"
+  },
+  {
+    "title": "Using The Landing Lens Native App To Create Computer Vision Models",
+    "url": "https://www.youtube.com/watch?v=7OAdB7hxJxw"
+  },
+  {
+    "title": "Demonstration Of The Snowflake Command-Line Interface (CLI)",
+    "url": "https://www.youtube.com/watch?v=0SEnozE1xpY"
+  },
+  {
+    "title": "Code, Deploy, Repeat: DevOps with Snowflake",
+    "url": "https://www.youtube.com/watch?v=PLn0I8Pejls"
+  },
+  {
+    "title": "How To Leverage Schema Evolution For Automated Metadata-Driven Ingestion",
+    "url": "https://www.youtube.com/watch?v=MzxWFcmYMno"
+  },
+  {
+    "title": "VSCode's Point-and-Click Solution: Deploy Snowflake Native Apps Instantly",
+    "url": "https://www.youtube.com/watch?v=WOKCRfZf7aU"
+  },
+  {
+    "title": "Build, Deploy, And Observe A Model In Snowflake ML",
+    "url": "https://www.youtube.com/watch?v=JDMEUrwpYlE"
+  },
+  {
+    "title": "How Meta Builds Safer AI Applications Using Purple Llama",
+    "url": "https://www.youtube.com/watch?v=HJ6VQ91eJ7U"
+  },
+  {
+    "title": "How Pandas On Snowflake Handles Enterprise-Scale Data",
+    "url": "https://www.youtube.com/watch?v=lWb0ajYu758"
+  },
+  {
+    "title": "Learn How To Bring Your Data Into Snowflake In Under 5 Minutes",
+    "url": "https://www.youtube.com/watch?v=RhgF9KnJFp4"
+  },
+  {
+    "title": "Running Tailor-Made Data Quality Tests And Evaluations With Mistral Large On Snowflake Cortex",
+    "url": "https://www.youtube.com/watch?v=rlbgHHO_ZIg"
+  },
+  {
+    "title": "[LIVE] How and why to enable Snowflake Notebooks in your organization today",
+    "url": "https://www.youtube.com/watch?v=m-bBT29Pefs"
+  },
+  {
+    "title": "Using The Kumo Native App To Predict Customer Purchases",
+    "url": "https://www.youtube.com/watch?v=djYCtVcftWM"
+  },
+  {
+    "title": "A Look At New SQL Improvements And How Migrating To Snowflake Just Got Easier",
+    "url": "https://www.youtube.com/watch?v=9dZbFZorDaU"
+  },
+  {
+    "title": "KAWA Analytics Uses Snowflake Compute, Hybrid Tables, And SPCS To Build Custom Data Apps",
+    "url": "https://www.youtube.com/watch?v=IJwEHJ1RU7c"
+  },
+  {
+    "title": "A Python Data Engineering Journey: Going From Ingestion To Operationalization With Snowflake",
+    "url": "https://www.youtube.com/watch?v=oAjQlQMgYMk"
+  },
+  {
+    "title": "Building Enterprise-Grade AI Apps With Snowflake Native Apps Using Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=5OyWdOomD10"
+  },
+  {
+    "title": "How To Break Down Compute Costs By Individual Queries In Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=Pn8cJ8ZSHXU"
+  },
+  {
+    "title": "Demo Of Jedify's Conversational Data Intelligence Platform",
+    "url": "https://www.youtube.com/watch?v=S_RDmzk1pHA"
+  },
+  {
+    "title": "Orchestrate LLM Response Evaluations In Snowflake With Evalanche!",
+    "url": "https://www.youtube.com/watch?v=lanCEOJ-914"
+  },
+  {
+    "title": "An Overview Of What's New In Apache Iceberg 1.7",
+    "url": "https://www.youtube.com/watch?v=OP8VOo39Q-E"
+  },
+  {
+    "title": "Finding The Best Way To Transition Your Data Lake To Apache Iceberg",
+    "url": "https://www.youtube.com/watch?v=5IOt11mS-Oo"
+  },
+  {
+    "title": "Preparing Your Data For An Efficient RAG Chatbot For Your Company",
+    "url": "https://www.youtube.com/watch?v=TLnNz4Pd5RA"
+  },
+  {
+    "title": "Using Cortex Fine-Tuning To Achieve Serverless Customization And Management Of LLMs Inside Snowflake",
+    "url": "https://www.youtube.com/watch?v=pzr1LXHMtFs"
+  },
+  {
+    "title": "Your Scanned Documents Made Conversational",
+    "url": "https://www.youtube.com/watch?v=fEI9CbkJcCU"
+  },
+  {
+    "title": "Scheduled Query Execution Report In Snowflake Notebooks With Streamlit",
+    "url": "https://www.youtube.com/watch?v=GEPEUqgRHIc"
+  },
+  {
+    "title": "Highlight Moments From Andrew Ng's BUILD 2024 Keynote On AI Agents And Agentic Reasoning",
+    "url": "https://www.youtube.com/watch?v=nQzsUvoRqFk"
+  },
+  {
+    "title": "Learn How To Get Started With Snowflake Notebooks Across All Public Clouds",
+    "url": "https://www.youtube.com/watch?v=6vnXaIuEwoA"
+  },
+  {
+    "title": "[LIVE] Transforming Geospatial Analysis with Snowflake in QGIS",
+    "url": "https://www.youtube.com/watch?v=dmzaSHaWezo"
+  },
+  {
+    "title": "Accelerating Data Work With Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=kCNXStEP9ks"
+  },
+  {
+    "title": "Role-Based Access Auditing In Snowflake Notebooks With Streamlit",
+    "url": "https://www.youtube.com/watch?v=CMgxM856p4o"
+  },
+  {
+    "title": "Demo | New Outbound Private Connectivity Features For Snowpark External Access",
+    "url": "https://www.youtube.com/watch?v=ctQYPJpgkZk"
+  },
+  {
+    "title": "Replicate Tables From PostgreSQL To Snowflake With Ockam",
+    "url": "https://www.youtube.com/watch?v=Ahg8uyBSeNs"
+  },
+  {
+    "title": "Asking Dr. Andrew Ng",
+    "url": "https://www.youtube.com/watch?v=AzKTH1u_oDA"
+  },
+  {
+    "title": "How To Analyze Support Tickets With Snowflake Cortex LLMs, Notebooks, And Streamlit",
+    "url": "https://www.youtube.com/watch?v=tpKqZO7kTf8"
+  },
+  {
+    "title": "Master Snowflake's New REST API: Build, Automate, Innovate",
+    "url": "https://www.youtube.com/watch?v=8djpmiBBoFc"
+  },
+  {
+    "title": "Creating a Heat Map In Snowflake Notebooks with Streamlit to Analyze Warehouse Utilization",
+    "url": "https://www.youtube.com/watch?v=fpVAe0BHc7Q"
+  },
+  {
+    "title": "Monitoring the Table Size In Snowflake Notebooks With Streamlit",
+    "url": "https://www.youtube.com/watch?v=ANlzffewNGk"
+  },
+  {
+    "title": "Boost Developer Productivity With Snowflake CLI And Automation",
+    "url": "https://www.youtube.com/watch?v=Vn0CdMRWvso"
+  },
+  {
+    "title": "[LIVE] AI-enabled Document Extraction",
+    "url": "https://www.youtube.com/watch?v=_UvehvPw_WU"
+  },
+  {
+    "title": "Git Your Feet Wet: Snowflake Git Integration For Dev Newbies",
+    "url": "https://www.youtube.com/watch?v=eRmtrc0t6S8"
+  },
+  {
+    "title": "DEMO | Using The Domo Marketing App For Attribution Modeling And Media Mix Modeling",
+    "url": "https://www.youtube.com/watch?v=yjoDM6FOkZQ"
+  },
+  {
+    "title": "Build An Interactive Query Performance App In Snowflake Notebooks Using Streamlit",
+    "url": "https://www.youtube.com/watch?v=vdW8xZYBOI0"
+  },
+  {
+    "title": "Snowflake Northstar Is Here!",
+    "url": "https://www.youtube.com/watch?v=eqCOEmzM-OU"
+  },
+  {
+    "title": "How To Securely Push Data From Snowflake To Kafka With Ockam",
+    "url": "https://www.youtube.com/watch?v=BmruCge9VsY"
+  },
+  {
+    "title": "[LIVE] Time Series Analytics in Snowflake",
+    "url": "https://www.youtube.com/watch?v=-RkkB7lN_iw"
+  },
+  {
+    "title": "DEMO | Building A Customer 360 Activation Architecture With Tealium And Snowflake",
+    "url": "https://www.youtube.com/watch?v=VxmAdu6y1X0"
+  },
+  {
+    "title": "How To Use LiveRamp Embedded Identity Solutions For Data Collaboration And Consolidation",
+    "url": "https://www.youtube.com/watch?v=uL7hh4A_ggI"
+  },
+  {
+    "title": "Real-Time Financial Insights Using The Snowflake Connector For PostgreSQL And Dynamic Tables",
+    "url": "https://www.youtube.com/watch?v=M77Aun9ke7I"
+  },
+  {
+    "title": "Rethinking RAG-Based Gen AI With Fivetran, Snowflake, And Private, Structured Data",
+    "url": "https://www.youtube.com/watch?v=cbKSlYQvpMw"
+  },
+  {
+    "title": "[LIVE] Container Runtime and Performance Optimization",
+    "url": "https://www.youtube.com/watch?v=iiB9ZVgODAA"
+  },
+  {
+    "title": "Automated Query Performance Insights In Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=h_pb4qdTfzg"
+  },
+  {
+    "title": "[LIVE] What's New with SQL Search",
+    "url": "https://www.youtube.com/watch?v=O2tSgB_XqP8"
+  },
+  {
+    "title": "Monitor And Troubleshoot Snowpark Faster With Logs, Traces, And Metrics",
+    "url": "https://www.youtube.com/watch?v=pnXpn7RITko"
+  },
+  {
+    "title": "Creating A Customer 360 Profile With Amperity Data Cloud",
+    "url": "https://www.youtube.com/watch?v=_IQjSSROkJM"
+  },
+  {
+    "title": "Using The Improvado Data Platform With Snowflake",
+    "url": "https://www.youtube.com/watch?v=-h11VIVBUso"
+  },
+  {
+    "title": "Boost Retention And Revenue By Using Lang.AI Agents To Uncover Customer Insights",
+    "url": "https://www.youtube.com/watch?v=giXLPbLDaOw"
+  },
+  {
+    "title": "Creating an MFA Audit Of Users With Streamlit In Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=WojbkHRCiHU"
+  },
+  {
+    "title": "Leveraging Snowpark Container Services To Run Analytics On Unstructured Patient Health Data",
+    "url": "https://www.youtube.com/watch?v=5UdOUSVe814"
+  },
+  {
+    "title": "[LIVE] Snowflake Feature Store",
+    "url": "https://www.youtube.com/watch?v=5zXP6Kj5gM4"
+  },
+  {
+    "title": "Our Biggest Announcement Yet",
+    "url": "https://www.youtube.com/watch?v=tSXgjmiDtvU"
+  },
+  {
+    "title": "Behind The Cape: A Conversation With Data Superhero Ruchi Son About Snowflake Horizon",
+    "url": "https://www.youtube.com/watch?v=nWgxjvBYdHQ"
+  },
+  {
+    "title": "Using Hightouch To Prepare, Analyze, And Customize Marketing Campaigns",
+    "url": "https://www.youtube.com/watch?v=2QViEoXpw7s"
+  },
+  {
+    "title": "Accelerate The Training Of  XGBoost Models Using GPUs In Container Runtime On A Snowflake Notebook",
+    "url": "https://www.youtube.com/watch?v=MD5aP0uEAps"
+  },
+  {
+    "title": "How To Build A Dashboard In Snowflake Notebooks Using Streamlit",
+    "url": "https://www.youtube.com/watch?v=LrQwXQm28qE"
+  },
+  {
+    "title": "Supercharge Your Data Analytics With ThoughtSpot And Snowflake",
+    "url": "https://www.youtube.com/watch?v=Zvzz86Usw_E"
+  },
+  {
+    "title": "Enhance Customer Experiences By Improving First-Party Data Collection And Usage | Precise.AI",
+    "url": "https://www.youtube.com/watch?v=r61OnysJBeI"
+  },
+  {
+    "title": "How To Detect Overbidding In Programmatic Ad Auctions Using TVB",
+    "url": "https://www.youtube.com/watch?v=b8X-yFUDdIs"
+  },
+  {
+    "title": "An Interview with Sway AI",
+    "url": "https://www.youtube.com/watch?v=SlGpCuvYUPQ"
+  },
+  {
+    "title": "The Sway AI Mission To Democratize Predictive Analytics With A No-Code AI Platform",
+    "url": "https://www.youtube.com/watch?v=fRXW-NaAjO4"
+  },
+  {
+    "title": "A Developer's Guide To Activating Snowflake Data With Census",
+    "url": "https://www.youtube.com/watch?v=G_qHyY-95lU"
+  },
+  {
+    "title": "Connecting Cordial To Snowflake For Seamless Data Sharing And Activation",
+    "url": "https://www.youtube.com/watch?v=iEgHHkl1ga8"
+  },
+  {
+    "title": "Snowflake for Startups: The Startup Journeys Of Maxa And Signalflare",
+    "url": "https://www.youtube.com/watch?v=DbjSp-bMqOw"
+  },
+  {
+    "title": "[LIVE} Snowflake ML Functions: Classification",
+    "url": "https://www.youtube.com/watch?v=FG1kgDNPIIY"
+  },
+  {
+    "title": "Running Native Code And ML Training On Snowpark Optimized Warehouses",
+    "url": "https://www.youtube.com/watch?v=1xifuMeM3QM"
+  },
+  {
+    "title": "Building A Question Answering Service On Knowledge Graphs Using RelationalAI And Snowflake Cortex AI",
+    "url": "https://www.youtube.com/watch?v=VQYERJBe31I"
+  },
+  {
+    "title": "Demo | Translating A DBT Semantic Model For Snowflake Cortex Analyst",
+    "url": "https://www.youtube.com/watch?v=pdi86xMcR0Q"
+  },
+  {
+    "title": "Demo | Generating A Semantic File For Snowflake Cortex Analyst",
+    "url": "https://www.youtube.com/watch?v=eat-J-roEU8"
+  },
+  {
+    "title": "Demo | Translating Looker Explore For Snowflake Cortex Analyst",
+    "url": "https://www.youtube.com/watch?v=9-mmUiS3Bh4"
+  },
+  {
+    "title": "Demo | Protecting Sensitive Data With Projection And Aggregation Policies In Snowflake",
+    "url": "https://www.youtube.com/watch?v=nRJd8Si2op0"
+  },
+  {
+    "title": "Using Snowflake Document AI To Unlock Value From Unstructured Data",
+    "url": "https://www.youtube.com/watch?v=TwrPl8yUewQ"
+  },
+  {
+    "title": "[LIVE] What’s New: Pandas On Snowflake",
+    "url": "https://www.youtube.com/watch?v=-Xy4t9PZfzY"
+  },
+  {
+    "title": "An Interview with Weaviate",
+    "url": "https://www.youtube.com/watch?v=z38J_NQ1hIw"
+  },
+  {
+    "title": "Developing AI Applications With Weaviate Inside Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=vBU4aGRmLzw"
+  },
+  {
+    "title": "Build And Deploy Snowpark ML Models Using Streamlit And Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=9GwElsYDMQA"
+  },
+  {
+    "title": "Snowpark 101: Using Snowpark For Python For Data Science With Tasty Bytes",
+    "url": "https://www.youtube.com/watch?v=2ESR_CBwetM"
+  },
+  {
+    "title": "Getting Started With The Data Quality Manager",
+    "url": "https://www.youtube.com/watch?v=pT3ZsLOzxQQ"
+  },
+  {
+    "title": "An Interview with RelationalAL",
+    "url": "https://www.youtube.com/watch?v=bETVKqrCHRw"
+  },
+  {
+    "title": "AI Builder | Using RelationalAI To Quickly Build Intelligent Apps To Enhance Decision Making",
+    "url": "https://www.youtube.com/watch?v=_cpx7uJbztY"
+  },
+  {
+    "title": "Using Kumo To Predict Customer Purchases And Make Product Recommendations",
+    "url": "https://www.youtube.com/watch?v=UtwLQgoHHss"
+  },
+  {
+    "title": "[LIVE] Data Engineering in Python Demo",
+    "url": "https://www.youtube.com/watch?v=7mh3L5lRPa4"
+  },
+  {
+    "title": "Credit Card Fraud Detection Using Snowflake ML Functions",
+    "url": "https://www.youtube.com/watch?v=whrKbadNTXw"
+  },
+  {
+    "title": "An Interview With H2O.ai",
+    "url": "https://www.youtube.com/watch?v=FSNbS4OLC14"
+  },
+  {
+    "title": "AI Builders | H2O.ai Brings Gen AI And Predictive AI Together To Drive Innovation In ML",
+    "url": "https://www.youtube.com/watch?v=NlwiA0BAVBw"
+  },
+  {
+    "title": "[LIVE] Automatic Clustering Updates",
+    "url": "https://www.youtube.com/watch?v=wA5kNjV4z34"
+  },
+  {
+    "title": "Differential Privacy In Snowflake: How To Share More With Stronger Protections",
+    "url": "https://www.youtube.com/watch?v=1cukE7LPpXs"
+  },
+  {
+    "title": "Behind the Cape: A Conversation With The Co-Author Of \"The Ultimate Guide to Snowpark\"",
+    "url": "https://www.youtube.com/watch?v=EWsJn91BlHM"
+  },
+  {
+    "title": "Demo | Using Snowflake And The Relational AI Native App To Get Started With GraphRAG",
+    "url": "https://www.youtube.com/watch?v=020i5zYGrx0"
+  },
+  {
+    "title": "Predictive, AI-Powered, Personalized Recommendations Made Easier With Snowflake Cortex And Kumo AI",
+    "url": "https://www.youtube.com/watch?v=fZZNZEBEhBY"
+  },
+  {
+    "title": "[LIVE] Improved Productivity with New Developer Experiences for Python",
+    "url": "https://www.youtube.com/watch?v=e6FjhnBsHgk"
+  },
+  {
+    "title": "Demo: Snowflake Cortex Analyst To Augment Business Intelligence With AI",
+    "url": "https://www.youtube.com/watch?v=CXoca9hDdaQ"
+  },
+  {
+    "title": "How To Integrate Marketing Campaign Intelligence Data | Demo",
+    "url": "https://www.youtube.com/watch?v=_4ws-vgUOcQ"
+  },
+  {
+    "title": "Scaling Up Your Pandas Workflows With The New Snowpark Pandas API",
+    "url": "https://www.youtube.com/watch?v=3mjUsJT2NAk"
+  },
+  {
+    "title": "Snowflake Git Integration For Version Control And Collaboration",
+    "url": "https://www.youtube.com/watch?v=4GOa1eUccmQ"
+  },
+  {
+    "title": "Streamlit App for Customer Segmentation and Cohort Building",
+    "url": "https://www.youtube.com/watch?v=wZ5KBkx1eA0"
+  },
+  {
+    "title": "An Interview With Tonic AI",
+    "url": "https://www.youtube.com/watch?v=m3fnd4ten5Y"
+  },
+  {
+    "title": "AI Builders | Inside Tonic AI's Mission To Simplify The Process Of Creating Fake Data",
+    "url": "https://www.youtube.com/watch?v=5xdyt4oRONU"
+  },
+  {
+    "title": "Expose an API in a Snowflake Native App using the API Enrichment Framework",
+    "url": "https://www.youtube.com/watch?v=uwq5pdKl4Dg"
+  },
+  {
+    "title": "[LIVE] Snowflake Native Connectors for PostgreSQL and MYSQL",
+    "url": "https://www.youtube.com/watch?v=xHOaZB_seG8"
+  },
+  {
+    "title": "How Spark NZ Uses Snowpark ML To Develop And Deploy ML Models",
+    "url": "https://www.youtube.com/watch?v=1iJ1YplWdvM"
+  },
+  {
+    "title": "[LIVE] Summit Recap: Polaris Catalog",
+    "url": "https://www.youtube.com/watch?v=VkyRU0BPVRM"
+  },
+  {
+    "title": "Open Storage Interoperability With Snowflake-Managed Iceberg Tables",
+    "url": "https://www.youtube.com/watch?v=3mu02enphoU"
+  },
+  {
+    "title": "Transform Your JSON Data With Pancake In Snowflake: Simplify, Streamline, Succeed!",
+    "url": "https://www.youtube.com/watch?v=mXTizFVSE60"
+  },
+  {
+    "title": "Olympic Games Analytics In Snowflake",
+    "url": "https://www.youtube.com/watch?v=6uoRf1rEHpE"
+  },
+  {
+    "title": "Snowflake Connector for Kafka",
+    "url": "https://www.youtube.com/watch?v=eYUpkA8QHws"
+  },
+  {
+    "title": "Demo | The Sigma Python Snowflake Native Application",
+    "url": "https://www.youtube.com/watch?v=KSu0Ck-U3Z8"
+  },
+  {
+    "title": "An Interview With Genesis Computing",
+    "url": "https://www.youtube.com/watch?v=wjJzSGKSIYo"
+  },
+  {
+    "title": "The Rise of Genbots: AI Agents Running Inside Snowflake",
+    "url": "https://www.youtube.com/watch?v=Ngmwnbf1Jgs"
+  },
+  {
+    "title": "Performing Sentiment Analysis Using Snowflake Cortex And Iceberg Tables",
+    "url": "https://www.youtube.com/watch?v=Roko9aqtzl8"
+  },
+  {
+    "title": "Secure, Event-Driven Pipelines With Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=teX5cwowSsc"
+  },
+  {
+    "title": "Customized AI With Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=mdaR0QA0I8Q"
+  },
+  {
+    "title": "Doris Lee And Yusuf Ozuysal On Developing Open Source AI Models",
+    "url": "https://www.youtube.com/watch?v=qyhYwzF6_s0"
+  },
+  {
+    "title": "Data Superhero Lightning Talks",
+    "url": "https://www.youtube.com/watch?v=daHZHNjNYmI"
+  },
+  {
+    "title": "[Live] What’s New in Python Data Pipelines",
+    "url": "https://www.youtube.com/watch?v=gQN3_UW0AKc"
+  },
+  {
+    "title": "End-to-End ML Workflows with Snowflake ML",
+    "url": "https://www.youtube.com/watch?v=9uqcNBIY14g"
+  },
+  {
+    "title": "Building Advanced Applications on Snowflake",
+    "url": "https://www.youtube.com/watch?v=D-NYqYdTbwo"
+  },
+  {
+    "title": "End-to-End Python Data Pipelines in Snowflake",
+    "url": "https://www.youtube.com/watch?v=qbcHE1FcX4g"
+  },
+  {
+    "title": "Building AI RAG Chatbots with Snowflake Cortex",
+    "url": "https://www.youtube.com/watch?v=CWEjp1iadUc"
+  },
+  {
+    "title": "Talk To Your Data: The New Era Of Data Analysis Powered By AI",
+    "url": "https://www.youtube.com/watch?v=7XeBC8RmJ0o"
+  },
+  {
+    "title": "SurveyMonkey Increases Snowflake Workloads By 475% With Only A 27% Increase In Credit Use",
+    "url": "https://www.youtube.com/watch?v=4aCj0wk33kg"
+  },
+  {
+    "title": "How To Build An Open Data Lakehouse On Snowflake With Apache Iceberg",
+    "url": "https://www.youtube.com/watch?v=yqU0ClVuGn4"
+  },
+  {
+    "title": "AI-Based Observability And Alerting With Snowflake And PagerDuty",
+    "url": "https://www.youtube.com/watch?v=kcMHPdL8FS4"
+  },
+  {
+    "title": "How Ally uses Snowflake Dynamic Tables and Snowpipe",
+    "url": "https://www.youtube.com/watch?v=NI1C2ADU-5Y"
+  },
+  {
+    "title": "Accelerate migrations to Snowflake with SnowConvert",
+    "url": "https://www.youtube.com/watch?v=RdjDhHc1NEI"
+  },
+  {
+    "title": "90% Latency Improvement With Snowpipe Streaming And Streamlit",
+    "url": "https://www.youtube.com/watch?v=cZDE9kapwbQ"
+  },
+  {
+    "title": "Simplified Data Pipeline Construction With Snowpipe Streaming And Dynamic Tables",
+    "url": "https://www.youtube.com/watch?v=edQ3JuIC1nw"
+  },
+  {
+    "title": "Securing Pharma's Success: Mastering ML Application Deployment",
+    "url": "https://www.youtube.com/watch?v=bS2CcB-Eo1U"
+  },
+  {
+    "title": "Distributed Training With Snowflake Notebooks And Snowflake ML",
+    "url": "https://www.youtube.com/watch?v=jLFOcIycQ7w"
+  },
+  {
+    "title": "Migrating ML Workloads From Spark ML To Snowpark ML",
+    "url": "https://www.youtube.com/watch?v=5dwYg2kuZ0A"
+  },
+  {
+    "title": "Configure, Measure, And Optimize Hybrid Tables",
+    "url": "https://www.youtube.com/watch?v=GH7ZdiR9QG0"
+  },
+  {
+    "title": "Distributed Hyperparameter Tuning With Snowpark ML",
+    "url": "https://www.youtube.com/watch?v=4GaUoeD1-MQ"
+  },
+  {
+    "title": "Snowflake Connector For Kafka: Configuration, Optimization, Monitoring, And Error Handling",
+    "url": "https://www.youtube.com/watch?v=ufUj5yP_tEQ"
+  },
+  {
+    "title": "Snowpark Container Services And Bio LLMs For Accelerating Drug Discovery",
+    "url": "https://www.youtube.com/watch?v=z7GijdfG4wQ"
+  },
+  {
+    "title": "Under The Hood: Snowflake Hybrid Tables",
+    "url": "https://www.youtube.com/watch?v=tQsf-Nnx-RM"
+  },
+  {
+    "title": "Goldman Sachs's Lakehouse With Iceberg And Snowflake",
+    "url": "https://www.youtube.com/watch?v=b2cnGMJl2iU"
+  },
+  {
+    "title": "From Spark To Snowpark At Booking.com",
+    "url": "https://www.youtube.com/watch?v=WinsWvLyEO0"
+  },
+  {
+    "title": "Mutual Of Omaha Builds A Call Center Application With Unistore",
+    "url": "https://www.youtube.com/watch?v=oqVa6hPFbUc"
+  },
+  {
+    "title": "An \"AI Builders\" Interview With Landing AI",
+    "url": "https://www.youtube.com/watch?v=RRlIxSTr5eo"
+  },
+  {
+    "title": "What's Your Favorite Language?",
+    "url": "https://www.youtube.com/watch?v=CcIbeGC-OdE"
+  },
+  {
+    "title": "Managing ML Models From Iteration To Production With MLOps In Snowflake",
+    "url": "https://www.youtube.com/watch?v=hsnA8CiZNyY"
+  },
+  {
+    "title": "[Live] Create Business Metrics with OM1, Hex, and Snowflake",
+    "url": "https://www.youtube.com/watch?v=N1MsOkD-7Fk"
+  },
+  {
+    "title": "Demo Dare Live Finale 2024",
+    "url": "https://www.youtube.com/watch?v=1X6BIQyV738"
+  },
+  {
+    "title": "Startup Venture Capital Panel For Developers",
+    "url": "https://www.youtube.com/watch?v=bmXi80M8Md0"
+  },
+  {
+    "title": "Building A RAG Model For Scaling Marketing, Documentation, And Innovation",
+    "url": "https://www.youtube.com/watch?v=EClEf0S8zmk"
+  },
+  {
+    "title": "Create An LLM-Generated Data Catalog Using Data Crawler",
+    "url": "https://www.youtube.com/watch?v=qMamd3WXcrc"
+  },
+  {
+    "title": "Using Snowpark Migration Accelerator to Convert Spark Code to Snowpark: Conversion Demo",
+    "url": "https://www.youtube.com/watch?v=IDboYGQegOE"
+  },
+  {
+    "title": "Getting Started With Data Engineering Using Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=1zdciOSf8mA"
+  },
+  {
+    "title": "Honeydew Semantic Layer: Enhancing Integration And User Experience With Snowflake Native Apps",
+    "url": "https://www.youtube.com/watch?v=2RldTBuzs_8"
+  },
+  {
+    "title": "Aimpoint Digital's Anxiety-Free Guide To Deploying Snowflake Native Apps",
+    "url": "https://www.youtube.com/watch?v=O2RJrdzYB70"
+  },
+  {
+    "title": "Jeff Hollan On Juicy Innovations And What’s Cooking At Snowflake",
+    "url": "https://www.youtube.com/watch?v=0AgYHuYU9CI"
+  },
+  {
+    "title": "Snowflake Arctic: Efficient, Customizable, And Secure Enterprise AI",
+    "url": "https://www.youtube.com/watch?v=kelxJkXE3bo"
+  },
+  {
+    "title": "Document Q&A At Siemens Energy: Chatbots By Snowflake Cortex AI",
+    "url": "https://www.youtube.com/watch?v=uo03FB0YY7U"
+  },
+  {
+    "title": "An \"AI Builders\" Interview With Leap Metrics",
+    "url": "https://www.youtube.com/watch?v=1I4vpKi41o0"
+  },
+  {
+    "title": "Coda And Snowflake: Engineering the Ultimate RAG Platform",
+    "url": "https://www.youtube.com/watch?v=0Tdz9_llJTA"
+  },
+  {
+    "title": "The Winner Of The 2024 Startup Challenge Announced During Finale Event at Dev Day",
+    "url": "https://www.youtube.com/watch?v=c7kAfYuPTgA"
+  },
+  {
+    "title": "[Live] Summit Recap: Data Platform",
+    "url": "https://www.youtube.com/watch?v=-fU7qet9CFc"
+  },
+  {
+    "title": "Lukas Biewald On Productionizing Gen AI Models And Lessons From The World's Best ML Teams",
+    "url": "https://www.youtube.com/watch?v=voxVeg_AucA"
+  },
+  {
+    "title": "Richard Socher On The Future Of Trust In LLMs",
+    "url": "https://www.youtube.com/watch?v=P0wPLLYPcZ0"
+  },
+  {
+    "title": "Using Snowpark Migration Accelerator To Convert Spark Code To Snowpark",
+    "url": "https://www.youtube.com/watch?v=78Ks4kxj3KI"
+  },
+  {
+    "title": "Kari Briski On Overcoming The Complexities Of Deploying Generative AI",
+    "url": "https://www.youtube.com/watch?v=uqe9YTo_EWA"
+  },
+  {
+    "title": "Christine McLeavey On The Breakthroughs And Challenges Paving The Way For Voice Mode In ChatGPT",
+    "url": "https://www.youtube.com/watch?v=4ftFJ9chnRU"
+  },
+  {
+    "title": "Using Snowpark ML To Predict The Euro 2024 Winners",
+    "url": "https://www.youtube.com/watch?v=OMXXKuVm7Q8"
+  },
+  {
+    "title": "Lightning-Fast Query Speeds with Hybrid Tables at Tenable",
+    "url": "https://www.youtube.com/watch?v=uoHOxIPHvmg"
+  },
+  {
+    "title": "An \"AI Builders\" Interview With Modelbit",
+    "url": "https://www.youtube.com/watch?v=ToU_9lE9CEw"
+  },
+  {
+    "title": "Snowflake Native Apps: Implementing Your Monetization Model And Pricing Strategy",
+    "url": "https://www.youtube.com/watch?v=_9fkbL9jDe4"
+  },
+  {
+    "title": "AI Builders | A Look At Modelbit's Machine Learning Engineering Platform",
+    "url": "https://www.youtube.com/watch?v=0EQit62SgWo"
+  },
+  {
+    "title": "Snowflake Summit 2024 | Builder Keynote",
+    "url": "https://www.youtube.com/watch?v=plQHrJI8PgE"
+  },
+  {
+    "title": "Andrew Ng On AI Agentic Workflows And Their Potential For Driving AI Progress",
+    "url": "https://www.youtube.com/watch?v=q1XFm21I-VQ"
+  },
+  {
+    "title": "Using Snowpark Container Services with Snowflake Python APIs",
+    "url": "https://www.youtube.com/watch?v=OOvDnAQVA9k"
+  },
+  {
+    "title": "Dev Day At Snowflake Summit 2024",
+    "url": "https://www.youtube.com/watch?v=67U6yJ5iyjo"
+  },
+  {
+    "title": "Getting Started With Snowflake CLI",
+    "url": "https://www.youtube.com/watch?v=ooyZh56NePA"
+  },
+  {
+    "title": "Introducing Polaris Catalog: An Open Source Catalog For Apache Iceberg",
+    "url": "https://www.youtube.com/watch?v=_VISUbnPIaU"
+  },
+  {
+    "title": "Demo: Sophisticated Applications Run In Snowflake | Summit 2024",
+    "url": "https://www.youtube.com/watch?v=RrAR5opYf48"
+  },
+  {
+    "title": "Demo: Text Analytics And Natural Language Processing With Snowflake Cortex AI | Summit 2024",
+    "url": "https://www.youtube.com/watch?v=XCDEty-rs4s"
+  },
+  {
+    "title": "Demo: Employee Conversational Knowledge Base With Cortex Search | Summit 2024",
+    "url": "https://www.youtube.com/watch?v=d5olBsx07I4"
+  },
+  {
+    "title": "Demo: LLM Serverless Fine-Tuning With Snowflake Cortex AI | Summit 2024",
+    "url": "https://www.youtube.com/watch?v=4RItxPcq4vk"
+  },
+  {
+    "title": "Demo: Snowflake For Application Development | Summit 2024",
+    "url": "https://www.youtube.com/watch?v=l8NZSY3C7OU"
+  },
+  {
+    "title": "Demo: Build A RAG Application With Snowflake Cortex Search | Summit 2024",
+    "url": "https://www.youtube.com/watch?v=yXgFs31MWUw"
+  },
+  {
+    "title": "Build An LLM App Powered By NVIDIA On Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=2frZ4UcjQZc"
+  },
+  {
+    "title": "Building Recommender Systems With RelationalAI’s Snowflake Native App",
+    "url": "https://www.youtube.com/watch?v=QHlVp21icfg"
+  },
+  {
+    "title": "An \"AI Builders\" Interview With Seek AI",
+    "url": "https://www.youtube.com/watch?v=-6gVFZ0UFXs"
+  },
+  {
+    "title": "Let's Have A Data Chat: Voicebot Demo With Snowflake Arctic",
+    "url": "https://www.youtube.com/watch?v=Px9SDl8cq7k"
+  },
+  {
+    "title": "[LIVE] Demo Dare: Sigma Custom Functions & Snowpark UDFs",
+    "url": "https://www.youtube.com/watch?v=TyLR1wjqY2Q"
+  },
+  {
+    "title": "An \"AI Builders\" Interview With Kumo",
+    "url": "https://www.youtube.com/watch?v=fRDLqll4Jos"
+  },
+  {
+    "title": "AI Builders | How Kumo Uses AI To Accelerate ML Model Development",
+    "url": "https://www.youtube.com/watch?v=ZfJYDAs7WPk"
+  },
+  {
+    "title": "Snowflake and Landing AI Collaborate to Make Complex Medical Diagnoses Easy",
+    "url": "https://www.youtube.com/watch?v=WPoYJvD9PRI"
+  },
+  {
+    "title": "Demo | Under The Hood Of Gurucul's 360° Cybersecurity Platform",
+    "url": "https://www.youtube.com/watch?v=3Jgsu_Cjwbo"
+  },
+  {
+    "title": "[LIVE] Demo Dare: AI Results Through LLMs with data.world",
+    "url": "https://www.youtube.com/watch?v=pjPiMtVDw6Q"
+  },
+  {
+    "title": "Building LLM Models With Lamini",
+    "url": "https://www.youtube.com/watch?v=4Oj0EVkeA8o"
+  },
+  {
+    "title": "AI Builders | How To Build LLM Models Easily And Securely with Lamini",
+    "url": "https://www.youtube.com/watch?v=1mBNyJ2xkaM"
+  },
+  {
+    "title": "Using The R Language To Analyze And Explore Data Stored In Snowflake",
+    "url": "https://www.youtube.com/watch?v=ZscKe1Vl7Ec"
+  },
+  {
+    "title": "Machine Learning Made Easy With Cortex ML Functions And Hex",
+    "url": "https://www.youtube.com/watch?v=Sj64VEyfwww"
+  },
+  {
+    "title": "Using AI Within Snowflake For Everyday Analytics",
+    "url": "https://www.youtube.com/watch?v=en_HbcAKvp4"
+  },
+  {
+    "title": "Demo: Using Mapbox's Native Application To Enhance BI Applications",
+    "url": "https://www.youtube.com/watch?v=nJbMY7G4VJ0"
+  },
+  {
+    "title": "[LIVE] Demo Dare: Weaviate Inside Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=vsegiYu5Elk"
+  },
+  {
+    "title": "Use The Application Control Framework To Manage How Consumers Use Your Native App",
+    "url": "https://www.youtube.com/watch?v=gZv-EkZsOAk"
+  },
+  {
+    "title": "Manage Customer Support Inquiries With Snowflake Cortex, Dynamic Tables, And Streamlit In Snowflake",
+    "url": "https://www.youtube.com/watch?v=3H3mZrwwnr0"
+  },
+  {
+    "title": "[Live] What’s New with Cost Management in Snowsight",
+    "url": "https://www.youtube.com/watch?v=LjRXlieb0jo"
+  },
+  {
+    "title": "Accelerate The Deployment Of Snowflake Native Code Using Solution Installation Wizard",
+    "url": "https://www.youtube.com/watch?v=nTVtYaCBcow"
+  },
+  {
+    "title": "A Demo On How To Set Up The Alert Hub Framework!",
+    "url": "https://www.youtube.com/watch?v=gnSx4tb93fM"
+  },
+  {
+    "title": "A Demo Of Material Security's Platform For Protecting Productivity Suite Installations",
+    "url": "https://www.youtube.com/watch?v=a3obJ2qnUIM"
+  },
+  {
+    "title": "Using SnowConvert For Code Conversion When Migrating To Snowflake",
+    "url": "https://www.youtube.com/watch?v=TD8JLnp7vtM"
+  },
+  {
+    "title": "Building A Customer Insights Analyzer Using Vertex Generative AI And Snowflake",
+    "url": "https://www.youtube.com/watch?v=8VSIB_XpoMU"
+  },
+  {
+    "title": "AI Builders | Leap Metrics Utilizes AI To Improve Care For People With Chronic Health Conditions",
+    "url": "https://www.youtube.com/watch?v=k5httQMm4Ng"
+  },
+  {
+    "title": "Supply Chain Network Optimization Using Linear Programming With Snowpark, Cortex, And Streamlit",
+    "url": "https://www.youtube.com/watch?v=Gh636HEdbb4"
+  },
+  {
+    "title": "[Live] End to End ML with Hex & Snowflake (Customer Lifetime Value at GameChanger)",
+    "url": "https://www.youtube.com/watch?v=AhqBOiToTyQ"
+  },
+  {
+    "title": "Demo | How Redica Helps Life Sciences Organizations Reduce Regulatory Risks",
+    "url": "https://www.youtube.com/watch?v=phrG_Cx9u8Y"
+  },
+  {
+    "title": "Using A Stored Procedure To Simplify The Process Of Creating Friendly Field Names For SAP Tables",
+    "url": "https://www.youtube.com/watch?v=5wSIobnJ-Z0"
+  },
+  {
+    "title": "Snowflake Connector for ServiceNow Demo",
+    "url": "https://www.youtube.com/watch?v=pxADjp532rc"
+  },
+  {
+    "title": "Create and Manage Snowflake Objects Like a Pro Using Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=Dj8aAoEOfrw"
+  },
+  {
+    "title": "[LIVE] Demo Dare: Building Data Pipelines with Coalesce",
+    "url": "https://www.youtube.com/watch?v=ULSG65XQfgs"
+  },
+  {
+    "title": "Performing Data Analysis and Churn Prediction using Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=eqb5RdmpW8c"
+  },
+  {
+    "title": "[Live] Snowpark Container Services and Docker",
+    "url": "https://www.youtube.com/watch?v=svkjV6oIZMs"
+  },
+  {
+    "title": "How To Build A RAG-Based Equipment Maintenance App Using Snowflake Cortex",
+    "url": "https://www.youtube.com/watch?v=RLCJrM8v76o"
+  },
+  {
+    "title": "Using Snowflake Notebooks To Build Data Engineering Pipelines With Snowpark Python And SQL",
+    "url": "https://www.youtube.com/watch?v=mpstEt0fU8U"
+  },
+  {
+    "title": "Powered by Snowflake Startup Program | Jump Start Your Business",
+    "url": "https://www.youtube.com/watch?v=ye5y7ZMjcCw"
+  },
+  {
+    "title": "Getting Started With Your First Snowflake Notebook",
+    "url": "https://www.youtube.com/watch?v=tpg35YgA9Gk"
+  },
+  {
+    "title": "Creating Visual Data Stories With Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=WJUNTudCsYM"
+  },
+  {
+    "title": "Snowflake Notebooks 101",
+    "url": "https://www.youtube.com/watch?v=yBvTMVu97Ag"
+  },
+  {
+    "title": "AI Builders | Seek AI Lets Non-Technical Users Extract Insights From Data Without Writing Code",
+    "url": "https://www.youtube.com/watch?v=svOlMxI2YEI"
+  },
+  {
+    "title": "Call Center Analytics With Snowflake Cortex Functions And Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=-3ThRxoZjcE"
+  },
+  {
+    "title": "[Live] Cost Optimization with Snowpipe Streaming",
+    "url": "https://www.youtube.com/watch?v=_cS23WjfCMc"
+  },
+  {
+    "title": "Building Your Customer Social Graph Using RelationalAI And Snowflake",
+    "url": "https://www.youtube.com/watch?v=xxoV55of0FE"
+  },
+  {
+    "title": "Build An Energy Price Forecasting App Using Snowpark ML And Marketplace",
+    "url": "https://www.youtube.com/watch?v=04D0VHiORB8"
+  },
+  {
+    "title": "What Is Snowflake?",
+    "url": "https://www.youtube.com/watch?v=uxzxL2Bm7kk"
+  },
+  {
+    "title": "End-to-End Machine Learning with Snowflake Notebooks",
+    "url": "https://www.youtube.com/watch?v=LeSGBW0YoLg"
+  },
+  {
+    "title": "Demo | How To Gain Insights From World Economic Data Using Cybersyn Data Sets",
+    "url": "https://www.youtube.com/watch?v=uRvLPX6vXz4"
+  },
+  {
+    "title": "Replicate Data From SAP Netweaver To Snowflake With SNP Glue",
+    "url": "https://www.youtube.com/watch?v=AIb4t1o_74o"
+  },
+  {
+    "title": "Live: Tableau + Snowflake: Trends & Predictions in Data, Analytics, and AI",
+    "url": "https://www.youtube.com/watch?v=SXgKLGJnvqU"
+  },
+  {
+    "title": "Demo | How Elysium Provides Integrated Search, Security, and Observability In One Platform",
+    "url": "https://www.youtube.com/watch?v=-lJc61VU2kE"
+  },
+  {
+    "title": "How Arccos Golf & Snowflake Use AI To Help Golfers Achieve Lower Handicaps",
+    "url": "https://www.youtube.com/watch?v=xOpF2CeH8k0"
+  },
+  {
+    "title": "How Does Taylor Swift Affect The Economy?",
+    "url": "https://www.youtube.com/watch?v=LKpNVtY-Uj4"
+  },
+  {
+    "title": "What Is A Virtual Warehouse?",
+    "url": "https://www.youtube.com/watch?v=qg59upK7rTo"
+  },
+  {
+    "title": "AI Builders | Landing AI Brings AI To Unstructured Data",
+    "url": "https://www.youtube.com/watch?v=W197AoArnRM"
+  },
+  {
+    "title": "Fine Tune LLMs Using Snowpark Container Services And Amazon Bedrock",
+    "url": "https://www.youtube.com/watch?v=XkXhlYEqAeM"
+  },
+  {
+    "title": "[LIVE] Demo Dare: Run Doom Inside Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=-v7bNQ8zb3c"
+  },
+  {
+    "title": "How Much Do You Tip?",
+    "url": "https://www.youtube.com/watch?v=JdzIm3OdcY8"
+  },
+  {
+    "title": "How Generative AI Creates More Opportunities",
+    "url": "https://www.youtube.com/watch?v=0H0RKS1pZx4"
+  },
+  {
+    "title": "A Demonstration Of How To Build ML Pipelines With Snowpark In Hex Notebooks",
+    "url": "https://www.youtube.com/watch?v=6N1FRzku3FM"
+  },
+  {
+    "title": "FrostyLibrary: A Snowflake Cortex LLM Demo",
+    "url": "https://www.youtube.com/watch?v=bVq1I7VwC9s"
+  },
+  {
+    "title": "[LIVE] Getting Started with Snowflake and Amazon Data Firehose",
+    "url": "https://www.youtube.com/watch?v=DwN9YaECPr4"
+  },
+  {
+    "title": "Building A Retrieval-Augmented Generation (RAG) Application Using Snowflake Cortex And Streamlit",
+    "url": "https://www.youtube.com/watch?v=KVPfkZE3WPE"
+  },
+  {
+    "title": "Highest Grossing Concert Tours",
+    "url": "https://www.youtube.com/watch?v=alsPZqXxzAI"
+  },
+  {
+    "title": "Snowflake Notebooks 101: SQL, Python, Streamlit & Snowpark",
+    "url": "https://www.youtube.com/watch?v=YB1B6vcMaGE"
+  },
+  {
+    "title": "Behind the Cape: Data Mesh Leveraging Data Exchange",
+    "url": "https://www.youtube.com/watch?v=QEU4szwcfGk"
+  },
+  {
+    "title": "[LIVE] Demo Dare: From Snowpark and Spark with Apache Iceberg",
+    "url": "https://www.youtube.com/watch?v=OE9TSi7p7_0"
+  },
+  {
+    "title": "Live: Distributed Model Development with Snowpark ML",
+    "url": "https://www.youtube.com/watch?v=glFRDJoaDWQ"
+  },
+  {
+    "title": "Demo Of How To Use SNP Glue Connector To Move Data Into Snowflake",
+    "url": "https://www.youtube.com/watch?v=nu3tvTvOpgU"
+  },
+  {
+    "title": "Behind The Cape: Launching A Commercial Snowflake Native App On Snowflake",
+    "url": "https://www.youtube.com/watch?v=KlHhb_OXAGg"
+  },
+  {
+    "title": "[LIVE] Demo Dare: Use Dataiku and Snowflake to Chat with your Documents",
+    "url": "https://www.youtube.com/watch?v=phkXzR9Nz-s"
+  },
+  {
+    "title": "Demo Of Informatica's Data Management Platform",
+    "url": "https://www.youtube.com/watch?v=gbcL5ISO7G4"
+  },
+  {
+    "title": "Live: Object Tagging for Cost Attribution",
+    "url": "https://www.youtube.com/watch?v=iGrGSCdkD7c"
+  },
+  {
+    "title": "[LIVE] Demo Dare: Using AI/LLMs to Create Demand Generation Marketing Emails",
+    "url": "https://www.youtube.com/watch?v=gjYJZrDV7zY"
+  },
+  {
+    "title": "Live: Unify Raw Google Analytics Data in Snowflake",
+    "url": "https://www.youtube.com/watch?v=yiBZLnCJnzE"
+  },
+  {
+    "title": "Analyzing 20 Million Rows in Under 3 Minutes with Snowpark And Hex",
+    "url": "https://www.youtube.com/watch?v=kDeIqDN_QIo"
+  },
+  {
+    "title": "Quick Demo | ThingsThinking Brings Document Mining Capabilities to Snowflake",
+    "url": "https://www.youtube.com/watch?v=OUAQg9Dqt38"
+  },
+  {
+    "title": "Quick Demo | Using Tenable To Implement ML In Snowflake Databases and ETLs",
+    "url": "https://www.youtube.com/watch?v=ipgP8IL-lh4"
+  },
+  {
+    "title": "[LIVE] Demo Dare: The Power of LLMs with Skyflow's VerbaGPT",
+    "url": "https://www.youtube.com/watch?v=7LN3_WL4-Hc"
+  },
+  {
+    "title": "Quick Demo | Building A Data-Driven App With Squid Cloud",
+    "url": "https://www.youtube.com/watch?v=UToGs9qoRt0"
+  },
+  {
+    "title": "Quick Demo | Using Sonarverse's Sonarbot To Interact With Blockchain Data Sets",
+    "url": "https://www.youtube.com/watch?v=b2H1Zpsx29A"
+  },
+  {
+    "title": "Feature Flurry: Learn How Hybrid Tables Bring Analytical And Transactional Data Together",
+    "url": "https://www.youtube.com/watch?v=zw5EimiDfSY"
+  },
+  {
+    "title": "Quick Demo | Building Customer-Facing Dashboards With Patch",
+    "url": "https://www.youtube.com/watch?v=Ay6p8aVEiaY"
+  },
+  {
+    "title": "Quick Demo | Using Omnata To Group Streamlit Components Into Reusable Widgets",
+    "url": "https://www.youtube.com/watch?v=IVGAjiFUTSY"
+  },
+  {
+    "title": "Quick Demo | Extracting Insights From AI Resarch Papers",
+    "url": "https://www.youtube.com/watch?v=oLcAlG711dQ"
+  },
+  {
+    "title": "Quick Demo | Generating Financial Insights Using Maxa And Snowflake",
+    "url": "https://www.youtube.com/watch?v=IgjoSZZMZkY"
+  },
+  {
+    "title": "Quick Demo | Material Security Capitalizes On Snowpipe's Real-time Data Ingest Capabilities",
+    "url": "https://www.youtube.com/watch?v=6EM0af8AQZo"
+  },
+  {
+    "title": "Quick Demo | How Mapbox Used the Snowflake Native Application Framework",
+    "url": "https://www.youtube.com/watch?v=XVm3fBjuH2U"
+  },
+  {
+    "title": "[LIVE] Demo Dare: Low Latency Data Streaming with Streamkap",
+    "url": "https://www.youtube.com/watch?v=ccQPGT9F0UQ"
+  },
+  {
+    "title": "Quick Demo | Building a Wholistic View of  Customers with LiveRamp",
+    "url": "https://www.youtube.com/watch?v=oWHI6M7_Utg"
+  },
+  {
+    "title": "Quick Demo | Using the Kumo.ai Platform To Quickly Go From Raw Data to Highly Accurate Predications",
+    "url": "https://www.youtube.com/watch?v=8UY2VyV_P6s"
+  },
+  {
+    "title": "Using Hunters For Data Ingestion And Threat Detection",
+    "url": "https://www.youtube.com/watch?v=Zjl2NeT9dMA"
+  },
+  {
+    "title": "Behind The Cape: Capitalize On Gen AI Capabilities",
+    "url": "https://www.youtube.com/watch?v=_IGiTjJqqm0"
+  },
+  {
+    "title": "Using Honeydew And Snowflake To Train An ML Model With Dynamic Data",
+    "url": "https://www.youtube.com/watch?v=AXuJQy66FQk"
+  },
+  {
+    "title": "Using The Gurucul Connected App To Run Queries Through Snowflake",
+    "url": "https://www.youtube.com/watch?v=NAZzbt2u77E"
+  },
+  {
+    "title": "Equals Uses AI To Bring Unprecedented Capabilities To Spreadsheets",
+    "url": "https://www.youtube.com/watch?v=4VERgxzOQvg"
+  },
+  {
+    "title": "Quick Demo | How Elysium Enhances Security Analytics By Leveraging Snowflake Features",
+    "url": "https://www.youtube.com/watch?v=KXX5GQok7W8"
+  },
+  {
+    "title": "A Demo Showing How Dassana Has Brought Gen AI To The World of Cloud Security",
+    "url": "https://www.youtube.com/watch?v=ld-c4PnpxgE"
+  },
+  {
+    "title": "[LIVE] Demo Dare: Say Goodbye to Notebook Memory Limits With Hex",
+    "url": "https://www.youtube.com/watch?v=xNMkeIumQcE"
+  },
+  {
+    "title": "Quick Demo | Using The Datacoves Analytics Platform With Streamlit And Dynamic Tables",
+    "url": "https://www.youtube.com/watch?v=MX86D0zbHQY"
+  },
+  {
+    "title": "Demo Of How Sundeck's Query Engineering Platform Optimizes Snowflake Warehouse Utilization",
+    "url": "https://www.youtube.com/watch?v=4i1dG4Ugdrw"
+  },
+  {
+    "title": "Quick Demo | Leveraging A Security Data Lake Strategy With The CyberSaint CyberStrong Platform",
+    "url": "https://www.youtube.com/watch?v=RYF8I42e3C4"
+  },
+  {
+    "title": "Live: End-to-End ML Ops in Snowflake",
+    "url": "https://www.youtube.com/watch?v=prA014tFRwY"
+  },
+  {
+    "title": "Quick Demo | Leveraging The Ascend.io Platform To Use Document AI",
+    "url": "https://www.youtube.com/watch?v=eWpP6iRkU8I"
+  },
+  {
+    "title": "Demo Of Propel's Platform For Accelerating The Building Of Analytics Dashboards",
+    "url": "https://www.youtube.com/watch?v=xgqzRU3Dd4U"
+  },
+  {
+    "title": "Quick Demo | Anvilogic's Unified Detect Feature For Snowflake",
+    "url": "https://www.youtube.com/watch?v=fvTFwVmpw18"
+  },
+  {
+    "title": "Quick Demo | How ApexaIQ Migrated Its SaaS Platform From PostgreSQL to the Data Cloud",
+    "url": "https://www.youtube.com/watch?v=_KFDG9BuDIc"
+  },
+  {
+    "title": "Demo of Nulogy’s Supplier Collaboration Platform",
+    "url": "https://www.youtube.com/watch?v=oJHj0_tv6n4"
+  },
+  {
+    "title": "[LIVE] Demo Dare: Custom Data Integration with Airbyte and Snowflake",
+    "url": "https://www.youtube.com/watch?v=5JMLKoZ8KQs"
+  },
+  {
+    "title": "Demo Of How Pipedream’s Integration Platform Enhances Developer Productivity",
+    "url": "https://www.youtube.com/watch?v=dagoGARBACg"
+  },
+  {
+    "title": "Demo Of Kubit's Product Analytics Platform",
+    "url": "https://www.youtube.com/watch?v=V5nUHZxFl2g"
+  },
+  {
+    "title": "Live: Data Engineering with Snowpark Python and VSCode",
+    "url": "https://www.youtube.com/watch?v=DMijlWUPZk0"
+  },
+  {
+    "title": "Demo Of The Data.World Data Catalog And Governance Platform",
+    "url": "https://www.youtube.com/watch?v=W_HShrSpBgY"
+  },
+  {
+    "title": "Demo Of Affinity Solutions Native App For Accessing Database Of Debit And Credit Card Transactions",
+    "url": "https://www.youtube.com/watch?v=mpacsSCAyfA"
+  },
+  {
+    "title": "Demo of the FullContact Identity Resolution Platform",
+    "url": "https://www.youtube.com/watch?v=3VYTnRcDODk"
+  },
+  {
+    "title": "[Live] 5 Minute Demo Dare: Snowpark Python Library Local Testing",
+    "url": "https://www.youtube.com/watch?v=x1XSQH4B2oQ"
+  },
+  {
+    "title": "Intro to Snowpark Container Services Quickstart Walkthrough",
+    "url": "https://www.youtube.com/watch?v=izeG3pvvy9M"
+  },
+  {
+    "title": "Demo Of The VGS Data Tokenization Platform  For Accelerating The Product Development Process",
+    "url": "https://www.youtube.com/watch?v=S6BLXCwhCs0"
+  },
+  {
+    "title": "How To Integrate Databricks With Snowflake-Managed Iceberg Tables",
+    "url": "https://www.youtube.com/watch?v=lIavIiBBvV8"
+  },
+  {
+    "title": "Demo of LiveRamp's Identity Framework For Creating Robust Customer Profiles",
+    "url": "https://www.youtube.com/watch?v=mGdH3lklZ84"
+  },
+  {
+    "title": "Role-Based Access Control For Snowpark External Network Access",
+    "url": "https://www.youtube.com/watch?v=QhbocXQL61w"
+  },
+  {
+    "title": "Demo of Maxa's Application for Financial Analysis",
+    "url": "https://www.youtube.com/watch?v=UtQI90jJ7t4"
+  },
+  {
+    "title": "Snowflake 101: What is a Virtual Warehouse?",
+    "url": "https://www.youtube.com/watch?v=0mMGKy8UjhM"
+  },
+  {
+    "title": "Snowflake 101: What is Snowpipe?",
+    "url": "https://www.youtube.com/watch?v=b0FYIxeL4Gs"
+  },
+  {
+    "title": "Snowflake Startup Challenge | Hear From Snowflake Ventures",
+    "url": "https://www.youtube.com/watch?v=CxNor1MVwPE"
+  },
+  {
+    "title": "Snowflake Startup Challenge | A Conversation With NYSE's Lynn Martin",
+    "url": "https://www.youtube.com/watch?v=ZgRkcbCpMWc"
+  },
+  {
+    "title": "5 Minute Demo Dare: Running Llama 2 in Snowflake",
+    "url": "https://www.youtube.com/watch?v=FbZqfoUwKns"
+  },
+  {
+    "title": "Snowflake Startup Challenge | Perspectives from the NYSE Bell Ringing Ceremony",
+    "url": "https://www.youtube.com/watch?v=n_dOPXOnU98"
+  },
+  {
+    "title": "Kicking Off The Snowflake Startup Challenge 2024",
+    "url": "https://www.youtube.com/watch?v=M6S_TZ0IatI"
+  },
+  {
+    "title": "Demo | Informatica Enterprise Data Integrator Speeds Data Ingestion & Replication",
+    "url": "https://www.youtube.com/watch?v=JT2b_lCLbLY"
+  },
+  {
+    "title": "Behind The Cape: Loading The TPC-DI Data Set Using Snowpark Python",
+    "url": "https://www.youtube.com/watch?v=WmcfIf6gCGE"
+  },
+  {
+    "title": "Snowflake BUILD | LLM Innovators Showcase",
+    "url": "https://www.youtube.com/watch?v=fIPZctrno1E"
+  },
+  {
+    "title": "Demo: Build, Hypertune, And Deploy An XGBoost Prediction Model With Snowpark ML",
+    "url": "https://www.youtube.com/watch?v=vfBDUBUiXfg"
+  },
+  {
+    "title": "Snowflake BUILD | Using Yasa, A Multimodal AI Assistant, With Reka And Snowflake",
+    "url": "https://www.youtube.com/watch?v=b3i6VuLIENc"
+  },
+  {
+    "title": "Snowflake BUILD | How Tenable Integrates Snowpark Container Services Into Its Exposure AI Workflows",
+    "url": "https://www.youtube.com/watch?v=RM-d2fcNSLs"
+  },
+  {
+    "title": "Snowflake BUIL:D | Tips and Tricks for Cost Optimization for Builders",
+    "url": "https://www.youtube.com/watch?v=t84btQIgWgU"
+  },
+  {
+    "title": "Snowflake BUILD | Logging And Tracing For Snowpark And Snowflake Native Apps",
+    "url": "https://www.youtube.com/watch?v=p6Hc4N1kLRQ"
+  },
+  {
+    "title": "Snowflake BUILD | What's New With Snowflake's Developer Ecosystem and APIs?",
+    "url": "https://www.youtube.com/watch?v=U8iQ73hWQrA"
+  },
+  {
+    "title": "Snowflake BUILD | Unlocking the Power of Snowpark for Python with Anaconda: A Comprehensive Demo",
+    "url": "https://www.youtube.com/watch?v=2iwABJR1Qz8"
+  },
+  {
+    "title": "Snowflake BUILD | What’s New In Snowflake SQL For Builders",
+    "url": "https://www.youtube.com/watch?v=K93wDA9DuwA"
+  },
+  {
+    "title": "Snowflake BUILD | Data Pipeline Monitoring With Snowflake Cortex ML-based Functions",
+    "url": "https://www.youtube.com/watch?v=xgxycDLg07U"
+  },
+  {
+    "title": "Live: Query Acceleration Service",
+    "url": "https://www.youtube.com/watch?v=p9hvL8k1Fi0"
+  },
+  {
+    "title": "Snowflake BUILD | Learn How Maxa Manages Its Snowflake Native App Release Cycle",
+    "url": "https://www.youtube.com/watch?v=MBsZX9Ul7gM"
+  },
+  {
+    "title": "Snowflake BUILD | Accelerating Deployment Of Data Workloads With Docker And Snowpark",
+    "url": "https://www.youtube.com/watch?v=fBmNvbhptG0"
+  },
+  {
+    "title": "Snowflake BUILD | Extreme Makeover: Supercharge Your Notebook Edition",
+    "url": "https://www.youtube.com/watch?v=3EoZeNc4G7E"
+  },
+  {
+    "title": "Snowflake BUILD | Retrieval Augmented Generation In The Real World",
+    "url": "https://www.youtube.com/watch?v=7dG2X5Ygl3A"
+  },
+  {
+    "title": "Snowflake BUILD | Fine-Tuning The Code Llama LLM With Weights & Biases",
+    "url": "https://www.youtube.com/watch?v=ulKVTINDuBc"
+  },
+  {
+    "title": "Snowflake BUILD | How To Use Apache Iceberg With Snowflake And AWS",
+    "url": "https://www.youtube.com/watch?v=NHn1tzzrp5o"
+  },
+  {
+    "title": "Snowflake BUILD | The Future Of DevOps With Snowflake",
+    "url": "https://www.youtube.com/watch?v=k20yLpW8-xU"
+  },
+  {
+    "title": "Snowflake BUILD | Automate Data Visualizations in Streamlit With Microsoft’s LIDA",
+    "url": "https://www.youtube.com/watch?v=QMhUJXjtEo4"
+  },
+  {
+    "title": "Snowflake BUILD: Speed Up App Development Using Streamlit In Snowflake And The Snowflake CLI",
+    "url": "https://www.youtube.com/watch?v=H5i8kIjbknc"
+  },
+  {
+    "title": "Snowflake BUILD: Build And Configure Secure Snowflake Native Apps",
+    "url": "https://www.youtube.com/watch?v=y_HuLvILpyY"
+  },
+  {
+    "title": "Behind The Cape: Building Data Apps Easily With  Piers Batchelor",
+    "url": "https://www.youtube.com/watch?v=rJxexyIy_zs"
+  },
+  {
+    "title": "Snowflake BUILD: Simplify Application Development With Hybrid Tables",
+    "url": "https://www.youtube.com/watch?v=kBdz2BFxp6U"
+  },
+  {
+    "title": "Snowflake BUILD: Build, Hypertune, And Deploy An XGBoost Prediction Model Wiith Snowpark ML",
+    "url": "https://www.youtube.com/watch?v=C4ZEaljbBv4"
+  },
+  {
+    "title": "Snowflake BUILD: AI Evolution, Shifts And Opportunities For Builders",
+    "url": "https://www.youtube.com/watch?v=Te15cRPsrII"
+  },
+  {
+    "title": "Snowflake BUILD Keynote: Retraining Yourself For A Rapidly Changing AI Landscape",
+    "url": "https://www.youtube.com/watch?v=jnMC2TYdBnc"
+  },
+  {
+    "title": "Snowflake BUILD Keynote: Application Development Using Generative AI",
+    "url": "https://www.youtube.com/watch?v=q3cZavJezXA"
+  },
+  {
+    "title": "Snowflake BUILD Keynote: Build Confidence In LLM Applications, From Prototype To Production",
+    "url": "https://www.youtube.com/watch?v=mCZawOTdDL4"
+  },
+  {
+    "title": "Snowflake BUILD 2023: Opening Keynote",
+    "url": "https://www.youtube.com/watch?v=J9U2MPU5nUI"
+  },
+  {
+    "title": "Snowflake BUILD: Train And Deploy Image Models Using Pytorch & Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=z6ifw2tHPtg"
+  },
+  {
+    "title": "Importing Worksheets To Snowsight For The Snowsight Upgrade",
+    "url": "https://www.youtube.com/watch?v=PI8cIRdBDO0"
+  },
+  {
+    "title": "Live: Snowflake Cortex ML Functions",
+    "url": "https://www.youtube.com/watch?v=6JT8TANu2Sw"
+  },
+  {
+    "title": "We Are Builders",
+    "url": "https://www.youtube.com/watch?v=uJ7itBVdIn0"
+  },
+  {
+    "title": "Turbocharge Your Snowpark Tests With Local Testing",
+    "url": "https://www.youtube.com/watch?v=MsFeX2DFxEM"
+  },
+  {
+    "title": "BUILD 2023 | The Dev Conference for AI & Apps",
+    "url": "https://www.youtube.com/watch?v=BQsGaYN1Qs8"
+  },
+  {
+    "title": "Gen AI For Snowflake Analysts And SQL Developers | Snowday 2023",
+    "url": "https://www.youtube.com/watch?v=77bFPsBZtDI"
+  },
+  {
+    "title": "Understand, Control, And Optimize Spend In Snowflake More Effectively  | Snowday 2023",
+    "url": "https://www.youtube.com/watch?v=Dwf11NxNqbw"
+  },
+  {
+    "title": "Building With Snowpark Container Services, Snowflake Native Apps, And Hybrid Tables | Snowday 2023",
+    "url": "https://www.youtube.com/watch?v=DBfzzZ82ZaY"
+  },
+  {
+    "title": "What's New: Architecture Patterns In The Data Cloud | Snowday 2023",
+    "url": "https://www.youtube.com/watch?v=9YQTqQ2Ow48"
+  },
+  {
+    "title": "Snowflake Cost Management & Spend Visibility",
+    "url": "https://www.youtube.com/watch?v=6fAEc6Cx2hk"
+  },
+  {
+    "title": "Announcing New Innovations For Snowflake’s Trusted Single Platform | Snowday 2023",
+    "url": "https://www.youtube.com/watch?v=6dfgcbuEKOU"
+  },
+  {
+    "title": "Fast, Easy, And Secure AI/ML Development And Deployment In Snowflake | Snowday 2023",
+    "url": "https://www.youtube.com/watch?v=3WqDHoBGzPM"
+  },
+  {
+    "title": "How Americans Spend Their Money",
+    "url": "https://www.youtube.com/watch?v=mRYU6sKXUjE"
+  },
+  {
+    "title": "Most Popular Fast Food Restaurants",
+    "url": "https://www.youtube.com/watch?v=oDjhNrU1LrY"
+  },
+  {
+    "title": "How Does Weather Affect F1 Races?",
+    "url": "https://www.youtube.com/watch?v=HF1e0QEgFx4"
+  },
+  {
+    "title": "Extreme Makeover: Spark Edition",
+    "url": "https://www.youtube.com/watch?v=8IGP72KxTBw"
+  },
+  {
+    "title": "Live - Community Product Update: Iceberg & Snowflake Cortex",
+    "url": "https://www.youtube.com/watch?v=v2EcIxmVOjQ"
+  },
+  {
+    "title": "How Many YouTube Play Buttons Are There?",
+    "url": "https://www.youtube.com/watch?v=stiXQFg6E8A"
+  },
+  {
+    "title": "Feature Flurry: Build Your App And Your Business With The Snowflake Native App Framework",
+    "url": "https://www.youtube.com/watch?v=zWCMO1zWjKU"
+  },
+  {
+    "title": "The Definitive Guide to Managing Spend in Snowflake",
+    "url": "https://www.youtube.com/watch?v=59eJLoeHUqo"
+  },
+  {
+    "title": "Using Lamini To Fine-Tune LLMs In Snowflake With Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=qSAVIDivILk"
+  },
+  {
+    "title": "Prep A Ski Bookings Data Set Using The Snowflake Engine Without Coding",
+    "url": "https://www.youtube.com/watch?v=JZjJ73lgaA8"
+  },
+  {
+    "title": "Snowflake Cortex: Industry-leading AI Models And LLMs In Snowflake | Snowday 2023",
+    "url": "https://www.youtube.com/watch?v=-ZagrEDUnHQ"
+  },
+  {
+    "title": "Build, Run, and Distribute Custom Apps on Snowflake | Snowday 2023",
+    "url": "https://www.youtube.com/watch?v=-eOW68ne8z8"
+  },
+  {
+    "title": "Live - Developer Experience with APIs & Tooling",
+    "url": "https://www.youtube.com/watch?v=99hyhuj31ro"
+  },
+  {
+    "title": "Behind The Cape: Snowflake Query Optimization, Part 3",
+    "url": "https://www.youtube.com/watch?v=4BqpzTmlzsE"
+  },
+  {
+    "title": "How Morgan Stanley Maximizes Snowflake's Single Platform",
+    "url": "https://www.youtube.com/watch?v=B_O4FTkmaAQ"
+  },
+  {
+    "title": "Improve Your Snowflake Performance With Storage Optimization",
+    "url": "https://www.youtube.com/watch?v=Ax-5HJtPdqE"
+  },
+  {
+    "title": "How Northern Trust Builds Dynamic Data Pipelines",
+    "url": "https://www.youtube.com/watch?v=4O2_I25izIs"
+  },
+  {
+    "title": "Streamlining Feature Engineering at Fidelity Using Snowflake's ML Capabilities",
+    "url": "https://www.youtube.com/watch?v=ZeeNZtqJT3g"
+  },
+  {
+    "title": "Feature Flurry: Snowflake Performance Index",
+    "url": "https://www.youtube.com/watch?v=H1ZZsaTV67Q"
+  },
+  {
+    "title": "Behind The Cape: Snowflake Query Optimization, Part 2",
+    "url": "https://www.youtube.com/watch?v=8lIHyCuTac8"
+  },
+  {
+    "title": "Deep Dive: Operationalizing Snowpark For Python",
+    "url": "https://www.youtube.com/watch?v=EgKioy_Z5qw"
+  },
+  {
+    "title": "Security Best Practices For Building Data Applications With Snowflake",
+    "url": "https://www.youtube.com/watch?v=jhWa7ANML5U"
+  },
+  {
+    "title": "Live - Introducing Budgets in Public Preview",
+    "url": "https://www.youtube.com/watch?v=nNOawcDupfo"
+  },
+  {
+    "title": "How Okta Uses Snowflake For Security",
+    "url": "https://www.youtube.com/watch?v=h3MMQMyiXcw"
+  },
+  {
+    "title": "Behind The Cape: Data Modeling with Snowflake",
+    "url": "https://www.youtube.com/watch?v=LAJf9fFrV3k"
+  },
+  {
+    "title": "Retail Personalized Recommendation Demo With Snowflake And Azure Open AI",
+    "url": "https://www.youtube.com/watch?v=o4imMts4wRw"
+  },
+  {
+    "title": "The Future of Search at Snowflake",
+    "url": "https://www.youtube.com/watch?v=6GIiiaiQ2As"
+  },
+  {
+    "title": "How to Run Data Lake Workloads Using Snowpark",
+    "url": "https://www.youtube.com/watch?v=c8sm_Ar7AfU"
+  },
+  {
+    "title": "Live — Under the Hood: Streamlit in Snowflake",
+    "url": "https://www.youtube.com/watch?v=kfrPyZySWqI"
+  },
+  {
+    "title": "Build Simpler with Unistore",
+    "url": "https://www.youtube.com/watch?v=5NnlKbPMkIk"
+  },
+  {
+    "title": "How Apache Iceberg and Snowflake Enable a Polyglot Data Platform",
+    "url": "https://www.youtube.com/watch?v=Ix2BZV1AjxA"
+  },
+  {
+    "title": "Snowpark for Python: Stored Procedures Demo",
+    "url": "https://www.youtube.com/watch?v=BNHF-xGDBUg"
+  },
+  {
+    "title": "Snowpark for Python: User-Defined Functions Demo",
+    "url": "https://www.youtube.com/watch?v=rZr03WQOWRs"
+  },
+  {
+    "title": "Snowpark for Python: DataFrames Demo",
+    "url": "https://www.youtube.com/watch?v=DL3FsSUaM8E"
+  },
+  {
+    "title": "How To Build A Snowflake Native App For Data Ingestion",
+    "url": "https://www.youtube.com/watch?v=bBfYzM_PKEU"
+  },
+  {
+    "title": "A Quick Look At The Latest Upgrade To Snowsight",
+    "url": "https://www.youtube.com/watch?v=XkPnS3VGlqg"
+  },
+  {
+    "title": "Observability For Snowflake Data Applications",
+    "url": "https://www.youtube.com/watch?v=y3e7_Onyzts"
+  },
+  {
+    "title": "Feature Flurry: Unpacking The GEOMETRY Data Type For Geospatial Analytics",
+    "url": "https://www.youtube.com/watch?v=Gn1wU6Xm-uA"
+  },
+  {
+    "title": "How Prizeout Plans To Build Upon Its Snowflake Platform To Support Future Growth: Episode 4",
+    "url": "https://www.youtube.com/watch?v=Cw7hyKC8Dlg"
+  },
+  {
+    "title": "A Peek Behind The Curtain At Prizeout’s Migration To Snowflake: Episode 3",
+    "url": "https://www.youtube.com/watch?v=9FmgT-uXe5U"
+  },
+  {
+    "title": "Feature Flurry: Build Apps Using Python With Streamlit In Snowflake",
+    "url": "https://www.youtube.com/watch?v=yjMokfQ8Ryk"
+  },
+  {
+    "title": "Why Prizeout Chose Snowflake As Its Technology Partner: Episode 2",
+    "url": "https://www.youtube.com/watch?v=CAz93DSsSrk"
+  },
+  {
+    "title": "Data Engineering With Python In Snowflake",
+    "url": "https://www.youtube.com/watch?v=1NajAkAHOHg"
+  },
+  {
+    "title": "How Prizeout Built a Startup on Snowflake: Episode 1",
+    "url": "https://www.youtube.com/watch?v=JklnAeuRX9g"
+  },
+  {
+    "title": "Unlocking The Power Of OpenAI In Snowflake",
+    "url": "https://www.youtube.com/watch?v=9p77D0zZNiU"
+  },
+  {
+    "title": "How AT&T's Migration Resulted in Faster Performance with Lower Cost",
+    "url": "https://www.youtube.com/watch?v=9FW5wFKj_mk"
+  },
+  {
+    "title": "Building a Diamond Shopping App Using LLMs and Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=TmEFowmnM5Q"
+  },
+  {
+    "title": "Feature Flurry: App Development With Snowflake",
+    "url": "https://www.youtube.com/watch?v=FaHQvA5JLO4"
+  },
+  {
+    "title": "Parsing Semi-Structured Data (JSON / XML) In Snowflake With Coalesce",
+    "url": "https://www.youtube.com/watch?v=Vy8rPBq6G00"
+  },
+  {
+    "title": "Deep Dive: Snowflake Native App Framework",
+    "url": "https://www.youtube.com/watch?v=6AYWfiUqKGo"
+  },
+  {
+    "title": "Streaming et Dynamic Tables pour l'analyse d'ordres de bourse",
+    "url": "https://www.youtube.com/watch?v=CrG62Rm7PL4"
+  },
+  {
+    "title": "Ingesting IIOT MQTT (Sparkplugb) Into Snowflake Using CirrusLink IOT Bridge",
+    "url": "https://www.youtube.com/watch?v=MIJ2suyE2io"
+  },
+  {
+    "title": "OpenStore Migrates To Snowpark For Faster, Cheaper Pipelines",
+    "url": "https://www.youtube.com/watch?v=Z6oXCy8gJQI"
+  },
+  {
+    "title": "Reduce Costs With Snowpipe Streaming And Dynamic Tables",
+    "url": "https://www.youtube.com/watch?v=y67bH9ss07Y"
+  },
+  {
+    "title": "Synchronisez ServiceNow Avec Snowflake",
+    "url": "https://www.youtube.com/watch?v=gleybjQpZyg"
+  },
+  {
+    "title": "Synchronise Data Between ServiceNow And Snowflake With The Native Connector",
+    "url": "https://www.youtube.com/watch?v=H0heRBBioU8"
+  },
+  {
+    "title": "Feature Flurry: Snowflake's ML-Powered Functions",
+    "url": "https://www.youtube.com/watch?v=p5FPTtmxqDE"
+  },
+  {
+    "title": "Building on Snowflake: A Panel of Data Superheroes Share Their Perspectives",
+    "url": "https://www.youtube.com/watch?v=14Gb57XCQhw"
+  },
+  {
+    "title": "How Instacart Optimized Snowflake Costs by 50%",
+    "url": "https://www.youtube.com/watch?v=up3bTjrBvTA"
+  },
+  {
+    "title": "Orchestrating Data Pipelines With Snowpark dbt Python Models And Airflow",
+    "url": "https://www.youtube.com/watch?v=bnRZL64airk"
+  },
+  {
+    "title": "PySpark To Snowpark Migration",
+    "url": "https://www.youtube.com/watch?v=M7uAWoPKMsg"
+  },
+  {
+    "title": "Level Up: Data Loading",
+    "url": "https://www.youtube.com/watch?v=3eiL_y_fcak"
+  },
+  {
+    "title": "Migrer Du Code Existant Vers Snowflake: SAP Factory Calendar",
+    "url": "https://www.youtube.com/watch?v=h9M3hxG9F80"
+  },
+  {
+    "title": "Behind the Magic: How Hex Is Built On Snowflake",
+    "url": "https://www.youtube.com/watch?v=TQd1pTDjNWg"
+  },
+  {
+    "title": "Feature Flurry: Building Streaming Pipelines with Dynamic Tables",
+    "url": "https://www.youtube.com/watch?v=4Atv-6DKOm4"
+  },
+  {
+    "title": "Demo | Snowflake Native App Framework",
+    "url": "https://www.youtube.com/watch?v=bM25bhPcS2g"
+  },
+  {
+    "title": "How Northern Trust Ensures Shared Data And Apps Are Reliable | Summit 2023",
+    "url": "https://www.youtube.com/watch?v=xkT5H3r-f-c"
+  },
+  {
+    "title": "Real-Time Ingestion And Transformation With Snowflake",
+    "url": "https://www.youtube.com/watch?v=GT3XkZtDrm8"
+  },
+  {
+    "title": "Snowflake Startup Challenge Finale",
+    "url": "https://www.youtube.com/watch?v=WFOVdFTpHMg"
+  },
+  {
+    "title": "Snowflake ML Powered Functions: Forecasting, Anomaly Detection, Contribution Explorer",
+    "url": "https://www.youtube.com/watch?v=8WgVTf3im7w"
+  },
+  {
+    "title": "Behind The Cape: A Conversation With Microsoft's Shankar Narayanan",
+    "url": "https://www.youtube.com/watch?v=QQy4DZ407N4"
+  },
+  {
+    "title": "Feature Flurry: Marketplace Capacity Drawdown Program",
+    "url": "https://www.youtube.com/watch?v=xpHI528KPLQ"
+  },
+  {
+    "title": "Building Django Applications With Snowflake",
+    "url": "https://www.youtube.com/watch?v=_mkyR4lSlAY"
+  },
+  {
+    "title": "Rapid Fire Use Cases and Overview of Snowpark: A Data Superhero Panel",
+    "url": "https://www.youtube.com/watch?v=b24CTcfVM1A"
+  },
+  {
+    "title": "Hyperparameter Tuning in Snowpark",
+    "url": "https://www.youtube.com/watch?v=xnc9_hpfuqA"
+  },
+  {
+    "title": "Optimize Your Snowflake Investment Through Workload Management",
+    "url": "https://www.youtube.com/watch?v=4olft5c4bdQ"
+  },
+  {
+    "title": "Predactica ML on Snowflake",
+    "url": "https://www.youtube.com/watch?v=gwedQQx69Dg"
+  },
+  {
+    "title": "Calcul Du Délai Moyen De Recouvrement Et Des Impayés à Partir De Données SAP ERP",
+    "url": "https://www.youtube.com/watch?v=L5KGUgGMT5g"
+  },
+  {
+    "title": "GPTZero Demo: Idea to Iteration Powered by Streamlit and Snowflake",
+    "url": "https://www.youtube.com/watch?v=ZWFNelFQUnU"
+  },
+  {
+    "title": "Using a Snowflake Native App for Snowflake Cost Optimization",
+    "url": "https://www.youtube.com/watch?v=rRI_d-TmKwA"
+  },
+  {
+    "title": "Building Pipelines with Dynamic Tables",
+    "url": "https://www.youtube.com/watch?v=uDEh801B9Wg"
+  },
+  {
+    "title": "Snowflake Summit 2023 Builder Keynote",
+    "url": "https://www.youtube.com/watch?v=BluDPqsH544"
+  },
+  {
+    "title": "ALTR Format Preserving Encryption on Snowpark",
+    "url": "https://www.youtube.com/watch?v=_CqDshUuy1Q"
+  },
+  {
+    "title": "Load Data Into Snowflake Faster",
+    "url": "https://www.youtube.com/watch?v=fskgv9IiMyM"
+  },
+  {
+    "title": "Driving Value at Global Enterprise Scale with Snowflake, Kafka, and Feast",
+    "url": "https://www.youtube.com/watch?v=JpqyFsCiSng"
+  },
+  {
+    "title": "Optimize Fleet Management with Advanced Analytics",
+    "url": "https://www.youtube.com/watch?v=L-_IpBwCKsI"
+  },
+  {
+    "title": "Collaborative Logistics Solution with Snowflake and Carto",
+    "url": "https://www.youtube.com/watch?v=nsWyypcNjOY"
+  },
+  {
+    "title": "Hex in Snowpark Container Services  ML Training with GPUs in Snowflake",
+    "url": "https://www.youtube.com/watch?v=6D9JSreLgCQ"
+  },
+  {
+    "title": "Reka In Snowpark Container Services  Multi Modal AI Assistant In Snowflake",
+    "url": "https://www.youtube.com/watch?v=m078wJOtt3U"
+  },
+  {
+    "title": "Streaming with Snowflake",
+    "url": "https://www.youtube.com/watch?v=zH5umveQW_c"
+  },
+  {
+    "title": "Using Snowflake's Document AI and LLMs To Extract Data From Documents",
+    "url": "https://www.youtube.com/watch?v=dN_IZp2W148"
+  },
+  {
+    "title": "Snowflake Native App Framework",
+    "url": "https://www.youtube.com/watch?v=IrKgLGOsUsc"
+  },
+  {
+    "title": "Demo: Machine Learning with Snowflake",
+    "url": "https://www.youtube.com/watch?v=zvy5NMQwhAc"
+  },
+  {
+    "title": "Leveraging DBT To Build Blockchain Data Pipelines | Summit 2023",
+    "url": "https://www.youtube.com/watch?v=HxJ6Gt_PK_E"
+  },
+  {
+    "title": "How To Analyze PDF Docs Using Snowpark",
+    "url": "https://www.youtube.com/watch?v=NqZzUACUzm8"
+  },
+  {
+    "title": "Cost Optimization at Thomson Reuters",
+    "url": "https://www.youtube.com/watch?v=JaTGNzsLZx8"
+  },
+  {
+    "title": "Demo: App Development with Streamlit",
+    "url": "https://www.youtube.com/watch?v=TF_E8ZS6_64"
+  },
+  {
+    "title": "Analyzing Real Estate Properties With Streamlit",
+    "url": "https://www.youtube.com/watch?v=lgGDVlsZuR4"
+  },
+  {
+    "title": "Behind the Cape: Superheroes Offer Their Perspective on Snowflake Summit",
+    "url": "https://www.youtube.com/watch?v=cfkxZ6pT7ms"
+  },
+  {
+    "title": "Exploring Snowflake's Open Source Drivers And API Ecosystem | Summit 2023",
+    "url": "https://www.youtube.com/watch?v=gH6EGej1lNY"
+  },
+  {
+    "title": "Demo: Streaming with Snowflake | Summit 2023",
+    "url": "https://www.youtube.com/watch?v=Ou04UZWwxgg"
+  },
+  {
+    "title": "Snowpark Container Services: GPU Demo for Advanced ML | Summit 2023",
+    "url": "https://www.youtube.com/watch?v=DelaJBm0UgI"
+  },
+  {
+    "title": "Speech-To-Text Ingestion And Transformation With Snowpipe Streaming And Dynamic Tables",
+    "url": "https://www.youtube.com/watch?v=93IwjokgiuM"
+  },
+  {
+    "title": "Building An LLM-Powered Chat Interface In Snowflake Using Snowsight And Streamlit",
+    "url": "https://www.youtube.com/watch?v=-SQXxxKRRFU"
+  },
+  {
+    "title": "Snowflake Tasks Python API And SnowCLI",
+    "url": "https://www.youtube.com/watch?v=mosy2jQKDM0"
+  },
+  {
+    "title": "Git integration And Local Testing For Snowpark",
+    "url": "https://www.youtube.com/watch?v=IlhbpMtLR60"
+  },
+  {
+    "title": "Migrating Workloads From BigQuery To Snowflake",
+    "url": "https://www.youtube.com/watch?v=dkSZD0j4Or4"
+  },
+  {
+    "title": "Operationalizing Snowpark Python | Summit 2023",
+    "url": "https://www.youtube.com/watch?v=a9SQQWmTdm0"
+  },
+  {
+    "title": "External Network Access For Snowpark",
+    "url": "https://www.youtube.com/watch?v=CXnjvyeb-Q8"
+  },
+  {
+    "title": "Snowpark Container Services with NVIDIA",
+    "url": "https://www.youtube.com/watch?v=u98YTgCelYg"
+  },
+  {
+    "title": "Performance and Cost Optimization with Snowflake | Summit 2023",
+    "url": "https://www.youtube.com/watch?v=A8P48TP7VfM"
+  },
+  {
+    "title": "Snowflake SQL Improvements | Summit 2023",
+    "url": "https://www.youtube.com/watch?v=tbmXXRhxrno"
+  },
+  {
+    "title": "Secure and Control Access to High-Risk Data in Snowflake with the VGS Vault Tokenizer",
+    "url": "https://www.youtube.com/watch?v=qRByDa6C9t8"
+  },
+  {
+    "title": "Behind The Cape: Data Governance in Snowflake With Julie Heckman",
+    "url": "https://www.youtube.com/watch?v=V7KAU3ndi00"
+  },
+  {
+    "title": "What's New: Apache Iceberg With Snowflake | Summit 2023",
+    "url": "https://www.youtube.com/watch?v=1-APptl8URs"
+  },
+  {
+    "title": "Connecting Snowflake to S3-Compatible Storage To Process And Query Files | Summit 2023",
+    "url": "https://www.youtube.com/watch?v=7EZqXydceGU"
+  },
+  {
+    "title": "Snowflake Data Heroes Unite",
+    "url": "https://www.youtube.com/watch?v=dEd-6BZwqUw"
+  },
+  {
+    "title": "How VGS Built its Snowflake Native App",
+    "url": "https://www.youtube.com/watch?v=6c2OPfOYJtY"
+  },
+  {
+    "title": "Building robust, cross-functional data apps",
+    "url": "https://www.youtube.com/watch?v=z9_t1dnaO6E"
+  },
+  {
+    "title": "Exploring Generative AI governance on Snowflake and the future of the Data Professional",
+    "url": "https://www.youtube.com/watch?v=BvZGUHz5LXA"
+  },
+  {
+    "title": "How Northwestern Mutual Improved Their Data Pipeline With Snowflake",
+    "url": "https://www.youtube.com/watch?v=S8nRlYaXbdQ"
+  },
+  {
+    "title": "Snowflake Data Superhero Chris Hastie Explains How Snowpark for Python unlocks a Wealth of Value",
+    "url": "https://www.youtube.com/watch?v=hOCiCp0qgAU"
+  },
+  {
+    "title": "How Simon Data Built its Customer Data Platform on Snowflake",
+    "url": "https://www.youtube.com/watch?v=yTAdRAFRvf8"
+  },
+  {
+    "title": "A Conversation with Grzegorz Kapusta, Site Lead for Snowflake in Warsaw",
+    "url": "https://www.youtube.com/watch?v=5KHLtLe0BiI"
+  },
+  {
+    "title": "Generative AI and LLMs at Snowflake",
+    "url": "https://www.youtube.com/watch?v=2h6b5-uuyA4"
+  },
+  {
+    "title": "Building Tenable One On Snowflake",
+    "url": "https://www.youtube.com/watch?v=rNLzBlZTPjQ"
+  },
+  {
+    "title": "Tamr Builds A Native App That Empowers Data Teams | Tamr",
+    "url": "https://www.youtube.com/watch?v=vQrIhCyDGBY"
+  },
+  {
+    "title": "How HUMAN Protects Organizations By Disrupting Digital Fraud And Abuse",
+    "url": "https://www.youtube.com/watch?v=QxqIqrrS_xk"
+  },
+  {
+    "title": "Feature Stores In The Age Of Generative AI And LLMs With The Creator Of Feast",
+    "url": "https://www.youtube.com/watch?v=n4XNFGbBSw4"
+  },
+  {
+    "title": "Introduction to Apache Iceberg With Project Co-Creator Ryan Blue",
+    "url": "https://www.youtube.com/watch?v=k7E1QWtmH68"
+  },
+  {
+    "title": "Meet The Builders Of Frosty Friday, The Weekly Snowflake Challenge Game",
+    "url": "https://www.youtube.com/watch?v=tXylhUQccdk"
+  },
+  {
+    "title": "Apache Arrow, Nanoarrow, And Arrow Database Connectivity (ADBC) With Snowflake And Voltron Data",
+    "url": "https://www.youtube.com/watch?v=9FOp160CZYE"
+  },
+  {
+    "title": "Benn Stancil's Take On Snowflake Summit And Current Data Trends",
+    "url": "https://www.youtube.com/watch?v=9AyR10zWvqU"
+  },
+  {
+    "title": "Power Digital Marketing Utilizes Snowpark For CI/CD",
+    "url": "https://www.youtube.com/watch?v=iSwCFq_cPJQ"
+  },
+  {
+    "title": "How Elementum Built Its IT License Spend Optimization Native App on Snowflake",
+    "url": "https://www.youtube.com/watch?v=mBOpOglfI2c"
+  },
+  {
+    "title": "Building An LLM-Powered Chatbot With Streamlit On Snowflake Data",
+    "url": "https://www.youtube.com/watch?v=3WH1DHBf2WQ"
+  },
+  {
+    "title": "How CloudZero powers cloud profitability",
+    "url": "https://www.youtube.com/watch?v=2HkrXM6ZQbg"
+  },
+  {
+    "title": "How GPTZero used Streamlit to build a wildly popular MVP",
+    "url": "https://www.youtube.com/watch?v=fqWgwgn0bcg"
+  },
+  {
+    "title": "The Big Easy Button for Data Collaboration",
+    "url": "https://www.youtube.com/watch?v=q6qSx7tWHKg"
+  },
+  {
+    "title": "How My Data Outlet Seamlessly Built its Investment Research App Natively on Snowflake",
+    "url": "https://www.youtube.com/watch?v=prev_5aXDmw"
+  },
+  {
+    "title": "Providing reliable and comprehensive blockchain data",
+    "url": "https://www.youtube.com/watch?v=ffGqDtEXn6Q"
+  },
+  {
+    "title": "How semantha.ai Built AI Services with Snowflake | 2023 Startup Challenge Finalist",
+    "url": "https://www.youtube.com/watch?v=YiDUYBlg-as"
+  },
+  {
+    "title": "How Sundeck is Making Query Engineering Easier",
+    "url": "https://www.youtube.com/watch?v=PDItHTeCAEg"
+  },
+  {
+    "title": "How Maxa Automates Financial and Operations ERP Insights | 2023 Startup Challenge Finalist",
+    "url": "https://www.youtube.com/watch?v=EVwHl2bmbdk"
+  },
+  {
+    "title": "How FullContact Built a Native App for Identity Resolution, Customer Recognition and Data Enrichment",
+    "url": "https://www.youtube.com/watch?v=XvdJgyJf6oQ"
+  },
+  {
+    "title": "Honeydew’s Semantic Layer Create a Shared Source of Truth | 2023 Startup Challenge Finalist",
+    "url": "https://www.youtube.com/watch?v=nlE-L8yChbU"
+  },
+  {
+    "title": "How Snowflake Data Superhero is Using Snowpark for Python to Simplify ManyTedius Tasks Across Projec",
+    "url": "https://www.youtube.com/watch?v=yBPYpV0FoyI"
+  },
+  {
+    "title": "Learn What Data Superhero James Weakley is Building with Snowpark and Streamlit",
+    "url": "https://www.youtube.com/watch?v=IYUatYsZtgY"
+  },
+  {
+    "title": "Geocoding Address Data In Snowflake With The Mapbox Native App",
+    "url": "https://www.youtube.com/watch?v=kmUhZjiN0ZY"
+  },
+  {
+    "title": "How To Validate Your Identity Model With Snowflake And Simon Data",
+    "url": "https://www.youtube.com/watch?v=lrrgKT9Ap6Y"
+  },
+  {
+    "title": "Setting Up FullContact's Native Identity Resolution App In Snowflake",
+    "url": "https://www.youtube.com/watch?v=Ft8FT-ngffc"
+  },
+  {
+    "title": "Fraud Detection Using RelationalAI In Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=rxLBmhh8k9E"
+  },
+  {
+    "title": "Deploy Decisioning Models In Snowflake With SAS Viya And Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=qQSRNAiW7Vo"
+  },
+  {
+    "title": "How to Use Snowpark Container Services, Native Apps, and CARTO to Solve Vehicle Routing Problems",
+    "url": "https://www.youtube.com/watch?v=g8c9yuNKguc"
+  },
+  {
+    "title": "Run Hex in Snowpark Container Services: Optimize Your Marketing Budget",
+    "url": "https://www.youtube.com/watch?v=nc0wbV9m_Lo"
+  },
+  {
+    "title": "Execute Model Training Using H2O-3 And Driverless AI In Snowflake With Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=SVzfdC7vUjA"
+  },
+  {
+    "title": "Securely Deliver Predictive ML With Kumo And Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=V1289p6MKxE"
+  },
+  {
+    "title": "Deploy ML Models As RESTful API Service With Dataiku Using Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=J_8lrBXrRIw"
+  },
+  {
+    "title": "Forecast Vegas Buffet Demand Without Code Using Alteryx And Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=1HLcoXOYI5Q"
+  },
+  {
+    "title": "Understanding LLM Performance With Weights And Biases And Snowpark Container Services",
+    "url": "https://www.youtube.com/watch?v=0ZXOAqyyEsk"
+  },
+  {
+    "title": "Snowflake Developers Live Stream",
+    "url": "https://www.youtube.com/watch?v=DXAJOcilov8"
+  },
+  {
+    "title": "Asset Management With Snowflake: Real-Time Cash & PnL On 3 Billion Trades",
+    "url": "https://www.youtube.com/watch?v=HkrRXMHDd-E"
+  },
+  {
+    "title": "Getting Started With Snowpark For Machine Learning On AzureML",
+    "url": "https://www.youtube.com/watch?v=p8QUMiND7Ig"
+  },
+  {
+    "title": "Behind The Cape: Snowpark For Python Demystified With Chris Hastie",
+    "url": "https://www.youtube.com/watch?v=r2Uk8PGRipY"
+  },
+  {
+    "title": "Building Data-Driven Apps With Seamless ML Model Integration | Unlock The Power Of Snowflake",
+    "url": "https://www.youtube.com/watch?v=9gzumSuGBoc"
+  },
+  {
+    "title": "Behind The Cape: Snowflake Cost Optimization, Part 1",
+    "url": "https://www.youtube.com/watch?v=xC5ijNM3u-U"
+  },
+  {
+    "title": "How-To: CI/CD On Snowflake With Terraform, Github, And Github Actions",
+    "url": "https://www.youtube.com/watch?v=chqyASQ_Rrg"
+  },
+  {
+    "title": "Snowflake Snowpipe: Load Data Fast, Analyze Even Faster",
+    "url": "https://www.youtube.com/watch?v=WszQi0P8F3o"
+  },
+  {
+    "title": "Behind The Cape: Snowsight's Key Features With Data Superhero Veronika Durgin",
+    "url": "https://www.youtube.com/watch?v=GvkNGjobk88"
+  },
+  {
+    "title": "Ascend.io Automates the Development and Management of Data Pipelines",
+    "url": "https://www.youtube.com/watch?v=sAVDYNYKdSY"
+  },
+  {
+    "title": "Strategies for Using AI to Build  Data-Intensive Applications and ML Models",
+    "url": "https://www.youtube.com/watch?v=QcXaRk8dwNs"
+  },
+  {
+    "title": "Making The Most Of The Snowflake Worksheet",
+    "url": "https://www.youtube.com/watch?v=fCw9aXOg3WU"
+  },
+  {
+    "title": "How to Build Python Data Engineering Pipelines with Snowpark",
+    "url": "https://www.youtube.com/watch?v=yTUneS1WXao"
+  },
+  {
+    "title": "Using Snowplow to Operationalize Rich, First-Party Customer Behavioral Data",
+    "url": "https://www.youtube.com/watch?v=mk2LrJ6JikM"
+  },
+  {
+    "title": "Connect to Snowflake From VS Code In Just 3 Minutes",
+    "url": "https://www.youtube.com/watch?v=Ov-fluftuiw"
+  },
+  {
+    "title": "A Two-Minute Tutorial On How To Protect Your Data With Multi-factor Authentication",
+    "url": "https://www.youtube.com/watch?v=RXnjG8ISzoQ"
+  },
+  {
+    "title": "Getting Started With Apache Iceberg With Project Co-Creator Ryan Blue",
+    "url": "https://www.youtube.com/watch?v=jTNK_LzHlfE"
+  },
+  {
+    "title": "QPR Scales Up The Capabilities Of Its Business Process Mining Platform With Snowflake",
+    "url": "https://www.youtube.com/watch?v=npDzCLmtdUc"
+  },
+  {
+    "title": "Building A Flight Delay Prediction App Using Streamlit, Snowpark, And The Data Marketplace",
+    "url": "https://www.youtube.com/watch?v=TANMnhNMRPw"
+  },
+  {
+    "title": "Optimize Your Ad Campaigns In Snowpark",
+    "url": "https://www.youtube.com/watch?v=Lva9klc3zu0"
+  },
+  {
+    "title": "Getting Started - Architecture & Key Concepts",
+    "url": "https://www.youtube.com/watch?v=GtVwChmxdpw"
+  },
+  {
+    "title": "Getting Started: Introduction To Snowflake Virtual Warehouses",
+    "url": "https://www.youtube.com/watch?v=TeD5zshkdjY"
+  },
+  {
+    "title": "Eppo’s Native Warehouse Experimentation Platform Promotes Efficient Innovation",
+    "url": "https://www.youtube.com/watch?v=0z69FuuppdE"
+  },
+  {
+    "title": "Getting Started With Coalesce And Snowflake: Introductory Demo",
+    "url": "https://www.youtube.com/watch?v=MVQRH2qsizg"
+  },
+  {
+    "title": "UiPath Uses AI To Help Businesses Discover Ways To Automate Tasks Across An Enterprise",
+    "url": "https://www.youtube.com/watch?v=wRCP9BuzI4w"
+  },
+  {
+    "title": "Feature Engineering And Model Training With Hex In 10 Steps",
+    "url": "https://www.youtube.com/watch?v=kB79qPx5tcg"
+  },
+  {
+    "title": "Generating ML-Ready Pipelines With dbt And Snowpark",
+    "url": "https://www.youtube.com/watch?v=K9nVAaLTAIM"
+  },
+  {
+    "title": "LTIMindtree Demos A Spark-to-Snowpark Migration Process And The Use of Refract",
+    "url": "https://www.youtube.com/watch?v=hhK06yz0ZDI"
+  },
+  {
+    "title": "PowerSchool Uses AI And ML To Brings Dramatic New Capabilities To K-12 Schools",
+    "url": "https://www.youtube.com/watch?v=rSW7WDkMx5I"
+  },
+  {
+    "title": "How to Use Snowflake as a Backend for Your Django App",
+    "url": "https://www.youtube.com/watch?v=Wdck7hBco0U"
+  },
+  {
+    "title": "Quickstart Workshop: Getting Started with Snowpark for Python with Scikit-learn",
+    "url": "https://www.youtube.com/watch?v=zbKLOw66LQk"
+  },
+  {
+    "title": "How to use Snowflake Guides & Labs | Behind The Data Cloud",
+    "url": "https://www.youtube.com/watch?v=tdd7x06nLoI"
+  },
+  {
+    "title": "An Indepth Look at MLOps with Dataiku and Snowpark",
+    "url": "https://www.youtube.com/watch?v=KTU-mg6TNcQ"
+  },
+  {
+    "title": "Optimove’s Unique Marketing Platform Strives to Create Customer Loyalty for Life",
+    "url": "https://www.youtube.com/watch?v=t-Wr1NtpiQI"
+  },
+  {
+    "title": "Learn How to Set Up a Snowpark for Python Lab in Minutes",
+    "url": "https://www.youtube.com/watch?v=McFsTo_ko-s"
+  },
+  {
+    "title": "Get Up and Running Faster on Snowpark with These New Project Templates",
+    "url": "https://www.youtube.com/watch?v=oyXCnI1u3TY"
+  },
+  {
+    "title": "DICOM Image Analysis With Snowpark",
+    "url": "https://www.youtube.com/watch?v=SwTYQXqQ3N4"
+  },
+  {
+    "title": "Capital One Software Brings Cloud & Data Management Solutions to Market",
+    "url": "https://www.youtube.com/watch?v=B4gOZay0UrE"
+  },
+  {
+    "title": "Getting Started - Introduction to Snowflake Data Loading",
+    "url": "https://www.youtube.com/watch?v=htLsbrJDUqk"
+  },
+  {
+    "title": "Pricemoov Automates the Challenge of Managing and Optimizing Prices Across Distribution Channels",
+    "url": "https://www.youtube.com/watch?v=WPQ5vvGl63Q"
+  },
+  {
+    "title": "Automatically Ingesting Streaming Data with Snowpipe",
+    "url": "https://www.youtube.com/watch?v=TR4srYvC9-k"
+  },
+  {
+    "title": "Building and Deploying Continuous Data Pipelines | Snowflake Inc",
+    "url": "https://www.youtube.com/watch?v=0I_ir1m9XpA"
+  },
+  {
+    "title": "Managing Data at Global Scale with Richie Bachala | Behind the Data Cloud",
+    "url": "https://www.youtube.com/watch?v=EvmiNrTGZas"
+  },
+  {
+    "title": "Snowflake 101: Recovering Data with Time Travel",
+    "url": "https://www.youtube.com/watch?v=PK_C0QATV5k"
+  },
+  {
+    "title": "Mozart Lets You Orchestrate Your Data Across Your Data Stack Like a Maestro",
+    "url": "https://www.youtube.com/watch?v=S54k4J0OaRM"
+  },
+  {
+    "title": "Building ML Models in Snowflake Using Python UDFs and Snowpark | DEMO",
+    "url": "https://www.youtube.com/watch?v=NNoIVwb5X7E"
+  },
+  {
+    "title": "Discover Your Top Customers Ranked by Sales Using Snowpark and Hex",
+    "url": "https://www.youtube.com/watch?v=ZUJ0tU6QxPc"
+  },
+  {
+    "title": "Snowflake 101: What are UDFs?",
+    "url": "https://www.youtube.com/watch?v=x-P9J6M00Yw"
+  },
+  {
+    "title": "Acceldata’s Observability Platform Helps Enterprises Optimize and Manage Their Data Stacks",
+    "url": "https://www.youtube.com/watch?v=al95N0tN_AI"
+  },
+  {
+    "title": "A Conversation With Three Snowflake Partners",
+    "url": "https://www.youtube.com/watch?v=MC3Fs7QkK3I"
+  },
+  {
+    "title": "Get Started with Hex and Snowpark in Under 2 Minutes",
+    "url": "https://www.youtube.com/watch?v=XiXdF2IlGRA"
+  },
+  {
+    "title": "Snowflake 101: What is Snowpark?",
+    "url": "https://www.youtube.com/watch?v=ZzfCsmKoVQY"
+  },
+  {
+    "title": "Snowflake Shares How It Instrumented Telemetry For The Snowflake ServiceNow Connector",
+    "url": "https://www.youtube.com/watch?v=TZyt9bn42aw"
+  },
+  {
+    "title": "Unpacking The App Building Benefits Of Unistore And Native Apps",
+    "url": "https://www.youtube.com/watch?v=dd2Xg7ECFlk"
+  },
+  {
+    "title": "iPipeline Supports the Sale and Service of Life Insurance and Annuities | DEMO",
+    "url": "https://www.youtube.com/watch?v=CFiqCQvudXY"
+  },
+  {
+    "title": "How The Streamlit Team Uses Streamlit For Itself",
+    "url": "https://www.youtube.com/watch?v=xjO6c35icRE"
+  },
+  {
+    "title": "Using Snowpark For Python To Build ML Workflows: A Hands-On Lab",
+    "url": "https://www.youtube.com/watch?v=bzV6WeC-H7I"
+  },
+  {
+    "title": "Extreme Makeover: Jupyter Notebook Edition",
+    "url": "https://www.youtube.com/watch?v=TRmuEU_lRKk"
+  },
+  {
+    "title": "Best Practices for Managing the Migration from PySpark to Snowpark",
+    "url": "https://www.youtube.com/watch?v=oRtvJPk651g"
+  },
+  {
+    "title": "Creating High-Traffic Apps Using Streamlit Cloud and DuckDB",
+    "url": "https://www.youtube.com/watch?v=5W8XXicxkjo"
+  },
+  {
+    "title": "Building a Data Application with Snowflake Marketplace, Snowpark, and Streamlit",
+    "url": "https://www.youtube.com/watch?v=or0eeWIcDrg"
+  },
+  {
+    "title": "Dataiku and Snowflake Integrations Deliver Cloud-Optimized AI Solutions | DEMO",
+    "url": "https://www.youtube.com/watch?v=xit71ez4b1w"
+  },
+  {
+    "title": "Using Snowflake As A Backend For Django",
+    "url": "https://www.youtube.com/watch?v=PNR7kKAbP2U"
+  },
+  {
+    "title": "The Builders’ Data Cloud: Tapping into  the Power of Streamlit",
+    "url": "https://www.youtube.com/watch?v=482o28a8Fgc"
+  },
+  {
+    "title": "So You Want to Build a Data Startup? Join These Seasoned Venture Capitalists for a Fireside Chat",
+    "url": "https://www.youtube.com/watch?v=XCfuLfRU4dc"
+  },
+  {
+    "title": "Managing Your Snowflake Data Cloud Environment with DataOps.live  | DEMO",
+    "url": "https://www.youtube.com/watch?v=OTQUUHrN24o"
+  },
+  {
+    "title": "AMA with Product Leaders for Apps, Unistore, Streamlit, Platform, and Engine",
+    "url": "https://www.youtube.com/watch?v=W3JQSKd6DgM"
+  },
+  {
+    "title": "Building Apps with the Snowflake SQL REST API",
+    "url": "https://www.youtube.com/watch?v=elSD8hinvxg"
+  },
+  {
+    "title": "Open Source In The Data Cloud",
+    "url": "https://www.youtube.com/watch?v=gB9FU_Nk9rA"
+  },
+  {
+    "title": "How To Use git-flow With Snowpark To Build Production-grade Snowpark Apps",
+    "url": "https://www.youtube.com/watch?v=Aw-l18bMr94"
+  },
+  {
+    "title": "How To Build A Machine Learning Application Using Streamlit  | DEMO",
+    "url": "https://www.youtube.com/watch?v=eoH2NviL8cs"
+  },
+  {
+    "title": "Building A Startup Company Within the Snowflake Ecosystem",
+    "url": "https://www.youtube.com/watch?v=XM1FMXoHKZU"
+  },
+  {
+    "title": "Building A Zero-shot Learning Text Classifier | DEMO",
+    "url": "https://www.youtube.com/watch?v=o9OwCmJi_zc"
+  },
+  {
+    "title": "How Iceberg Tables Work In Snowflake | DEMO",
+    "url": "https://www.youtube.com/watch?v=T5Vms5Od3jg"
+  },
+  {
+    "title": "Startup Spotlight: Modelbit Accelerates the Deployment of ML Models",
+    "url": "https://www.youtube.com/watch?v=H-4Ob4Ehtj8"
+  },
+  {
+    "title": "Fast and Easy Python With Hex And Snowflake",
+    "url": "https://www.youtube.com/watch?v=Z-lk8ZCSnJg"
+  },
+  {
+    "title": "Using Astro To Build, Run, And Observe Data Pipelines As Code  | DEMO",
+    "url": "https://www.youtube.com/watch?v=CGi7ditA8jE"
+  },
+  {
+    "title": "Using dbt And Snowflake To Develop And Deploy Analytics Code  | LAB",
+    "url": "https://www.youtube.com/watch?v=84RA7TuhCpg"
+  },
+  {
+    "title": "Daasity Uses Snowflake to Simplify ELT for Consumer Brands",
+    "url": "https://www.youtube.com/watch?v=foVHbcthojU"
+  },
+  {
+    "title": "Fireside Chat with Benoit Dageville: Building the Next Generation of Applications",
+    "url": "https://www.youtube.com/watch?v=_ywTp9FxoC0"
+  },
+  {
+    "title": "Snowflake’s Product Leaders Discuss Iceberg Tables, Snowpark, And Streaming",
+    "url": "https://www.youtube.com/watch?v=3uZtpUrYrOA"
+  },
+  {
+    "title": "How to deploy Managed, Connected, or Snowflake Native Applications on Snowflake",
+    "url": "https://www.youtube.com/watch?v=GSMb2mIDKPo"
+  },
+  {
+    "title": "Building A Sentiment Model Using Unstructured Data | DEMO",
+    "url": "https://www.youtube.com/watch?v=0QZu3yAKxyI"
+  },
+  {
+    "title": "HOW TO: Build An Image Recognition Application With Snowpark, PyTorch, Streamlit, And DALL-E 2",
+    "url": "https://www.youtube.com/watch?v=UX6hBV5c0T0"
+  },
+  {
+    "title": "HOW TO: Build an ML Workflow with Snowflake and Amazon SageMaker | LAB | BUILD 2022",
+    "url": "https://www.youtube.com/watch?v=m0eXjwiHU8E"
+  },
+  {
+    "title": "How to Build a Streaming Data Pipeline with Snowpipe | BUILD 2022",
+    "url": "https://www.youtube.com/watch?v=WfOvyviMox4"
+  },
+  {
+    "title": "Welcome To The Snowflake Developers Channel!",
+    "url": "https://www.youtube.com/watch?v=q9JgFGVfV_0"
+  },
+  {
+    "title": "Streamlit Tutorial | Tools You Can Use to Master Streamlit",
+    "url": "https://www.youtube.com/watch?v=MJwqTOKYhl4"
+  },
+  {
+    "title": "How To Build A Streamlit App | Demo",
+    "url": "https://www.youtube.com/watch?v=c1n5iCMzr9E"
+  },
+  {
+    "title": "Streamlit Demo & High Level Overview",
+    "url": "https://www.youtube.com/watch?v=7yFh9dBtSko"
+  },
+  {
+    "title": "Powered by Snowflake Partner Panel",
+    "url": "https://www.youtube.com/watch?v=pSNpP--GB-A"
+  },
+  {
+    "title": "Snowflake BUILD 2021 Opening Keynote",
+    "url": "https://www.youtube.com/watch?v=dCF4yKSXkl8"
+  },
+  {
+    "title": "DEMO: Python On Snowflake | Snowpark",
+    "url": "https://www.youtube.com/watch?v=iq9EIC65cvA"
+  },
+  {
+    "title": "How to Configure Failover & Replication Across Clouds",
+    "url": "https://www.youtube.com/watch?v=89jyx55NBNc"
+  },
+  {
+    "title": "SaaS Pricing Model Considerations when Powered by Snowflake",
+    "url": "https://www.youtube.com/watch?v=NtyHaSu_rqE"
+  },
+  {
+    "title": "Data Programmability with Snowpark API and Java UDFs",
+    "url": "https://www.youtube.com/watch?v=dl6ie9f95Cc"
+  },
+  {
+    "title": "Unleashing the power of Java UDFs with Snowflake",
+    "url": "https://www.youtube.com/watch?v=njSbT8ArKmo"
+  },
+  {
+    "title": "HOW TO: Build With Snowpark And Java UDFs",
+    "url": "https://www.youtube.com/watch?v=w6u2S1w0DMg"
+  },
+  {
+    "title": "Loading Hacker News Into Snowflake",
+    "url": "https://www.youtube.com/watch?v=uSbidXTFhp0"
+  },
+  {
+    "title": "How to Process PII Data in Snowflake",
+    "url": "https://www.youtube.com/watch?v=nRqqjBIAqlQ"
+  },
+  {
+    "title": "HOW TO: Build Multi-Tenant Data Applications In Snowflake",
+    "url": "https://www.youtube.com/watch?v=Ig-8ZkAOtso"
+  },
+  {
+    "title": "Building modern applications with the Snowflake Data Cloud",
+    "url": "https://www.youtube.com/watch?v=mEzNBohbT4c"
+  },
+  {
+    "title": "Import Google Analytics 4 Data into Snowflake and Translate into  SQL",
+    "url": "https://www.youtube.com/watch?v=2ES2FKPD_H4"
+  },
+  {
+    "title": "Setting Up Disaster Recovery In 3 Steps | Snowflake",
+    "url": "https://www.youtube.com/watch?v=d9oSvbEkWF8"
+  },
+  {
+    "title": "How to Get Funnel Insights in Snowflake | Demo",
+    "url": "https://www.youtube.com/watch?v=BH7VjimA4uk"
+  },
+  {
+    "title": "Snowflake for Data Lakes and Beyond",
+    "url": "https://www.youtube.com/watch?v=ZZz3M383MSw"
+  },
+  {
+    "title": "Cross-Cloud Continuity Demo",
+    "url": "https://www.youtube.com/watch?v=nRXK92RS4Mk"
+  },
+  {
+    "title": "Connected Cities & Data | Vianova Built On Snowflake",
+    "url": "https://www.youtube.com/watch?v=c0c_4FxeVWQ"
+  },
+  {
+    "title": "Get From Data To Decision Faster With Snowsight",
+    "url": "https://www.youtube.com/watch?v=qdpbGAhF9Yk"
+  },
+  {
+    "title": "HOW TO: Use GitHub Actions, Terraform, and Schemachange to do CI/CD with Snowflake",
+    "url": "https://www.youtube.com/watch?v=iQzt8JK2OB8"
+  },
+  {
+    "title": "HOW TO: Build Applications with Snowflake's SQL REST API",
+    "url": "https://www.youtube.com/watch?v=s9lZpM-aV1I"
+  },
+  {
+    "title": "Lightweight Batch Streaming",
+    "url": "https://www.youtube.com/watch?v=s3v1_2VDR74"
+  },
+  {
+    "title": "Snowflake & dbtvault | Data Vault User Group",
+    "url": "https://www.youtube.com/watch?v=u3LNHgUqFg4"
+  },
+  {
+    "title": "HOW TO: Analyze Unstructured Data with Snowflake",
+    "url": "https://www.youtube.com/watch?v=8xGEp9ZFM9k"
+  },
+  {
+    "title": "Snowflake Scripting",
+    "url": "https://www.youtube.com/watch?v=QgCqudlTLLs"
+  },
+  {
+    "title": "Streamlit In Snowflake - Sneak Peek | Demo",
+    "url": "https://www.youtube.com/watch?v=MqPGjOCXgfM"
+  },
+  {
+    "title": "Learn How to Ingest and Process Streaming Data Effortlessly | Demo",
+    "url": "https://www.youtube.com/watch?v=zLNFVcHEFQs"
+  },
+  {
+    "title": "Incorporating ESG Data into your Financial Services Workflow | Demo",
+    "url": "https://www.youtube.com/watch?v=jkodpHPhcmk"
+  },
+  {
+    "title": "Building Applications Using Snowflake's Native Application Framework | Demo",
+    "url": "https://www.youtube.com/watch?v=yahLvRwsco8"
+  },
+  {
+    "title": "Leveraging Snowflake to Predict Social Determinants of Health, & Improve Patient Outcomes | Demo",
+    "url": "https://www.youtube.com/watch?v=0r83eYfqJK4"
+  },
+  {
+    "title": "Improve Subscriber Experiences and Grow Revenue with the Snowflake Media Data Cloud | Demo",
+    "url": "https://www.youtube.com/watch?v=3-ec9rrLvvY"
+  },
+  {
+    "title": "Enhance Customer Engagement With Snowflake | Demo",
+    "url": "https://www.youtube.com/watch?v=B4s0aYD-sNo"
+  },
+  {
+    "title": "Snowflake Marketplace Monetization",
+    "url": "https://www.youtube.com/watch?v=Z_StVtRiRz0"
+  },
+  {
+    "title": "Snowflake Marketplace Demo | Try Before You Buy Experience",
+    "url": "https://www.youtube.com/watch?v=Qt4-OYxjTHI"
+  },
+  {
+    "title": "Snowpark Java & Python UDFs DEMO | Under The Hood",
+    "url": "https://www.youtube.com/watch?v=tT0jCX_Bjok"
+  },
+  {
+    "title": "DEMO: Using Snowflake Snowpark As Part Of Your Machine Learning Workflow",
+    "url": "https://www.youtube.com/watch?v=f4g4NqvQ3Uk"
+  },
+  {
+    "title": "The Most Popular Languages On Reddit After Analyzing ~1M Comments",
+    "url": "https://www.youtube.com/watch?v=f_Zlz740DiU"
+  },
+  {
+    "title": "Snowflake 101: How To Install, Configure & Use SnowSQL",
+    "url": "https://www.youtube.com/watch?v=ZNxcQbENyzQ"
+  },
+  {
+    "title": "Snowflake's New Unistore Workload and Hybrid Tables | Demo",
+    "url": "https://www.youtube.com/watch?v=ZQ_zTtwMEcA"
+  },
+  {
+    "title": "The Future of Machine Learning with Tal Shaked",
+    "url": "https://www.youtube.com/watch?v=Rjz_P5lSaqk"
+  },
+  {
+    "title": "Build End-To-End Data Pipelines With Snowflake",
+    "url": "https://www.youtube.com/watch?v=u1A8gzs76fo"
+  },
+  {
+    "title": "SQL Puzzle Optimization: The UDTF Approach For A Decay Function",
+    "url": "https://www.youtube.com/watch?v=scMSnk8CodQ"
+  },
+  {
+    "title": "Cost Optimization Best Practices: Resource Monitors and Other Cost Control Features in Snowflake",
+    "url": "https://www.youtube.com/watch?v=cwDDUbNBpXE"
+  },
+  {
+    "title": "ForePaas - A Unified AI Platform built on Snowflake",
+    "url": "https://www.youtube.com/watch?v=eTKzghU_33I"
+  },
+  {
+    "title": "How Flywheel Software Is Helping Organizations Activate Customer Data On Snowflake",
+    "url": "https://www.youtube.com/watch?v=7ueb9yC-oRc"
+  },
+  {
+    "title": "How Observe Built An Observability Platform On Snowflake",
+    "url": "https://www.youtube.com/watch?v=5FdVItrtnmE"
+  },
+  {
+    "title": "How Simon Data's Platform On Snowflake Helps Acquisition & Retention Marketers Do More With Data",
+    "url": "https://www.youtube.com/watch?v=uhWaoVuraVM"
+  },
+  {
+    "title": "How Zeta built the Zeta Marketing Platform To Deliver Better Marketing Experiences",
+    "url": "https://www.youtube.com/watch?v=CDvUPx-5TxI"
+  },
+  {
+    "title": "How UiPath Powers its RPA Analytics Product with Snowflake",
+    "url": "https://www.youtube.com/watch?v=hp8Ytv5AzRE"
+  },
+  {
+    "title": "How Seismic Leveraged Snowflake To Build Insights To Fuel Their Sales Enablement Solution",
+    "url": "https://www.youtube.com/watch?v=n1BPQ5mxv7o"
+  },
+  {
+    "title": "How Monte Carlo Built A Data Reliability Platform On Snowflake",
+    "url": "https://www.youtube.com/watch?v=p-ObhLUwMsQ"
+  },
+  {
+    "title": "How Choozle Built An Advertising Platform on Snowflake",
+    "url": "https://www.youtube.com/watch?v=TpR-PT4hXNY"
+  },
+  {
+    "title": "MessageGears Connects Messaging to Live Data with Snowflake",
+    "url": "https://www.youtube.com/watch?v=QqN36rYepZA"
+  },
+  {
+    "title": "Yext Relies on Snowflake to Create User Friendly Search Experiences",
+    "url": "https://www.youtube.com/watch?v=C1uo-0x0NMo"
+  },
+  {
+    "title": "How Braze Helps Brands Use Data to Create Personalized Customer Messaging",
+    "url": "https://www.youtube.com/watch?v=3Mwqj4lZ77g"
+  },
+  {
+    "title": "Software.com Helps Improve Developer Productivity",
+    "url": "https://www.youtube.com/watch?v=WnMq_uKj6f8"
+  },
+  {
+    "title": "How Piano Helps Companies Use Captured Data to Understand Customer Behavior",
+    "url": "https://www.youtube.com/watch?v=LoAMLz8RCJ4"
+  },
+  {
+    "title": "How To Scale Threat Detection & Response With Snowflake & Securonix",
+    "url": "https://www.youtube.com/watch?v=l5dBjIOTk2s"
+  },
+  {
+    "title": "Elevate Gives Retailers a Powerful New Tool for Managing Supply Chains",
+    "url": "https://www.youtube.com/watch?v=XepW8cfDFgM"
+  },
+  {
+    "title": "Lacework Brings New Tools To Cloud Security",
+    "url": "https://www.youtube.com/watch?v=YuSkk0nnLfI"
+  },
+  {
+    "title": "Data Clean Rooms Enable Media Companies To Maximize Their Data | Demo",
+    "url": "https://www.youtube.com/watch?v=QTA8UfoR4WU"
+  },
+  {
+    "title": "Supergrain Offers Snowflake Native Messaging Solution",
+    "url": "https://www.youtube.com/watch?v=yCTopwUsxHE"
+  },
+  {
+    "title": "Panther Brings Speed, Scale, and Flexibility to Security Analytics",
+    "url": "https://www.youtube.com/watch?v=tI7949ELQJU"
+  },
+  {
+    "title": "Hightouch Helps Companies Make Maximum Use Of Their Snowflake Data",
+    "url": "https://www.youtube.com/watch?v=zZzO3WYLxOg"
+  },
+  {
+    "title": "Britive Provides a Unified Access Model Across Cloud and SaaS Platforms",
+    "url": "https://www.youtube.com/watch?v=lz803O_5wwI"
+  },
+  {
+    "title": "How A Company That’s All About Ethical Data Sharing Is Powering The World’s Biggest Brands | Acxiom",
+    "url": "https://www.youtube.com/watch?v=8tOelGU1h-o"
+  },
+  {
+    "title": "Real time Event Streaming For Customer Data | RudderStack",
+    "url": "https://www.youtube.com/watch?v=xT_YEH4YVlU"
+  },
+  {
+    "title": "Simplify Data Access Control | infoSecur",
+    "url": "https://www.youtube.com/watch?v=p0KdWRrsyjk"
+  },
+  {
+    "title": "Neustar Sets A New Bar For Accuracy In The Field Of Identity Resolutions",
+    "url": "https://www.youtube.com/watch?v=rsEivFXQS64"
+  },
+  {
+    "title": "Coherent Automates The Capture Of Spreadsheet Logic",
+    "url": "https://www.youtube.com/watch?v=X0ntbcnew9E"
+  },
+  {
+    "title": "Bridging The Gap Between Legacy Security And Modern Threat Detection | Anvilogic & Snowflake",
+    "url": "https://www.youtube.com/watch?v=AATMMH2zdB0"
+  },
+  {
+    "title": "HOW TO: Use XGBoost with Snowpark To Run 200 Forecasts In 10 Minutes with Snowflake",
+    "url": "https://www.youtube.com/watch?v=hcj4Y7Ktri8"
+  },
+  {
+    "title": "AuditBoard Leverages Snowflake To Transform The Auditing Space",
+    "url": "https://www.youtube.com/watch?v=3U606kv6dl4"
+  },
+  {
+    "title": "Jivox Delivers Personalized Digital Ads In Near Real Time",
+    "url": "https://www.youtube.com/watch?v=RzeZUtR7MHI"
+  },
+  {
+    "title": "A Quick Look At Zero Copy Cloning In Snowflake",
+    "url": "https://www.youtube.com/watch?v=uGCpwoQOQzQ"
+  }
+]
