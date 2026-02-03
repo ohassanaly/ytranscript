@@ -5,12 +5,15 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "bertopic>=0.17.4",
     "dotenv>=0.9.9",
     "google-api-python-client>=2.188.0",
     "jupyter>=1.1.1",
+    "nltk>=3.9.2",
     "notebook>=7.5.3",
     "openai-whisper>=20250625",
     "pandas>=3.0.0",
+    "wordcloud>=1.9.6",
     "youtube-transcript-api>=1.2.4",
     "yt-dlp>=2026.1.31",
 ]
