@@ -7,8 +7,12 @@ requires-python = ">=3.13"
 dependencies = [
     "bertopic>=0.17.4",
     "dotenv>=0.9.9",
+    "faiss-cpu>=1.13.2",
     "google-api-python-client>=2.188.0",
     "jupyter>=1.1.1",
+    "langchain>=1.2.8",
+    "langchain-community>=0.4.1",
+    "langchain-openai>=1.1.7",
     "nltk>=3.9.2",
     "notebook>=7.5.3",
     "openai-whisper>=20250625",
