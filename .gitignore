@@ -6,8 +6,13 @@ dist/
 wheels/
 *.egg-info
 
+#jupyter generated files
+*/.ipynb_checkpoints/
+
 # Virtual environments
 .venv
+#api keys
+.env
 
 #local downloads
-/audio
+*/audio
