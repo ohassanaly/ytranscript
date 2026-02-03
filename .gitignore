@@ -14,3 +14,6 @@ wheels/
 .venv
 #api keys
 .env
+
+#local dev
+*.log
