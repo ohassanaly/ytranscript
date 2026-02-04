@@ -1,0 +1,36 @@
+C3 AI is seeking Solution Engineers. As a Solution Engineer, you will be engineering full-stack AI-driven web applications on the C3 AI Platform. You will be working directly with our customers to design, develop, and deploy production applications, demos, and proofs-of-technology. An ideal candidate possesses strategic and analytical aptitude, software development expertise, and excellent interpersonal skills. 
+
+Responsibilities: 
+
+Develop and deploy full-stack, AI-based enterprise applications on the C3 AI Platform 
+Mentor junior team members on coding standards and design techniques 
+Conduct design and development reviews of customer software applications 
+Test, troubleshoot, and enhance customer software applications with and on behalf of customers 
+Deliver technical deep-dives, demonstrations, and customer training 
+Write application specifications and documentation 
+Continuously identify technical risks and gaps; devise mitigation strategies in anticipation of customer needs 
+Work closely with product management and engineering to drive improvements to the overall quality of C3 AI software 
+
+Qualifications: 
+
+Bachelor’s degree in a Science, Technology, Engineering or Mathematics (STEM), or comparable area of study 
+2+ years of professional software development experience with object-oriented programming languages 
+Strong verbal and written communication, and ability to work effectively on a cross-functional team 
+Analytical and problem-solving abilities 
+Organizational skills and attention to detail 
+Ability to travel as needed 
+Preferred Qualifications: 
+
+Graduate degree in Science, Technology, Engineering or Mathematics (STEM), or comparable area of study 
+Experience deploying enterprise scale applications 
+Experience working in a customer-facing role 
+Software development experience with JavaScript and Python 
+Experience with Git or other version control software 
+Experience working with JavaScript frameworks such as React, Redux, Vue, Backbone, or Angular 
+Experience deploying software to least one of the leading cloud computing platforms (i.e., GCP, AWS, Azure)
+Understanding of SQL and NoSQL databases
+Proficiency in data structure and algorithm design and implementation
+Proficiency in time-series data analysis, cleansing, and normalization
+Working knowledge of Agile software development methodology
+Solid understanding of common machine learning techniques, applications, and trade-offs
+Domain expertise in one or more of the following industries: Aerospace, Financial Services, Healthcare, Industrial Manufacturing, Oil & Gas, Public Sector, Power & Utilities, Supply Chain, Telecommunications 
