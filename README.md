@@ -19,4 +19,9 @@ To run the app, active the venv, go into channel_recommendation folder and run
 folder video_summary<br>
 Given any YouTube video URL (with a transcript available), this webapp first retrieves the text transcript using [youtube_transcript_api](https://pypi.org/project/youtube-transcript-api/)<br>
 
-Then, we ask an LLM to summarize the result.
+Then, we ask an LLM to summarize the result. <br>
+
+Later improvements include :
+- Cache management for aleady processed YouTube videos
+- Proper Logging management
+- managing IP adress restrictions for instance using Webshare(https://www.webshare.io)
