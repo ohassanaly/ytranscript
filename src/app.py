@@ -4,6 +4,14 @@ from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 import os
 import re
+import logging
+
+logging.basicConfig(
+    filename='logs/app.log', 
+    level=logging.INFO,
+    format='%(asctime)s - %(message)s',
+    datefmt='%Y-%m-%d %H:%M:%S'
+)
 
 load_dotenv()
 
@@ -43,6 +51,7 @@ channel_handle = st.text_input("Which YouTube channel are you intersted in?", va
 run = st.button("Get YT channel videos", type="primary", use_container_width=True)
 
 if run:
+    logging.info(f"Channel Handle : {channel_handle}")
     try : 
         with st.spinner(f"Retrieving {channel_handle} channel data"):
             stats, videos = get_cached_channel_data(channel_handle)
@@ -71,6 +80,7 @@ if st.session_state.channel_loaded:
     run2 = st.button("Recommend videos", type="primary", use_container_width=True)
     if run2:
         if user_text:
+            logging.info(f"Asked video recommendation : {user_text}")
             with st.spinner("Searching for relevant videos and Analyzing the results..."):
                 docs, answer = fast_rag(vectorstore, llm, user_text)
                 st.session_state.answer = answer
@@ -82,6 +92,7 @@ if st.session_state.channel_loaded:
 if st.session_state.channel_loaded & st.session_state.answer_generated:
 
     st.markdown(st.session_state.answer)
+    logging.info(f"Video recommendation generated: {st.session_state.answer}")
 
     # 1. Extract the specific URLs the LLM actually wrote in its answer
     recommended_urls = re.findall(r'https?://(?:www\.)?youtube\.com/watch\?v=[\w-]+', st.session_state.answer)
@@ -96,13 +107,16 @@ if st.session_state.channel_loaded & st.session_state.answer_generated:
 
         if st.button("Get Detailed Summary", use_container_width=True):
             target_url = video_options[selected_title]
+            logging.info(f"Summary asked for the video : {selected_title}, url : {target_url}")
             with st.spinner(f"Summarizing the video"):
                 try:
                     transcript = retrieve_video_transcript(target_url)
+                    logging.info(f"Video transcript: {transcript}")
                     # LLM call for summary
-                    res = llm.invoke(f"Summarize this video transcript: {transcript[:12000]}")
+                    res = llm.invoke(f"Summarize this video transcript: {transcript}")
                     st.info(f"**Detailed Summary: {selected_title}**")
                     st.markdown(res.content)
+                    logging.info(f"Video summary: {res.content}")
                 except Exception as e:
                     st.error(f"Error: {e}")
     else :
