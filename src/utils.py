@@ -1,3 +1,4 @@
+import logging
 import os
 import re
 
@@ -6,44 +7,52 @@ from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from youtube_transcript_api import YouTubeTranscriptApi
 
+logging.basicConfig(
+    filename="logs/errors.log",
+    level=logging.INFO,
+    format="%(asctime)s - %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+)
 
-def retrieve_channel_items(channel_handle:str):
+
+def retrieve_channel_items(channel_handle: str):
     """Given a YT channel handlen retrieves its stats and videos"""
     youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY"))
-    
-    #Step 1: Get the channel’s Uploads playlist ID
+
+    # Step 1: Get the channel’s Uploads playlist ID
     request = youtube.channels().list(
         part="contentDetails,statistics",
         forHandle=channel_handle,
-        )
-    response = request.execute()
-    uploads_playlist_id = response["items"][0]["contentDetails"]["relatedPlaylists"]["uploads"]
-    
-    #bonus get the channel statistics
-    statistics = response['items'][0]['statistics']
-    
-    #Step 2: List videos from the uploads playlist
-    videos = []
-    
-    request = youtube.playlistItems().list(
-        part="contentDetails,snippet",
-        playlistId=uploads_playlist_id,
-        maxResults=50
     )
-    
+    response = request.execute()
+    uploads_playlist_id = response["items"][0]["contentDetails"]["relatedPlaylists"][
+        "uploads"
+    ]
+
+    # bonus get the channel statistics
+    statistics = response["items"][0]["statistics"]
+
+    # Step 2: List videos from the uploads playlist
+    videos = []
+
+    request = youtube.playlistItems().list(
+        part="contentDetails,snippet", playlistId=uploads_playlist_id, maxResults=50
+    )
+
     while request:
         response = request.execute()
-    
+
         for item in response["items"]:
             title = item["snippet"]["title"]
             video_id = item["snippet"]["resourceId"]["videoId"]
             url = f"https://www.youtube.com/watch?v={video_id}"
-    
+
             videos.append({"title": title, "url": url})
-    
+
         request = youtube.playlistItems().list_next(request, response)
-    
-    return(statistics, videos)
+
+    return (statistics, videos)
+
 
 def generate_vector_store(data):
     """Generates a FAISS vector store given based on a list of videos titles"""
@@ -55,7 +64,8 @@ def generate_vector_store(data):
 
     vectorstore = FAISS.from_texts(title_list, embeddings, metadatas=metadatas)
 
-    return(vectorstore)
+    return vectorstore
+
 
 def fast_rag(vectorstore, llm, user_query, n_videos=10):
     """Performs similairity search with the vector store and analyzes the result providing an answer"""
@@ -67,8 +77,6 @@ def fast_rag(vectorstore, llm, user_query, n_videos=10):
         context_blocks.append(f"[video {i}] {content}: {url}".strip())
 
     context = "\n\n---\n\n".join(context_blocks)
-
-    print(context) #logging in terminal
 
     prompt = f"""Answer the following question using the provided videos from the YouTube channel
     Instructions:
@@ -82,7 +90,8 @@ def fast_rag(vectorstore, llm, user_query, n_videos=10):
     {context}
     """
     answer = llm.invoke(prompt).content
-    return(docs, answer)
+    return (docs, answer)
+
 
 def retrieve_video_transcript(url_or_id: str):
     """Extracts video ID and fetches the transcript as a single string."""
@@ -92,15 +101,22 @@ def retrieve_video_transcript(url_or_id: str):
         match = re.search(r"(?:v=|\/)([0-9A-Za-z_-]{11}).*", url_or_id)
         if match:
             video_id = match.group(1)
-    
+
     try:
         ytt_api = YouTubeTranscriptApi()
-        fetched_transcript  = ytt_api.fetch(video_id)
-        full_transcript=""
-        # Combine all lines into one block of text
-        for snippet in fetched_transcript.snippets:
-            full_transcript+= snippet.text + " "
+        transcript_list = ytt_api.list(video_id)
+        try:
+            transcript = transcript_list.find_transcript(["en"])
+        except Exception:
+            logging.info(
+                "No english transcript available ; looking for other languages to translate"
+            )
+            transcript = next(iter(transcript_list)).translate("en")
+        fetched_transcript = transcript.fetch()
+        full_transcript = " ".join([item["text"] for item in fetched_transcript])
         return full_transcript
     except Exception as e:
-        print(e)
-        raise Exception(f"Captions are disabled or unavailable for this video ({video_id}).") from e
+        logging.exception(f"Error fetching transcript for video ID: {video_id} ; {e}")
+        raise Exception(
+            f"Captions are disabled or unavailable for this video ({video_id})."
+        ) from e
