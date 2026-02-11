@@ -17,3 +17,6 @@ wheels/
 
 #local dev
 *.log
+
+#Windows Identifiers
+*.Identifier
