@@ -1,10 +1,16 @@
-import streamlit as st
-from utils import retrieve_channel_items, generate_vector_store, fast_rag, retrieve_video_transcript
-from langchain_openai import ChatOpenAI
-from dotenv import load_dotenv
-import os
-import re
 import logging
+import re
+
+import streamlit as st
+from dotenv import load_dotenv
+from langchain_openai import ChatOpenAI
+
+from utils import (
+    fast_rag,
+    generate_vector_store,
+    retrieve_channel_items,
+    retrieve_video_transcript,
+)
 
 logging.basicConfig(
     filename='logs/app.log', 
@@ -108,7 +114,7 @@ if st.session_state.channel_loaded & st.session_state.answer_generated:
         if st.button("Get Detailed Summary", use_container_width=True):
             target_url = video_options[selected_title]
             logging.info(f"Summary asked for the video : {selected_title}, url : {target_url}")
-            with st.spinner(f"Summarizing the video"):
+            with st.spinner(f"Summarizing the video {selected_title}"):
                 try:
                     transcript = retrieve_video_transcript(target_url)
                     logging.info(f"Video transcript: {transcript}")

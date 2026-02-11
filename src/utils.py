@@ -1,9 +1,11 @@
+import os
+import re
+
 from googleapiclient.discovery import build
 from langchain_community.vectorstores import FAISS
 from langchain_openai import OpenAIEmbeddings
 from youtube_transcript_api import YouTubeTranscriptApi
-import os
-import re
+
 
 def retrieve_channel_items(channel_handle:str):
     """Given a YT channel handlen retrieves its stats and videos"""
@@ -101,4 +103,4 @@ def retrieve_video_transcript(url_or_id: str):
         return full_transcript
     except Exception as e:
         print(e)
-        raise Exception(f"Captions are disabled or unavailable for this video ({video_id}).")
+        raise Exception(f"Captions are disabled or unavailable for this video ({video_id}).") from e

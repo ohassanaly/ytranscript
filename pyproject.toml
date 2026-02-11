@@ -1,5 +1,5 @@
 [project]
-name = "audio"
+name = "ytranscript"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
@@ -19,3 +19,27 @@ dependencies = [
     "youtube-transcript-api>=1.2.4",
     "yt-dlp>=2026.1.31",
 ]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.15.0",
+]
+
+[tool.ruff]
+line-length = 88
+target-version = "py312"
+extend-exclude = [
+    "notebooks",
+    "README.md",
+    "notebooks/*.ipynb",
+]
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "B", "UP"]
+exclude = ["README.md"]
+
+ignore = ["E501"]
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
