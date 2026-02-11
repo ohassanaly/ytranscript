@@ -34,10 +34,10 @@ How to run this project:
 
 Clone this repository (branch "general") and then :
 <br>
-`uv venv`
-`uv sync`
-`source .venv/bin/activate`
-`cd src`
-`uv run streamlit run app.py`
+`uv venv`<br>
+`uv sync`<br>
+`source .venv/bin/activate`<br>
+`cd src`<br>
+`uv run streamlit run app.py`<br>
 <br>
 Please contact me at olivierhass@gmail.com if you have any questions or remark. All contributions are welcome.
