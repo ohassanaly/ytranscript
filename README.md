@@ -24,4 +24,4 @@ Then, we ask an LLM to summarize the result. <br>
 Later improvements include :
 - Cache management for aleady processed YouTube videos
 - Proper Logging management
-- managing IP adress restrictions for instance using Webshare(https://www.webshare.io)
+- managing IP adress restrictions for instance using [Webshare](https://www.webshare.io)
