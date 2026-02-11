@@ -103,17 +103,20 @@ def retrieve_video_transcript(url_or_id: str):
             video_id = match.group(1)
 
     try:
+        full_transcript = ""
         ytt_api = YouTubeTranscriptApi()
         transcript_list = ytt_api.list(video_id)
         try:
             transcript = transcript_list.find_transcript(["en"])
         except Exception:
             logging.info(
-                "No english transcript available ; looking for other languages to translate"
+                "No english transcript available ; looking for other languages "
             )
-            transcript = next(iter(transcript_list)).translate("en")
+            transcript = next(iter(transcript_list))  # .translate("en")
+            # the translate feature seems to trigger the YT IP block ; so we rather keep the video in its native language and rely on the LLM model to translate the source transcript
         fetched_transcript = transcript.fetch()
-        full_transcript = " ".join([item["text"] for item in fetched_transcript])
+        for snippet in fetched_transcript.snippets:
+            full_transcript += snippet.text + " "
         return full_transcript
     except Exception as e:
         logging.exception(f"Error fetching transcript for video ID: {video_id} ; {e}")
