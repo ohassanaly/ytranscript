@@ -37,10 +37,6 @@ def load_llm():
     return ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
 
-# @st.cache_resource(show_spinner=False)
-# def get_docs_answer(vectorstore, llm, user_text):
-#     return fast_rag(vectorstore, llm, user_text)
-
 if "channel_loaded" not in st.session_state:
     st.session_state.channel_loaded = False
 
