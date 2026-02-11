@@ -10,7 +10,7 @@ This project is divided into 3 steps :
 
 # Retrieving all the videos of a given YouTube channel <br>
 We use Google native [YouTube Data API](https://developers.google.com/youtube/v3/docs/channels/list) to retrieve all the videos titles and URLs from a given youTube channel. <br>
-Nota : the channel is dentified using the the channel @handle<br>
+Nota : the channel is identified using the the channel @handle<br>
 
 #  Performing intelligent search among those videos to focus on a specific content <br>
 Once all the video titles of the channel retrieved, we build a vector database of these video titles. This is done using [FAISS](https://pypi.org/project/faiss-cpu/), [OpenAI](https://platform.openai.com/docs/overview) as the embedding model, and [Langchain](https://www.langchain.com/) for plumbing.<br>

@@ -50,7 +50,10 @@ st.header("YouTube channel explorer", text_alignment="center")
 col1, col2, col3 = st.columns([1, 2, 1])
 
 with col2:
-    st.image("data/yt_logo.png", width=300)
+    left, center, right = st.columns([1, 2, 1])
+    with center:
+        st.image("data/yt_logo.png", width=150)
+    # st.image("data/yt_logo.png", width=100)
 
 channel_handle = st.text_input(
     "Which YouTube channel are you interested in?", value="@"
