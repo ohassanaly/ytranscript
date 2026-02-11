@@ -1,8 +1,9 @@
 import streamlit as st
-from utils import retrieve_channel_items, generate_vector_store, fast_rag
+from utils import retrieve_channel_items, generate_vector_store, fast_rag, retrieve_video_transcript
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
 import os
+import re
 
 load_dotenv()
 
@@ -18,10 +19,17 @@ def get_vectorstore(videos):
 def load_llm():
     return ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
+# @st.cache_resource(show_spinner=False)
+# def get_docs_answer(vectorstore, llm, user_text):
+#     return fast_rag(vectorstore, llm, user_text)
+
 if "channel_loaded" not in st.session_state:
     st.session_state.channel_loaded = False
 
-st.set_page_config(page_title="YouTube Video Summarizer", page_icon="data/yt_logo.png")
+if "answer_generated" not in st.session_state:
+    st.session_state.answer_generated = False
+
+st.set_page_config(page_title="YouTube Channel Explorer", page_icon="data/yt_logo.png")
 
 st.header("YouTube channel explorer", text_alignment="center")
 
@@ -63,11 +71,39 @@ if st.session_state.channel_loaded:
     run2 = st.button("Recommend videos", type="primary", use_container_width=True)
     if run2:
         if user_text:
-            with st.spinner("Searching videos..."):
-                answer = fast_rag(vectorstore, llm, user_text)
-                st.markdown(answer)
+            with st.spinner("Searching for relevant videos and Analyzing the results..."):
+                docs, answer = fast_rag(vectorstore, llm, user_text)
+                st.session_state.answer = answer
+                st.session_state.docs = docs
+                st.session_state.answer_generated = True
         else: 
             st.warning("Please enter a question first.")
 
+if st.session_state.channel_loaded & st.session_state.answer_generated:
 
+    st.markdown(st.session_state.answer)
 
+    # 1. Extract the specific URLs the LLM actually wrote in its answer
+    recommended_urls = re.findall(r'https?://(?:www\.)?youtube\.com/watch\?v=[\w-]+', st.session_state.answer)
+
+    video_options = {d.page_content: d.metadata["url"] for d in st.session_state.docs if d.metadata["url"] in recommended_urls}
+
+    st.divider()
+    st.subheader("Video summary")
+
+    if video_options:
+        selected_title = st.selectbox("Choose a video", list(video_options.keys()))
+
+        if st.button("Get Detailed Summary", use_container_width=True):
+            target_url = video_options[selected_title]
+            with st.spinner(f"Summarizing the video"):
+                try:
+                    transcript = retrieve_video_transcript(target_url)
+                    # LLM call for summary
+                    res = llm.invoke(f"Summarize this video transcript: {transcript[:12000]}")
+                    st.info(f"**Detailed Summary: {selected_title}**")
+                    st.markdown(res.content)
+                except Exception as e:
+                    st.error(f"Error: {e}")
+    else :
+        st.write("No specific videos were recommended for this query.")

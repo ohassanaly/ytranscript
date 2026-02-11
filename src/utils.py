@@ -1,10 +1,12 @@
 from googleapiclient.discovery import build
 from langchain_community.vectorstores import FAISS
-from langchain_openai import OpenAIEmbeddings, ChatOpenAI
+from langchain_openai import OpenAIEmbeddings
+from youtube_transcript_api import YouTubeTranscriptApi
 import os
+import re
 
 def retrieve_channel_items(channel_handle:str):
-    
+    """Given a YT channel handlen retrieves its stats and videos"""
     youtube = build("youtube", "v3", developerKey=os.getenv("YOUTUBE_API_KEY"))
     
     #Step 1: Get the channel’s Uploads playlist ID
@@ -42,7 +44,7 @@ def retrieve_channel_items(channel_handle:str):
     return(statistics, videos)
 
 def generate_vector_store(data):
-
+    """Generates a FAISS vector store given based on a list of videos titles"""
     title_list = [item["title"] for item in data]
     url_list = [item["url"] for item in data]
     metadatas = [{"url": url} for url in url_list]
@@ -54,6 +56,7 @@ def generate_vector_store(data):
     return(vectorstore)
 
 def fast_rag(vectorstore, llm, user_query, n_videos=10):
+    """Performs similairity search with the vector store and analyzes the result providing an answer"""
     docs = vectorstore.similarity_search(user_query, k=n_videos)
     context_blocks = []
     for i, d in enumerate(docs, 1):
@@ -77,4 +80,25 @@ def fast_rag(vectorstore, llm, user_query, n_videos=10):
     {context}
     """
     answer = llm.invoke(prompt).content
-    return(answer)
+    return(docs, answer)
+
+def retrieve_video_transcript(url_or_id: str):
+    """Extracts video ID and fetches the transcript as a single string."""
+    # Extract video ID from URL if necessary
+    video_id = url_or_id
+    if "youtube.com" in url_or_id or "youtu.be" in url_or_id:
+        match = re.search(r"(?:v=|\/)([0-9A-Za-z_-]{11}).*", url_or_id)
+        if match:
+            video_id = match.group(1)
+    
+    try:
+        ytt_api = YouTubeTranscriptApi()
+        fetched_transcript  = ytt_api.fetch(video_id)
+        full_transcript=""
+        # Combine all lines into one block of text
+        for snippet in fetched_transcript.snippets:
+            full_transcript+= snippet.text + " "
+        return full_transcript
+    except Exception as e:
+        print(e)
+        raise Exception(f"Captions are disabled or unavailable for this video ({video_id}).")
