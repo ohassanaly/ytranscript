@@ -27,3 +27,17 @@ __________________________
 The main issue encountered at this point is YouTube blocking requests from my IP when doing too much requests. This is documented in the "Working around IP bans" section of [youtube_transcript_api](https://pypi.org/project/youtube-transcript-api/). The suggested solution  involves buying a proxy on [Webshare](https://www.webshare.io). <br>
  
 On the technical level, cache management and logging were implemented. <br>
+
+__________________________
+
+How to run this project:
+
+Clone this repository (branch "general") and then :
+<br>
+`uv venv`
+`uv sync`
+`source .venv/bin/activate`
+`cd src`
+`uv run streamlit run app.py`
+<br>
+Please contact me at olivierhass@gmail.com if you have any questions or remark. All contributions are welcome.
